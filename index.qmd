@@ -1,0 +1,66 @@
+---
+title: "ggsci iterm palettes"
+author: "Nan Xiao"
+date: "last-modified"
+description: Previewing all available (400+!) iterm color palettes in ggsci.
+title-block-banner: "#4c71aa"
+---
+
+```{r, include=FALSE}
+knitr::knit_hooks$set(pngquant = knitr::hook_pngquant)
+
+knitr::opts_chunk$set(
+  message = FALSE,
+  collapse = TRUE,
+  comment = "#>",
+  dev = "ragg_png",
+  dpi = 72,
+  fig.retina = 2,
+  fig.width = 10.6667,
+  fig.height = 3.3334,
+  fig.align = "center",
+  out.width = "100%",
+  pngquant = "--speed=1 --quality=50"
+)
+```
+
+Set up example plots:
+
+```{r, warning=FALSE, message=FALSE}
+library("ggsci")
+library("ggplot2")
+library("gridExtra")
+```
+
+```{r}
+p1 <- example_scatterplot()
+p2 <- example_barplot()
+```
+
+::: {.callout-note}
+Only the "normal" variant of each palette at the default `alpha = 1`
+will be displayed. You can use
+
+```r
+scale_color_iterm("...", variant = "bright")
+scale_fill_iterm("...", variant = "bright")
+```
+
+to try the bright variant. Not every palette has a functionally different bright variant, although many do.
+:::
+
+## 0x96f
+
+```{r, ggsci-iterm-0x96f}
+p1 <- p1 + scale_color_iterm("0x96f")
+p2 <- p2 + scale_fill_iterm("0x96f")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## 12-bit Rainbow
+
+```{r, ggsci-iterm-12-bit-rainbow}
+p1 <- p1 + scale_color_iterm("12-bit Rainbow")
+p2 <- p2 + scale_fill_iterm("12-bit Rainbow")
+grid.arrange(p1, p2, ncol = 2)
+```

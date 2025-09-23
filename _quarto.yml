@@ -1,0 +1,12 @@
+project:
+  type: website
+
+format:
+  html:
+    theme: default
+    toc: true
+    highlight-style: monochrome
+
+website:
+  repo-url: https://github.com/nanxstats/ggsci-iterm
+  repo-actions: [issue, source]
