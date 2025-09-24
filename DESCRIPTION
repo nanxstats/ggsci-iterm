@@ -1,0 +1,12 @@
+Type: Book
+Package: ggsci.iterm
+Title: Preview All 'iTerm' Color Palettes in 'ggsci'
+Version: 0.1.0
+Imports:
+    ggsci,
+    ggplot2,
+    gridExtra,
+    downlit,
+    xml2,
+    quarto
+Encoding: UTF-8
