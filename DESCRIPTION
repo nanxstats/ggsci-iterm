@@ -6,6 +6,7 @@ Imports:
     ggsci,
     ggplot2,
     gridExtra,
+    ragg,
     downlit,
     xml2,
     quarto
