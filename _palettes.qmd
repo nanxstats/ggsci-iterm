@@ -1,0 +1,3480 @@
+## 0x96f
+
+```{r, ggsci-iterm-0x96f}
+p1 <- p1 + scale_color_iterm("0x96f")
+p2 <- p2 + scale_fill_iterm("0x96f")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## 12-bit Rainbow
+
+```{r, ggsci-iterm-12-bit-rainbow}
+p1 <- p1 + scale_color_iterm("12-bit Rainbow")
+p2 <- p2 + scale_fill_iterm("12-bit Rainbow")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## 3024 Day
+
+```{r, ggsci-iterm-3024-day}
+p1 <- p1 + scale_color_iterm("3024 Day")
+p2 <- p2 + scale_fill_iterm("3024 Day")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## 3024 Night
+
+```{r, ggsci-iterm-3024-night}
+p1 <- p1 + scale_color_iterm("3024 Night")
+p2 <- p2 + scale_fill_iterm("3024 Night")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Aardvark Blue
+
+```{r, ggsci-iterm-aardvark-blue}
+p1 <- p1 + scale_color_iterm("Aardvark Blue")
+p2 <- p2 + scale_fill_iterm("Aardvark Blue")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Abernathy
+
+```{r, ggsci-iterm-abernathy}
+p1 <- p1 + scale_color_iterm("Abernathy")
+p2 <- p2 + scale_fill_iterm("Abernathy")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Adventure Time
+
+```{r, ggsci-iterm-adventure-time}
+p1 <- p1 + scale_color_iterm("Adventure Time")
+p2 <- p2 + scale_fill_iterm("Adventure Time")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Adventure
+
+```{r, ggsci-iterm-adventure}
+p1 <- p1 + scale_color_iterm("Adventure")
+p2 <- p2 + scale_fill_iterm("Adventure")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Adwaita Dark
+
+```{r, ggsci-iterm-adwaita-dark}
+p1 <- p1 + scale_color_iterm("Adwaita Dark")
+p2 <- p2 + scale_fill_iterm("Adwaita Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Adwaita
+
+```{r, ggsci-iterm-adwaita}
+p1 <- p1 + scale_color_iterm("Adwaita")
+p2 <- p2 + scale_fill_iterm("Adwaita")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Afterglow
+
+```{r, ggsci-iterm-afterglow}
+p1 <- p1 + scale_color_iterm("Afterglow")
+p2 <- p2 + scale_fill_iterm("Afterglow")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Alabaster
+
+```{r, ggsci-iterm-alabaster}
+p1 <- p1 + scale_color_iterm("Alabaster")
+p2 <- p2 + scale_fill_iterm("Alabaster")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Alien Blood
+
+```{r, ggsci-iterm-alien-blood}
+p1 <- p1 + scale_color_iterm("Alien Blood")
+p2 <- p2 + scale_fill_iterm("Alien Blood")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Andromeda
+
+```{r, ggsci-iterm-andromeda}
+p1 <- p1 + scale_color_iterm("Andromeda")
+p2 <- p2 + scale_fill_iterm("Andromeda")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Apple Classic
+
+```{r, ggsci-iterm-apple-classic}
+p1 <- p1 + scale_color_iterm("Apple Classic")
+p2 <- p2 + scale_fill_iterm("Apple Classic")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Apple System Colors Light
+
+```{r, ggsci-iterm-apple-system-colors-light}
+p1 <- p1 + scale_color_iterm("Apple System Colors Light")
+p2 <- p2 + scale_fill_iterm("Apple System Colors Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Apple System Colors
+
+```{r, ggsci-iterm-apple-system-colors}
+p1 <- p1 + scale_color_iterm("Apple System Colors")
+p2 <- p2 + scale_fill_iterm("Apple System Colors")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Arcoiris
+
+```{r, ggsci-iterm-arcoiris}
+p1 <- p1 + scale_color_iterm("Arcoiris")
+p2 <- p2 + scale_fill_iterm("Arcoiris")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Ardoise
+
+```{r, ggsci-iterm-ardoise}
+p1 <- p1 + scale_color_iterm("Ardoise")
+p2 <- p2 + scale_fill_iterm("Ardoise")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Argonaut
+
+```{r, ggsci-iterm-argonaut}
+p1 <- p1 + scale_color_iterm("Argonaut")
+p2 <- p2 + scale_fill_iterm("Argonaut")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Arthur
+
+```{r, ggsci-iterm-arthur}
+p1 <- p1 + scale_color_iterm("Arthur")
+p2 <- p2 + scale_fill_iterm("Arthur")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Atelier Sulphurpool
+
+```{r, ggsci-iterm-atelier-sulphurpool}
+p1 <- p1 + scale_color_iterm("Atelier Sulphurpool")
+p2 <- p2 + scale_fill_iterm("Atelier Sulphurpool")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Atom One Dark
+
+```{r, ggsci-iterm-atom-one-dark}
+p1 <- p1 + scale_color_iterm("Atom One Dark")
+p2 <- p2 + scale_fill_iterm("Atom One Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Atom One Light
+
+```{r, ggsci-iterm-atom-one-light}
+p1 <- p1 + scale_color_iterm("Atom One Light")
+p2 <- p2 + scale_fill_iterm("Atom One Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Atom
+
+```{r, ggsci-iterm-atom}
+p1 <- p1 + scale_color_iterm("Atom")
+p2 <- p2 + scale_fill_iterm("Atom")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Aura
+
+```{r, ggsci-iterm-aura}
+p1 <- p1 + scale_color_iterm("Aura")
+p2 <- p2 + scale_fill_iterm("Aura")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Aurora
+
+```{r, ggsci-iterm-aurora}
+p1 <- p1 + scale_color_iterm("Aurora")
+p2 <- p2 + scale_fill_iterm("Aurora")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Ayu Light
+
+```{r, ggsci-iterm-ayu-light}
+p1 <- p1 + scale_color_iterm("Ayu Light")
+p2 <- p2 + scale_fill_iterm("Ayu Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Ayu Mirage
+
+```{r, ggsci-iterm-ayu-mirage}
+p1 <- p1 + scale_color_iterm("Ayu Mirage")
+p2 <- p2 + scale_fill_iterm("Ayu Mirage")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Ayu
+
+```{r, ggsci-iterm-ayu}
+p1 <- p1 + scale_color_iterm("Ayu")
+p2 <- p2 + scale_fill_iterm("Ayu")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Banana Blueberry
+
+```{r, ggsci-iterm-banana-blueberry}
+p1 <- p1 + scale_color_iterm("Banana Blueberry")
+p2 <- p2 + scale_fill_iterm("Banana Blueberry")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Batman
+
+```{r, ggsci-iterm-batman}
+p1 <- p1 + scale_color_iterm("Batman")
+p2 <- p2 + scale_fill_iterm("Batman")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Belafonte Day
+
+```{r, ggsci-iterm-belafonte-day}
+p1 <- p1 + scale_color_iterm("Belafonte Day")
+p2 <- p2 + scale_fill_iterm("Belafonte Day")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Belafonte Night
+
+```{r, ggsci-iterm-belafonte-night}
+p1 <- p1 + scale_color_iterm("Belafonte Night")
+p2 <- p2 + scale_fill_iterm("Belafonte Night")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Birds Of Paradise
+
+```{r, ggsci-iterm-birds-of-paradise}
+p1 <- p1 + scale_color_iterm("Birds Of Paradise")
+p2 <- p2 + scale_fill_iterm("Birds Of Paradise")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Black Metal (Bathory)
+
+```{r, ggsci-iterm-black-metal-bathory}
+p1 <- p1 + scale_color_iterm("Black Metal (Bathory)")
+p2 <- p2 + scale_fill_iterm("Black Metal (Bathory)")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Black Metal (Burzum)
+
+```{r, ggsci-iterm-black-metal-burzum}
+p1 <- p1 + scale_color_iterm("Black Metal (Burzum)")
+p2 <- p2 + scale_fill_iterm("Black Metal (Burzum)")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Black Metal (Dark Funeral)
+
+```{r, ggsci-iterm-black-metal-dark-funeral}
+p1 <- p1 + scale_color_iterm("Black Metal (Dark Funeral)")
+p2 <- p2 + scale_fill_iterm("Black Metal (Dark Funeral)")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Black Metal (Gorgoroth)
+
+```{r, ggsci-iterm-black-metal-gorgoroth}
+p1 <- p1 + scale_color_iterm("Black Metal (Gorgoroth)")
+p2 <- p2 + scale_fill_iterm("Black Metal (Gorgoroth)")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Black Metal (Immortal)
+
+```{r, ggsci-iterm-black-metal-immortal}
+p1 <- p1 + scale_color_iterm("Black Metal (Immortal)")
+p2 <- p2 + scale_fill_iterm("Black Metal (Immortal)")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Black Metal (Khold)
+
+```{r, ggsci-iterm-black-metal-khold}
+p1 <- p1 + scale_color_iterm("Black Metal (Khold)")
+p2 <- p2 + scale_fill_iterm("Black Metal (Khold)")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Black Metal (Marduk)
+
+```{r, ggsci-iterm-black-metal-marduk}
+p1 <- p1 + scale_color_iterm("Black Metal (Marduk)")
+p2 <- p2 + scale_fill_iterm("Black Metal (Marduk)")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Black Metal (Mayhem)
+
+```{r, ggsci-iterm-black-metal-mayhem}
+p1 <- p1 + scale_color_iterm("Black Metal (Mayhem)")
+p2 <- p2 + scale_fill_iterm("Black Metal (Mayhem)")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Black Metal (Nile)
+
+```{r, ggsci-iterm-black-metal-nile}
+p1 <- p1 + scale_color_iterm("Black Metal (Nile)")
+p2 <- p2 + scale_fill_iterm("Black Metal (Nile)")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Black Metal (Venom)
+
+```{r, ggsci-iterm-black-metal-venom}
+p1 <- p1 + scale_color_iterm("Black Metal (Venom)")
+p2 <- p2 + scale_fill_iterm("Black Metal (Venom)")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Black Metal
+
+```{r, ggsci-iterm-black-metal}
+p1 <- p1 + scale_color_iterm("Black Metal")
+p2 <- p2 + scale_fill_iterm("Black Metal")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Blazer
+
+```{r, ggsci-iterm-blazer}
+p1 <- p1 + scale_color_iterm("Blazer")
+p2 <- p2 + scale_fill_iterm("Blazer")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Blue Berry Pie
+
+```{r, ggsci-iterm-blue-berry-pie}
+p1 <- p1 + scale_color_iterm("Blue Berry Pie")
+p2 <- p2 + scale_fill_iterm("Blue Berry Pie")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Blue Dolphin
+
+```{r, ggsci-iterm-blue-dolphin}
+p1 <- p1 + scale_color_iterm("Blue Dolphin")
+p2 <- p2 + scale_fill_iterm("Blue Dolphin")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Blue Matrix
+
+```{r, ggsci-iterm-blue-matrix}
+p1 <- p1 + scale_color_iterm("Blue Matrix")
+p2 <- p2 + scale_fill_iterm("Blue Matrix")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Bluloco Dark
+
+```{r, ggsci-iterm-bluloco-dark}
+p1 <- p1 + scale_color_iterm("Bluloco Dark")
+p2 <- p2 + scale_fill_iterm("Bluloco Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Bluloco Light
+
+```{r, ggsci-iterm-bluloco-light}
+p1 <- p1 + scale_color_iterm("Bluloco Light")
+p2 <- p2 + scale_fill_iterm("Bluloco Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Borland
+
+```{r, ggsci-iterm-borland}
+p1 <- p1 + scale_color_iterm("Borland")
+p2 <- p2 + scale_fill_iterm("Borland")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Box
+
+```{r, ggsci-iterm-box}
+p1 <- p1 + scale_color_iterm("Box")
+p2 <- p2 + scale_fill_iterm("Box")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Breadog
+
+```{r, ggsci-iterm-breadog}
+p1 <- p1 + scale_color_iterm("Breadog")
+p2 <- p2 + scale_fill_iterm("Breadog")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Breeze
+
+```{r, ggsci-iterm-breeze}
+p1 <- p1 + scale_color_iterm("Breeze")
+p2 <- p2 + scale_fill_iterm("Breeze")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Bright Lights
+
+```{r, ggsci-iterm-bright-lights}
+p1 <- p1 + scale_color_iterm("Bright Lights")
+p2 <- p2 + scale_fill_iterm("Bright Lights")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Broadcast
+
+```{r, ggsci-iterm-broadcast}
+p1 <- p1 + scale_color_iterm("Broadcast")
+p2 <- p2 + scale_fill_iterm("Broadcast")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Brogrammer
+
+```{r, ggsci-iterm-brogrammer}
+p1 <- p1 + scale_color_iterm("Brogrammer")
+p2 <- p2 + scale_fill_iterm("Brogrammer")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Builtin Dark
+
+```{r, ggsci-iterm-builtin-dark}
+p1 <- p1 + scale_color_iterm("Builtin Dark")
+p2 <- p2 + scale_fill_iterm("Builtin Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Builtin Light
+
+```{r, ggsci-iterm-builtin-light}
+p1 <- p1 + scale_color_iterm("Builtin Light")
+p2 <- p2 + scale_fill_iterm("Builtin Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Builtin Pastel Dark
+
+```{r, ggsci-iterm-builtin-pastel-dark}
+p1 <- p1 + scale_color_iterm("Builtin Pastel Dark")
+p2 <- p2 + scale_fill_iterm("Builtin Pastel Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Builtin Solarized Dark
+
+```{r, ggsci-iterm-builtin-solarized-dark}
+p1 <- p1 + scale_color_iterm("Builtin Solarized Dark")
+p2 <- p2 + scale_fill_iterm("Builtin Solarized Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Builtin Solarized Light
+
+```{r, ggsci-iterm-builtin-solarized-light}
+p1 <- p1 + scale_color_iterm("Builtin Solarized Light")
+p2 <- p2 + scale_fill_iterm("Builtin Solarized Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Builtin Tango Dark
+
+```{r, ggsci-iterm-builtin-tango-dark}
+p1 <- p1 + scale_color_iterm("Builtin Tango Dark")
+p2 <- p2 + scale_fill_iterm("Builtin Tango Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Builtin Tango Light
+
+```{r, ggsci-iterm-builtin-tango-light}
+p1 <- p1 + scale_color_iterm("Builtin Tango Light")
+p2 <- p2 + scale_fill_iterm("Builtin Tango Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## C64
+
+```{r, ggsci-iterm-c64}
+p1 <- p1 + scale_color_iterm("C64")
+p2 <- p2 + scale_fill_iterm("C64")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Calamity
+
+```{r, ggsci-iterm-calamity}
+p1 <- p1 + scale_color_iterm("Calamity")
+p2 <- p2 + scale_fill_iterm("Calamity")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Carbonfox
+
+```{r, ggsci-iterm-carbonfox}
+p1 <- p1 + scale_color_iterm("Carbonfox")
+p2 <- p2 + scale_fill_iterm("Carbonfox")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Catppuccin Frappe
+
+```{r, ggsci-iterm-catppuccin-frappe}
+p1 <- p1 + scale_color_iterm("Catppuccin Frappe")
+p2 <- p2 + scale_fill_iterm("Catppuccin Frappe")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Catppuccin Latte
+
+```{r, ggsci-iterm-catppuccin-latte}
+p1 <- p1 + scale_color_iterm("Catppuccin Latte")
+p2 <- p2 + scale_fill_iterm("Catppuccin Latte")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Catppuccin Macchiato
+
+```{r, ggsci-iterm-catppuccin-macchiato}
+p1 <- p1 + scale_color_iterm("Catppuccin Macchiato")
+p2 <- p2 + scale_fill_iterm("Catppuccin Macchiato")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Catppuccin Mocha
+
+```{r, ggsci-iterm-catppuccin-mocha}
+p1 <- p1 + scale_color_iterm("Catppuccin Mocha")
+p2 <- p2 + scale_fill_iterm("Catppuccin Mocha")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## CGA
+
+```{r, ggsci-iterm-cga}
+p1 <- p1 + scale_color_iterm("CGA")
+p2 <- p2 + scale_fill_iterm("CGA")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Chalk
+
+```{r, ggsci-iterm-chalk}
+p1 <- p1 + scale_color_iterm("Chalk")
+p2 <- p2 + scale_fill_iterm("Chalk")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Chalkboard
+
+```{r, ggsci-iterm-chalkboard}
+p1 <- p1 + scale_color_iterm("Chalkboard")
+p2 <- p2 + scale_fill_iterm("Chalkboard")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Challenger Deep
+
+```{r, ggsci-iterm-challenger-deep}
+p1 <- p1 + scale_color_iterm("Challenger Deep")
+p2 <- p2 + scale_fill_iterm("Challenger Deep")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Chester
+
+```{r, ggsci-iterm-chester}
+p1 <- p1 + scale_color_iterm("Chester")
+p2 <- p2 + scale_fill_iterm("Chester")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Ciapre
+
+```{r, ggsci-iterm-ciapre}
+p1 <- p1 + scale_color_iterm("Ciapre")
+p2 <- p2 + scale_fill_iterm("Ciapre")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Citruszest
+
+```{r, ggsci-iterm-citruszest}
+p1 <- p1 + scale_color_iterm("Citruszest")
+p2 <- p2 + scale_fill_iterm("Citruszest")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## CLRS
+
+```{r, ggsci-iterm-clrs}
+p1 <- p1 + scale_color_iterm("CLRS")
+p2 <- p2 + scale_fill_iterm("CLRS")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Cobalt Neon
+
+```{r, ggsci-iterm-cobalt-neon}
+p1 <- p1 + scale_color_iterm("Cobalt Neon")
+p2 <- p2 + scale_fill_iterm("Cobalt Neon")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Cobalt Next Dark
+
+```{r, ggsci-iterm-cobalt-next-dark}
+p1 <- p1 + scale_color_iterm("Cobalt Next Dark")
+p2 <- p2 + scale_fill_iterm("Cobalt Next Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Cobalt Next Minimal
+
+```{r, ggsci-iterm-cobalt-next-minimal}
+p1 <- p1 + scale_color_iterm("Cobalt Next Minimal")
+p2 <- p2 + scale_fill_iterm("Cobalt Next Minimal")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Cobalt Next
+
+```{r, ggsci-iterm-cobalt-next}
+p1 <- p1 + scale_color_iterm("Cobalt Next")
+p2 <- p2 + scale_fill_iterm("Cobalt Next")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Cobalt2
+
+```{r, ggsci-iterm-cobalt2}
+p1 <- p1 + scale_color_iterm("Cobalt2")
+p2 <- p2 + scale_fill_iterm("Cobalt2")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Coffee Theme
+
+```{r, ggsci-iterm-coffee-theme}
+p1 <- p1 + scale_color_iterm("Coffee Theme")
+p2 <- p2 + scale_fill_iterm("Coffee Theme")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Crayon Pony Fish
+
+```{r, ggsci-iterm-crayon-pony-fish}
+p1 <- p1 + scale_color_iterm("Crayon Pony Fish")
+p2 <- p2 + scale_fill_iterm("Crayon Pony Fish")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Cursor Dark
+
+```{r, ggsci-iterm-cursor-dark}
+p1 <- p1 + scale_color_iterm("Cursor Dark")
+p2 <- p2 + scale_fill_iterm("Cursor Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Cutie Pro
+
+```{r, ggsci-iterm-cutie-pro}
+p1 <- p1 + scale_color_iterm("Cutie Pro")
+p2 <- p2 + scale_fill_iterm("Cutie Pro")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Cyberdyne
+
+```{r, ggsci-iterm-cyberdyne}
+p1 <- p1 + scale_color_iterm("Cyberdyne")
+p2 <- p2 + scale_fill_iterm("Cyberdyne")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Cyberpunk Scarlet Protocol
+
+```{r, ggsci-iterm-cyberpunk-scarlet-protocol}
+p1 <- p1 + scale_color_iterm("Cyberpunk Scarlet Protocol")
+p2 <- p2 + scale_fill_iterm("Cyberpunk Scarlet Protocol")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Cyberpunk
+
+```{r, ggsci-iterm-cyberpunk}
+p1 <- p1 + scale_color_iterm("Cyberpunk")
+p2 <- p2 + scale_fill_iterm("Cyberpunk")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Dark Modern
+
+```{r, ggsci-iterm-dark-modern}
+p1 <- p1 + scale_color_iterm("Dark Modern")
+p2 <- p2 + scale_fill_iterm("Dark Modern")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Dark Pastel
+
+```{r, ggsci-iterm-dark-pastel}
+p1 <- p1 + scale_color_iterm("Dark Pastel")
+p2 <- p2 + scale_fill_iterm("Dark Pastel")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Dark+
+
+```{r, ggsci-iterm-dark-plus}
+p1 <- p1 + scale_color_iterm("Dark+")
+p2 <- p2 + scale_fill_iterm("Dark+")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Darkermatrix
+
+```{r, ggsci-iterm-darkermatrix}
+p1 <- p1 + scale_color_iterm("Darkermatrix")
+p2 <- p2 + scale_fill_iterm("Darkermatrix")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Darkmatrix
+
+```{r, ggsci-iterm-darkmatrix}
+p1 <- p1 + scale_color_iterm("Darkmatrix")
+p2 <- p2 + scale_fill_iterm("Darkmatrix")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Darkside
+
+```{r, ggsci-iterm-darkside}
+p1 <- p1 + scale_color_iterm("Darkside")
+p2 <- p2 + scale_fill_iterm("Darkside")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Dawnfox
+
+```{r, ggsci-iterm-dawnfox}
+p1 <- p1 + scale_color_iterm("Dawnfox")
+p2 <- p2 + scale_fill_iterm("Dawnfox")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Dayfox
+
+```{r, ggsci-iterm-dayfox}
+p1 <- p1 + scale_color_iterm("Dayfox")
+p2 <- p2 + scale_fill_iterm("Dayfox")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Deep
+
+```{r, ggsci-iterm-deep}
+p1 <- p1 + scale_color_iterm("Deep")
+p2 <- p2 + scale_fill_iterm("Deep")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Desert
+
+```{r, ggsci-iterm-desert}
+p1 <- p1 + scale_color_iterm("Desert")
+p2 <- p2 + scale_fill_iterm("Desert")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Detuned
+
+```{r, ggsci-iterm-detuned}
+p1 <- p1 + scale_color_iterm("Detuned")
+p2 <- p2 + scale_fill_iterm("Detuned")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Dimidium
+
+```{r, ggsci-iterm-dimidium}
+p1 <- p1 + scale_color_iterm("Dimidium")
+p2 <- p2 + scale_fill_iterm("Dimidium")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Dimmed Monokai
+
+```{r, ggsci-iterm-dimmed-monokai}
+p1 <- p1 + scale_color_iterm("Dimmed Monokai")
+p2 <- p2 + scale_fill_iterm("Dimmed Monokai")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Django Reborn Again
+
+```{r, ggsci-iterm-django-reborn-again}
+p1 <- p1 + scale_color_iterm("Django Reborn Again")
+p2 <- p2 + scale_fill_iterm("Django Reborn Again")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Django Smooth
+
+```{r, ggsci-iterm-django-smooth}
+p1 <- p1 + scale_color_iterm("Django Smooth")
+p2 <- p2 + scale_fill_iterm("Django Smooth")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Django
+
+```{r, ggsci-iterm-django}
+p1 <- p1 + scale_color_iterm("Django")
+p2 <- p2 + scale_fill_iterm("Django")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Doom One
+
+```{r, ggsci-iterm-doom-one}
+p1 <- p1 + scale_color_iterm("Doom One")
+p2 <- p2 + scale_fill_iterm("Doom One")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Doom Peacock
+
+```{r, ggsci-iterm-doom-peacock}
+p1 <- p1 + scale_color_iterm("Doom Peacock")
+p2 <- p2 + scale_fill_iterm("Doom Peacock")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Dot Gov
+
+```{r, ggsci-iterm-dot-gov}
+p1 <- p1 + scale_color_iterm("Dot Gov")
+p2 <- p2 + scale_fill_iterm("Dot Gov")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Dracula
+
+```{r, ggsci-iterm-dracula}
+p1 <- p1 + scale_color_iterm("Dracula")
+p2 <- p2 + scale_fill_iterm("Dracula")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Dracula+
+
+```{r, ggsci-iterm-dracula-plus}
+p1 <- p1 + scale_color_iterm("Dracula+")
+p2 <- p2 + scale_fill_iterm("Dracula+")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Duckbones
+
+```{r, ggsci-iterm-duckbones}
+p1 <- p1 + scale_color_iterm("Duckbones")
+p2 <- p2 + scale_fill_iterm("Duckbones")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Duotone Dark
+
+```{r, ggsci-iterm-duotone-dark}
+p1 <- p1 + scale_color_iterm("Duotone Dark")
+p2 <- p2 + scale_fill_iterm("Duotone Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Duskfox
+
+```{r, ggsci-iterm-duskfox}
+p1 <- p1 + scale_color_iterm("Duskfox")
+p2 <- p2 + scale_fill_iterm("Duskfox")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Earthsong
+
+```{r, ggsci-iterm-earthsong}
+p1 <- p1 + scale_color_iterm("Earthsong")
+p2 <- p2 + scale_fill_iterm("Earthsong")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Electron Highlighter
+
+```{r, ggsci-iterm-electron-highlighter}
+p1 <- p1 + scale_color_iterm("Electron Highlighter")
+p2 <- p2 + scale_fill_iterm("Electron Highlighter")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Elegant
+
+```{r, ggsci-iterm-elegant}
+p1 <- p1 + scale_color_iterm("Elegant")
+p2 <- p2 + scale_fill_iterm("Elegant")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Elemental
+
+```{r, ggsci-iterm-elemental}
+p1 <- p1 + scale_color_iterm("Elemental")
+p2 <- p2 + scale_fill_iterm("Elemental")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Elementary
+
+```{r, ggsci-iterm-elementary}
+p1 <- p1 + scale_color_iterm("Elementary")
+p2 <- p2 + scale_fill_iterm("Elementary")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Embark
+
+```{r, ggsci-iterm-embark}
+p1 <- p1 + scale_color_iterm("Embark")
+p2 <- p2 + scale_fill_iterm("Embark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Embers Dark
+
+```{r, ggsci-iterm-embers-dark}
+p1 <- p1 + scale_color_iterm("Embers Dark")
+p2 <- p2 + scale_fill_iterm("Embers Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## ENCOM
+
+```{r, ggsci-iterm-encom}
+p1 <- p1 + scale_color_iterm("ENCOM")
+p2 <- p2 + scale_fill_iterm("ENCOM")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Espresso Libre
+
+```{r, ggsci-iterm-espresso-libre}
+p1 <- p1 + scale_color_iterm("Espresso Libre")
+p2 <- p2 + scale_fill_iterm("Espresso Libre")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Espresso
+
+```{r, ggsci-iterm-espresso}
+p1 <- p1 + scale_color_iterm("Espresso")
+p2 <- p2 + scale_fill_iterm("Espresso")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Everblush
+
+```{r, ggsci-iterm-everblush}
+p1 <- p1 + scale_color_iterm("Everblush")
+p2 <- p2 + scale_fill_iterm("Everblush")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Everforest Dark Hard
+
+```{r, ggsci-iterm-everforest-dark-hard}
+p1 <- p1 + scale_color_iterm("Everforest Dark Hard")
+p2 <- p2 + scale_fill_iterm("Everforest Dark Hard")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Everforest Light Med
+
+```{r, ggsci-iterm-everforest-light-med}
+p1 <- p1 + scale_color_iterm("Everforest Light Med")
+p2 <- p2 + scale_fill_iterm("Everforest Light Med")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Fahrenheit
+
+```{r, ggsci-iterm-fahrenheit}
+p1 <- p1 + scale_color_iterm("Fahrenheit")
+p2 <- p2 + scale_fill_iterm("Fahrenheit")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Fairyfloss
+
+```{r, ggsci-iterm-fairyfloss}
+p1 <- p1 + scale_color_iterm("Fairyfloss")
+p2 <- p2 + scale_fill_iterm("Fairyfloss")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Farmhouse Dark
+
+```{r, ggsci-iterm-farmhouse-dark}
+p1 <- p1 + scale_color_iterm("Farmhouse Dark")
+p2 <- p2 + scale_fill_iterm("Farmhouse Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Farmhouse Light
+
+```{r, ggsci-iterm-farmhouse-light}
+p1 <- p1 + scale_color_iterm("Farmhouse Light")
+p2 <- p2 + scale_fill_iterm("Farmhouse Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Fideloper
+
+```{r, ggsci-iterm-fideloper}
+p1 <- p1 + scale_color_iterm("Fideloper")
+p2 <- p2 + scale_fill_iterm("Fideloper")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Firefly Traditional
+
+```{r, ggsci-iterm-firefly-traditional}
+p1 <- p1 + scale_color_iterm("Firefly Traditional")
+p2 <- p2 + scale_fill_iterm("Firefly Traditional")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Firefox Dev
+
+```{r, ggsci-iterm-firefox-dev}
+p1 <- p1 + scale_color_iterm("Firefox Dev")
+p2 <- p2 + scale_fill_iterm("Firefox Dev")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Firewatch
+
+```{r, ggsci-iterm-firewatch}
+p1 <- p1 + scale_color_iterm("Firewatch")
+p2 <- p2 + scale_fill_iterm("Firewatch")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Fish Tank
+
+```{r, ggsci-iterm-fish-tank}
+p1 <- p1 + scale_color_iterm("Fish Tank")
+p2 <- p2 + scale_fill_iterm("Fish Tank")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Flat
+
+```{r, ggsci-iterm-flat}
+p1 <- p1 + scale_color_iterm("Flat")
+p2 <- p2 + scale_fill_iterm("Flat")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Flatland
+
+```{r, ggsci-iterm-flatland}
+p1 <- p1 + scale_color_iterm("Flatland")
+p2 <- p2 + scale_fill_iterm("Flatland")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Flexoki Dark
+
+```{r, ggsci-iterm-flexoki-dark}
+p1 <- p1 + scale_color_iterm("Flexoki Dark")
+p2 <- p2 + scale_fill_iterm("Flexoki Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Flexoki Light
+
+```{r, ggsci-iterm-flexoki-light}
+p1 <- p1 + scale_color_iterm("Flexoki Light")
+p2 <- p2 + scale_fill_iterm("Flexoki Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Floraverse
+
+```{r, ggsci-iterm-floraverse}
+p1 <- p1 + scale_color_iterm("Floraverse")
+p2 <- p2 + scale_fill_iterm("Floraverse")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Forest Blue
+
+```{r, ggsci-iterm-forest-blue}
+p1 <- p1 + scale_color_iterm("Forest Blue")
+p2 <- p2 + scale_fill_iterm("Forest Blue")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Framer
+
+```{r, ggsci-iterm-framer}
+p1 <- p1 + scale_color_iterm("Framer")
+p2 <- p2 + scale_fill_iterm("Framer")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Front End Delight
+
+```{r, ggsci-iterm-front-end-delight}
+p1 <- p1 + scale_color_iterm("Front End Delight")
+p2 <- p2 + scale_fill_iterm("Front End Delight")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Fun Forrest
+
+```{r, ggsci-iterm-fun-forrest}
+p1 <- p1 + scale_color_iterm("Fun Forrest")
+p2 <- p2 + scale_fill_iterm("Fun Forrest")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Galaxy
+
+```{r, ggsci-iterm-galaxy}
+p1 <- p1 + scale_color_iterm("Galaxy")
+p2 <- p2 + scale_fill_iterm("Galaxy")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Galizur
+
+```{r, ggsci-iterm-galizur}
+p1 <- p1 + scale_color_iterm("Galizur")
+p2 <- p2 + scale_fill_iterm("Galizur")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Ghostty Default Style Dark
+
+```{r, ggsci-iterm-ghostty-default-style-dark}
+p1 <- p1 + scale_color_iterm("Ghostty Default Style Dark")
+p2 <- p2 + scale_fill_iterm("Ghostty Default Style Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## GitHub Dark Colorblind
+
+```{r, ggsci-iterm-github-dark-colorblind}
+p1 <- p1 + scale_color_iterm("GitHub Dark Colorblind")
+p2 <- p2 + scale_fill_iterm("GitHub Dark Colorblind")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## GitHub Dark Default
+
+```{r, ggsci-iterm-github-dark-default}
+p1 <- p1 + scale_color_iterm("GitHub Dark Default")
+p2 <- p2 + scale_fill_iterm("GitHub Dark Default")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## GitHub Dark Dimmed
+
+```{r, ggsci-iterm-github-dark-dimmed}
+p1 <- p1 + scale_color_iterm("GitHub Dark Dimmed")
+p2 <- p2 + scale_fill_iterm("GitHub Dark Dimmed")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## GitHub Dark High Contrast
+
+```{r, ggsci-iterm-github-dark-high-contrast}
+p1 <- p1 + scale_color_iterm("GitHub Dark High Contrast")
+p2 <- p2 + scale_fill_iterm("GitHub Dark High Contrast")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## GitHub Dark
+
+```{r, ggsci-iterm-github-dark}
+p1 <- p1 + scale_color_iterm("GitHub Dark")
+p2 <- p2 + scale_fill_iterm("GitHub Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## GitHub Light Colorblind
+
+```{r, ggsci-iterm-github-light-colorblind}
+p1 <- p1 + scale_color_iterm("GitHub Light Colorblind")
+p2 <- p2 + scale_fill_iterm("GitHub Light Colorblind")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## GitHub Light Default
+
+```{r, ggsci-iterm-github-light-default}
+p1 <- p1 + scale_color_iterm("GitHub Light Default")
+p2 <- p2 + scale_fill_iterm("GitHub Light Default")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## GitHub Light High Contrast
+
+```{r, ggsci-iterm-github-light-high-contrast}
+p1 <- p1 + scale_color_iterm("GitHub Light High Contrast")
+p2 <- p2 + scale_fill_iterm("GitHub Light High Contrast")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## GitHub
+
+```{r, ggsci-iterm-github}
+p1 <- p1 + scale_color_iterm("GitHub")
+p2 <- p2 + scale_fill_iterm("GitHub")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## GitLab Dark Grey
+
+```{r, ggsci-iterm-gitlab-dark-grey}
+p1 <- p1 + scale_color_iterm("GitLab Dark Grey")
+p2 <- p2 + scale_fill_iterm("GitLab Dark Grey")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## GitLab Dark
+
+```{r, ggsci-iterm-gitlab-dark}
+p1 <- p1 + scale_color_iterm("GitLab Dark")
+p2 <- p2 + scale_fill_iterm("GitLab Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## GitLab Light
+
+```{r, ggsci-iterm-gitlab-light}
+p1 <- p1 + scale_color_iterm("GitLab Light")
+p2 <- p2 + scale_fill_iterm("GitLab Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Glacier
+
+```{r, ggsci-iterm-glacier}
+p1 <- p1 + scale_color_iterm("Glacier")
+p2 <- p2 + scale_fill_iterm("Glacier")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Grape
+
+```{r, ggsci-iterm-grape}
+p1 <- p1 + scale_color_iterm("Grape")
+p2 <- p2 + scale_fill_iterm("Grape")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Grass
+
+```{r, ggsci-iterm-grass}
+p1 <- p1 + scale_color_iterm("Grass")
+p2 <- p2 + scale_fill_iterm("Grass")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Grey Green
+
+```{r, ggsci-iterm-grey-green}
+p1 <- p1 + scale_color_iterm("Grey Green")
+p2 <- p2 + scale_fill_iterm("Grey Green")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Gruber Darker
+
+```{r, ggsci-iterm-gruber-darker}
+p1 <- p1 + scale_color_iterm("Gruber Darker")
+p2 <- p2 + scale_fill_iterm("Gruber Darker")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Gruvbox Dark Hard
+
+```{r, ggsci-iterm-gruvbox-dark-hard}
+p1 <- p1 + scale_color_iterm("Gruvbox Dark Hard")
+p2 <- p2 + scale_fill_iterm("Gruvbox Dark Hard")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Gruvbox Dark
+
+```{r, ggsci-iterm-gruvbox-dark}
+p1 <- p1 + scale_color_iterm("Gruvbox Dark")
+p2 <- p2 + scale_fill_iterm("Gruvbox Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Gruvbox Light Hard
+
+```{r, ggsci-iterm-gruvbox-light-hard}
+p1 <- p1 + scale_color_iterm("Gruvbox Light Hard")
+p2 <- p2 + scale_fill_iterm("Gruvbox Light Hard")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Gruvbox Light
+
+```{r, ggsci-iterm-gruvbox-light}
+p1 <- p1 + scale_color_iterm("Gruvbox Light")
+p2 <- p2 + scale_fill_iterm("Gruvbox Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Gruvbox Material Dark
+
+```{r, ggsci-iterm-gruvbox-material-dark}
+p1 <- p1 + scale_color_iterm("Gruvbox Material Dark")
+p2 <- p2 + scale_fill_iterm("Gruvbox Material Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Gruvbox Material Light
+
+```{r, ggsci-iterm-gruvbox-material-light}
+p1 <- p1 + scale_color_iterm("Gruvbox Material Light")
+p2 <- p2 + scale_fill_iterm("Gruvbox Material Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Gruvbox Material
+
+```{r, ggsci-iterm-gruvbox-material}
+p1 <- p1 + scale_color_iterm("Gruvbox Material")
+p2 <- p2 + scale_fill_iterm("Gruvbox Material")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Guezwhoz
+
+```{r, ggsci-iterm-guezwhoz}
+p1 <- p1 + scale_color_iterm("Guezwhoz")
+p2 <- p2 + scale_fill_iterm("Guezwhoz")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Hacktober
+
+```{r, ggsci-iterm-hacktober}
+p1 <- p1 + scale_color_iterm("Hacktober")
+p2 <- p2 + scale_fill_iterm("Hacktober")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Hardcore
+
+```{r, ggsci-iterm-hardcore}
+p1 <- p1 + scale_color_iterm("Hardcore")
+p2 <- p2 + scale_fill_iterm("Hardcore")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Harper
+
+```{r, ggsci-iterm-harper}
+p1 <- p1 + scale_color_iterm("Harper")
+p2 <- p2 + scale_fill_iterm("Harper")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Havn Daggry
+
+```{r, ggsci-iterm-havn-daggry}
+p1 <- p1 + scale_color_iterm("Havn Daggry")
+p2 <- p2 + scale_fill_iterm("Havn Daggry")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Havn Skumring
+
+```{r, ggsci-iterm-havn-skumring}
+p1 <- p1 + scale_color_iterm("Havn Skumring")
+p2 <- p2 + scale_fill_iterm("Havn Skumring")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## HaX0R Blue
+
+```{r, ggsci-iterm-hax0r-blue}
+p1 <- p1 + scale_color_iterm("HaX0R Blue")
+p2 <- p2 + scale_fill_iterm("HaX0R Blue")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## HaX0R Gr33N
+
+```{r, ggsci-iterm-hax0r-gr33n}
+p1 <- p1 + scale_color_iterm("HaX0R Gr33N")
+p2 <- p2 + scale_fill_iterm("HaX0R Gr33N")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## HaX0R R3D
+
+```{r, ggsci-iterm-hax0r-r3d}
+p1 <- p1 + scale_color_iterm("HaX0R R3D")
+p2 <- p2 + scale_fill_iterm("HaX0R R3D")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Heeler
+
+```{r, ggsci-iterm-heeler}
+p1 <- p1 + scale_color_iterm("Heeler")
+p2 <- p2 + scale_fill_iterm("Heeler")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Highway
+
+```{r, ggsci-iterm-highway}
+p1 <- p1 + scale_color_iterm("Highway")
+p2 <- p2 + scale_fill_iterm("Highway")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Hipster Green
+
+```{r, ggsci-iterm-hipster-green}
+p1 <- p1 + scale_color_iterm("Hipster Green")
+p2 <- p2 + scale_fill_iterm("Hipster Green")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Hivacruz
+
+```{r, ggsci-iterm-hivacruz}
+p1 <- p1 + scale_color_iterm("Hivacruz")
+p2 <- p2 + scale_fill_iterm("Hivacruz")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Homebrew
+
+```{r, ggsci-iterm-homebrew}
+p1 <- p1 + scale_color_iterm("Homebrew")
+p2 <- p2 + scale_fill_iterm("Homebrew")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Hopscotch.256
+
+```{r, ggsci-iterm-hopscotch-256}
+p1 <- p1 + scale_color_iterm("Hopscotch.256")
+p2 <- p2 + scale_fill_iterm("Hopscotch.256")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Hopscotch
+
+```{r, ggsci-iterm-hopscotch}
+p1 <- p1 + scale_color_iterm("Hopscotch")
+p2 <- p2 + scale_fill_iterm("Hopscotch")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Horizon Bright
+
+```{r, ggsci-iterm-horizon-bright}
+p1 <- p1 + scale_color_iterm("Horizon Bright")
+p2 <- p2 + scale_fill_iterm("Horizon Bright")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Horizon
+
+```{r, ggsci-iterm-horizon}
+p1 <- p1 + scale_color_iterm("Horizon")
+p2 <- p2 + scale_fill_iterm("Horizon")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Hurtado
+
+```{r, ggsci-iterm-hurtado}
+p1 <- p1 + scale_color_iterm("Hurtado")
+p2 <- p2 + scale_fill_iterm("Hurtado")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Hybrid
+
+```{r, ggsci-iterm-hybrid}
+p1 <- p1 + scale_color_iterm("Hybrid")
+p2 <- p2 + scale_fill_iterm("Hybrid")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## IBM 5153 CGA (Black)
+
+```{r, ggsci-iterm-ibm-5153-cga-black}
+p1 <- p1 + scale_color_iterm("IBM 5153 CGA (Black)")
+p2 <- p2 + scale_fill_iterm("IBM 5153 CGA (Black)")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## IBM 5153 CGA
+
+```{r, ggsci-iterm-ibm-5153-cga}
+p1 <- p1 + scale_color_iterm("IBM 5153 CGA")
+p2 <- p2 + scale_fill_iterm("IBM 5153 CGA")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## IC Green PPL
+
+```{r, ggsci-iterm-ic-green-ppl}
+p1 <- p1 + scale_color_iterm("IC Green PPL")
+p2 <- p2 + scale_fill_iterm("IC Green PPL")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## IC Orange PPL
+
+```{r, ggsci-iterm-ic-orange-ppl}
+p1 <- p1 + scale_color_iterm("IC Orange PPL")
+p2 <- p2 + scale_fill_iterm("IC Orange PPL")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Iceberg Dark
+
+```{r, ggsci-iterm-iceberg-dark}
+p1 <- p1 + scale_color_iterm("Iceberg Dark")
+p2 <- p2 + scale_fill_iterm("Iceberg Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Iceberg Light
+
+```{r, ggsci-iterm-iceberg-light}
+p1 <- p1 + scale_color_iterm("Iceberg Light")
+p2 <- p2 + scale_fill_iterm("Iceberg Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Idea
+
+```{r, ggsci-iterm-idea}
+p1 <- p1 + scale_color_iterm("Idea")
+p2 <- p2 + scale_fill_iterm("Idea")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Idle Toes
+
+```{r, ggsci-iterm-idle-toes}
+p1 <- p1 + scale_color_iterm("Idle Toes")
+p2 <- p2 + scale_fill_iterm("Idle Toes")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## IR Black
+
+```{r, ggsci-iterm-ir-black}
+p1 <- p1 + scale_color_iterm("IR Black")
+p2 <- p2 + scale_fill_iterm("IR Black")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## IRIX Console
+
+```{r, ggsci-iterm-irix-console}
+p1 <- p1 + scale_color_iterm("IRIX Console")
+p2 <- p2 + scale_fill_iterm("IRIX Console")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## IRIX Terminal
+
+```{r, ggsci-iterm-irix-terminal}
+p1 <- p1 + scale_color_iterm("IRIX Terminal")
+p2 <- p2 + scale_fill_iterm("IRIX Terminal")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## iTerm2 Dark Background
+
+```{r, ggsci-iterm-iterm2-dark-background}
+p1 <- p1 + scale_color_iterm("iTerm2 Dark Background")
+p2 <- p2 + scale_fill_iterm("iTerm2 Dark Background")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## iTerm2 Default
+
+```{r, ggsci-iterm-iterm2-default}
+p1 <- p1 + scale_color_iterm("iTerm2 Default")
+p2 <- p2 + scale_fill_iterm("iTerm2 Default")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## iTerm2 Light Background
+
+```{r, ggsci-iterm-iterm2-light-background}
+p1 <- p1 + scale_color_iterm("iTerm2 Light Background")
+p2 <- p2 + scale_fill_iterm("iTerm2 Light Background")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## iTerm2 Pastel Dark Background
+
+```{r, ggsci-iterm-iterm2-pastel-dark-background}
+p1 <- p1 + scale_color_iterm("iTerm2 Pastel Dark Background")
+p2 <- p2 + scale_fill_iterm("iTerm2 Pastel Dark Background")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## iTerm2 Smoooooth
+
+```{r, ggsci-iterm-iterm2-smoooooth}
+p1 <- p1 + scale_color_iterm("iTerm2 Smoooooth")
+p2 <- p2 + scale_fill_iterm("iTerm2 Smoooooth")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## iTerm2 Solarized Dark
+
+```{r, ggsci-iterm-iterm2-solarized-dark}
+p1 <- p1 + scale_color_iterm("iTerm2 Solarized Dark")
+p2 <- p2 + scale_fill_iterm("iTerm2 Solarized Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## iTerm2 Solarized Light
+
+```{r, ggsci-iterm-iterm2-solarized-light}
+p1 <- p1 + scale_color_iterm("iTerm2 Solarized Light")
+p2 <- p2 + scale_fill_iterm("iTerm2 Solarized Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## iTerm2 Tango Dark
+
+```{r, ggsci-iterm-iterm2-tango-dark}
+p1 <- p1 + scale_color_iterm("iTerm2 Tango Dark")
+p2 <- p2 + scale_fill_iterm("iTerm2 Tango Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## iTerm2 Tango Light
+
+```{r, ggsci-iterm-iterm2-tango-light}
+p1 <- p1 + scale_color_iterm("iTerm2 Tango Light")
+p2 <- p2 + scale_fill_iterm("iTerm2 Tango Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Jackie Brown
+
+```{r, ggsci-iterm-jackie-brown}
+p1 <- p1 + scale_color_iterm("Jackie Brown")
+p2 <- p2 + scale_fill_iterm("Jackie Brown")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Japanesque
+
+```{r, ggsci-iterm-japanesque}
+p1 <- p1 + scale_color_iterm("Japanesque")
+p2 <- p2 + scale_fill_iterm("Japanesque")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Jellybeans
+
+```{r, ggsci-iterm-jellybeans}
+p1 <- p1 + scale_color_iterm("Jellybeans")
+p2 <- p2 + scale_fill_iterm("Jellybeans")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## JetBrains Darcula
+
+```{r, ggsci-iterm-jetbrains-darcula}
+p1 <- p1 + scale_color_iterm("JetBrains Darcula")
+p2 <- p2 + scale_fill_iterm("JetBrains Darcula")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Jubi
+
+```{r, ggsci-iterm-jubi}
+p1 <- p1 + scale_color_iterm("Jubi")
+p2 <- p2 + scale_fill_iterm("Jubi")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Kanagawa Dragon
+
+```{r, ggsci-iterm-kanagawa-dragon}
+p1 <- p1 + scale_color_iterm("Kanagawa Dragon")
+p2 <- p2 + scale_fill_iterm("Kanagawa Dragon")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Kanagawa Wave
+
+```{r, ggsci-iterm-kanagawa-wave}
+p1 <- p1 + scale_color_iterm("Kanagawa Wave")
+p2 <- p2 + scale_fill_iterm("Kanagawa Wave")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Kanagawabones
+
+```{r, ggsci-iterm-kanagawabones}
+p1 <- p1 + scale_color_iterm("Kanagawabones")
+p2 <- p2 + scale_fill_iterm("Kanagawabones")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Kibble
+
+```{r, ggsci-iterm-kibble}
+p1 <- p1 + scale_color_iterm("Kibble")
+p2 <- p2 + scale_fill_iterm("Kibble")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Kitty Default
+
+```{r, ggsci-iterm-kitty-default}
+p1 <- p1 + scale_color_iterm("Kitty Default")
+p2 <- p2 + scale_fill_iterm("Kitty Default")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Kitty Low Contrast
+
+```{r, ggsci-iterm-kitty-low-contrast}
+p1 <- p1 + scale_color_iterm("Kitty Low Contrast")
+p2 <- p2 + scale_fill_iterm("Kitty Low Contrast")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Kolorit
+
+```{r, ggsci-iterm-kolorit}
+p1 <- p1 + scale_color_iterm("Kolorit")
+p2 <- p2 + scale_fill_iterm("Kolorit")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Konsolas
+
+```{r, ggsci-iterm-konsolas}
+p1 <- p1 + scale_color_iterm("Konsolas")
+p2 <- p2 + scale_fill_iterm("Konsolas")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Kurokula
+
+```{r, ggsci-iterm-kurokula}
+p1 <- p1 + scale_color_iterm("Kurokula")
+p2 <- p2 + scale_fill_iterm("Kurokula")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Lab Fox
+
+```{r, ggsci-iterm-lab-fox}
+p1 <- p1 + scale_color_iterm("Lab Fox")
+p2 <- p2 + scale_fill_iterm("Lab Fox")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Laser
+
+```{r, ggsci-iterm-laser}
+p1 <- p1 + scale_color_iterm("Laser")
+p2 <- p2 + scale_fill_iterm("Laser")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Later This Evening
+
+```{r, ggsci-iterm-later-this-evening}
+p1 <- p1 + scale_color_iterm("Later This Evening")
+p2 <- p2 + scale_fill_iterm("Later This Evening")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Lavandula
+
+```{r, ggsci-iterm-lavandula}
+p1 <- p1 + scale_color_iterm("Lavandula")
+p2 <- p2 + scale_fill_iterm("Lavandula")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Light Owl
+
+```{r, ggsci-iterm-light-owl}
+p1 <- p1 + scale_color_iterm("Light Owl")
+p2 <- p2 + scale_fill_iterm("Light Owl")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Liquid Carbon Transparent
+
+```{r, ggsci-iterm-liquid-carbon-transparent}
+p1 <- p1 + scale_color_iterm("Liquid Carbon Transparent")
+p2 <- p2 + scale_fill_iterm("Liquid Carbon Transparent")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Liquid Carbon
+
+```{r, ggsci-iterm-liquid-carbon}
+p1 <- p1 + scale_color_iterm("Liquid Carbon")
+p2 <- p2 + scale_fill_iterm("Liquid Carbon")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Lovelace
+
+```{r, ggsci-iterm-lovelace}
+p1 <- p1 + scale_color_iterm("Lovelace")
+p2 <- p2 + scale_fill_iterm("Lovelace")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Man Page
+
+```{r, ggsci-iterm-man-page}
+p1 <- p1 + scale_color_iterm("Man Page")
+p2 <- p2 + scale_fill_iterm("Man Page")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Mariana
+
+```{r, ggsci-iterm-mariana}
+p1 <- p1 + scale_color_iterm("Mariana")
+p2 <- p2 + scale_fill_iterm("Mariana")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Material Dark
+
+```{r, ggsci-iterm-material-dark}
+p1 <- p1 + scale_color_iterm("Material Dark")
+p2 <- p2 + scale_fill_iterm("Material Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Material Darker
+
+```{r, ggsci-iterm-material-darker}
+p1 <- p1 + scale_color_iterm("Material Darker")
+p2 <- p2 + scale_fill_iterm("Material Darker")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Material Design Colors
+
+```{r, ggsci-iterm-material-design-colors}
+p1 <- p1 + scale_color_iterm("Material Design Colors")
+p2 <- p2 + scale_fill_iterm("Material Design Colors")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Material Ocean
+
+```{r, ggsci-iterm-material-ocean}
+p1 <- p1 + scale_color_iterm("Material Ocean")
+p2 <- p2 + scale_fill_iterm("Material Ocean")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Material
+
+```{r, ggsci-iterm-material}
+p1 <- p1 + scale_color_iterm("Material")
+p2 <- p2 + scale_fill_iterm("Material")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Mathias
+
+```{r, ggsci-iterm-mathias}
+p1 <- p1 + scale_color_iterm("Mathias")
+p2 <- p2 + scale_fill_iterm("Mathias")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Matrix
+
+```{r, ggsci-iterm-matrix}
+p1 <- p1 + scale_color_iterm("Matrix")
+p2 <- p2 + scale_fill_iterm("Matrix")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Medallion
+
+```{r, ggsci-iterm-medallion}
+p1 <- p1 + scale_color_iterm("Medallion")
+p2 <- p2 + scale_fill_iterm("Medallion")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Melange Dark
+
+```{r, ggsci-iterm-melange-dark}
+p1 <- p1 + scale_color_iterm("Melange Dark")
+p2 <- p2 + scale_fill_iterm("Melange Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Melange Light
+
+```{r, ggsci-iterm-melange-light}
+p1 <- p1 + scale_color_iterm("Melange Light")
+p2 <- p2 + scale_fill_iterm("Melange Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Mellifluous
+
+```{r, ggsci-iterm-mellifluous}
+p1 <- p1 + scale_color_iterm("Mellifluous")
+p2 <- p2 + scale_fill_iterm("Mellifluous")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Mellow
+
+```{r, ggsci-iterm-mellow}
+p1 <- p1 + scale_color_iterm("Mellow")
+p2 <- p2 + scale_fill_iterm("Mellow")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Miasma
+
+```{r, ggsci-iterm-miasma}
+p1 <- p1 + scale_color_iterm("Miasma")
+p2 <- p2 + scale_fill_iterm("Miasma")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Midnight In Mojave
+
+```{r, ggsci-iterm-midnight-in-mojave}
+p1 <- p1 + scale_color_iterm("Midnight In Mojave")
+p2 <- p2 + scale_fill_iterm("Midnight In Mojave")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Mirage
+
+```{r, ggsci-iterm-mirage}
+p1 <- p1 + scale_color_iterm("Mirage")
+p2 <- p2 + scale_fill_iterm("Mirage")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Misterioso
+
+```{r, ggsci-iterm-misterioso}
+p1 <- p1 + scale_color_iterm("Misterioso")
+p2 <- p2 + scale_fill_iterm("Misterioso")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Molokai
+
+```{r, ggsci-iterm-molokai}
+p1 <- p1 + scale_color_iterm("Molokai")
+p2 <- p2 + scale_fill_iterm("Molokai")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Mona Lisa
+
+```{r, ggsci-iterm-mona-lisa}
+p1 <- p1 + scale_color_iterm("Mona Lisa")
+p2 <- p2 + scale_fill_iterm("Mona Lisa")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Monokai Classic
+
+```{r, ggsci-iterm-monokai-classic}
+p1 <- p1 + scale_color_iterm("Monokai Classic")
+p2 <- p2 + scale_fill_iterm("Monokai Classic")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Monokai Pro Light Sun
+
+```{r, ggsci-iterm-monokai-pro-light-sun}
+p1 <- p1 + scale_color_iterm("Monokai Pro Light Sun")
+p2 <- p2 + scale_fill_iterm("Monokai Pro Light Sun")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Monokai Pro Light
+
+```{r, ggsci-iterm-monokai-pro-light}
+p1 <- p1 + scale_color_iterm("Monokai Pro Light")
+p2 <- p2 + scale_fill_iterm("Monokai Pro Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Monokai Pro Machine
+
+```{r, ggsci-iterm-monokai-pro-machine}
+p1 <- p1 + scale_color_iterm("Monokai Pro Machine")
+p2 <- p2 + scale_fill_iterm("Monokai Pro Machine")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Monokai Pro Octagon
+
+```{r, ggsci-iterm-monokai-pro-octagon}
+p1 <- p1 + scale_color_iterm("Monokai Pro Octagon")
+p2 <- p2 + scale_fill_iterm("Monokai Pro Octagon")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Monokai Pro Ristretto
+
+```{r, ggsci-iterm-monokai-pro-ristretto}
+p1 <- p1 + scale_color_iterm("Monokai Pro Ristretto")
+p2 <- p2 + scale_fill_iterm("Monokai Pro Ristretto")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Monokai Pro Spectrum
+
+```{r, ggsci-iterm-monokai-pro-spectrum}
+p1 <- p1 + scale_color_iterm("Monokai Pro Spectrum")
+p2 <- p2 + scale_fill_iterm("Monokai Pro Spectrum")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Monokai Pro
+
+```{r, ggsci-iterm-monokai-pro}
+p1 <- p1 + scale_color_iterm("Monokai Pro")
+p2 <- p2 + scale_fill_iterm("Monokai Pro")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Monokai Remastered
+
+```{r, ggsci-iterm-monokai-remastered}
+p1 <- p1 + scale_color_iterm("Monokai Remastered")
+p2 <- p2 + scale_fill_iterm("Monokai Remastered")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Monokai Soda
+
+```{r, ggsci-iterm-monokai-soda}
+p1 <- p1 + scale_color_iterm("Monokai Soda")
+p2 <- p2 + scale_fill_iterm("Monokai Soda")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Monokai Vivid
+
+```{r, ggsci-iterm-monokai-vivid}
+p1 <- p1 + scale_color_iterm("Monokai Vivid")
+p2 <- p2 + scale_fill_iterm("Monokai Vivid")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Moonfly
+
+```{r, ggsci-iterm-moonfly}
+p1 <- p1 + scale_color_iterm("Moonfly")
+p2 <- p2 + scale_fill_iterm("Moonfly")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## N0Tch2K
+
+```{r, ggsci-iterm-n0tch2k}
+p1 <- p1 + scale_color_iterm("N0Tch2K")
+p2 <- p2 + scale_fill_iterm("N0Tch2K")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Neobones Dark
+
+```{r, ggsci-iterm-neobones-dark}
+p1 <- p1 + scale_color_iterm("Neobones Dark")
+p2 <- p2 + scale_fill_iterm("Neobones Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Neobones Light
+
+```{r, ggsci-iterm-neobones-light}
+p1 <- p1 + scale_color_iterm("Neobones Light")
+p2 <- p2 + scale_fill_iterm("Neobones Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Neon
+
+```{r, ggsci-iterm-neon}
+p1 <- p1 + scale_color_iterm("Neon")
+p2 <- p2 + scale_fill_iterm("Neon")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Neopolitan
+
+```{r, ggsci-iterm-neopolitan}
+p1 <- p1 + scale_color_iterm("Neopolitan")
+p2 <- p2 + scale_fill_iterm("Neopolitan")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Neutron
+
+```{r, ggsci-iterm-neutron}
+p1 <- p1 + scale_color_iterm("Neutron")
+p2 <- p2 + scale_fill_iterm("Neutron")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Night Lion V1
+
+```{r, ggsci-iterm-night-lion-v1}
+p1 <- p1 + scale_color_iterm("Night Lion V1")
+p2 <- p2 + scale_fill_iterm("Night Lion V1")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Night Lion V2
+
+```{r, ggsci-iterm-night-lion-v2}
+p1 <- p1 + scale_color_iterm("Night Lion V2")
+p2 <- p2 + scale_fill_iterm("Night Lion V2")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Night Owl
+
+```{r, ggsci-iterm-night-owl}
+p1 <- p1 + scale_color_iterm("Night Owl")
+p2 <- p2 + scale_fill_iterm("Night Owl")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Night Owlish Light
+
+```{r, ggsci-iterm-night-owlish-light}
+p1 <- p1 + scale_color_iterm("Night Owlish Light")
+p2 <- p2 + scale_fill_iterm("Night Owlish Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Nightfox
+
+```{r, ggsci-iterm-nightfox}
+p1 <- p1 + scale_color_iterm("Nightfox")
+p2 <- p2 + scale_fill_iterm("Nightfox")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Niji
+
+```{r, ggsci-iterm-niji}
+p1 <- p1 + scale_color_iterm("Niji")
+p2 <- p2 + scale_fill_iterm("Niji")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Nocturnal Winter
+
+```{r, ggsci-iterm-nocturnal-winter}
+p1 <- p1 + scale_color_iterm("Nocturnal Winter")
+p2 <- p2 + scale_fill_iterm("Nocturnal Winter")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Nord Light
+
+```{r, ggsci-iterm-nord-light}
+p1 <- p1 + scale_color_iterm("Nord Light")
+p2 <- p2 + scale_fill_iterm("Nord Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Nord Wave
+
+```{r, ggsci-iterm-nord-wave}
+p1 <- p1 + scale_color_iterm("Nord Wave")
+p2 <- p2 + scale_fill_iterm("Nord Wave")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Nord
+
+```{r, ggsci-iterm-nord}
+p1 <- p1 + scale_color_iterm("Nord")
+p2 <- p2 + scale_fill_iterm("Nord")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Nordfox
+
+```{r, ggsci-iterm-nordfox}
+p1 <- p1 + scale_color_iterm("Nordfox")
+p2 <- p2 + scale_fill_iterm("Nordfox")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Novel
+
+```{r, ggsci-iterm-novel}
+p1 <- p1 + scale_color_iterm("Novel")
+p2 <- p2 + scale_fill_iterm("Novel")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Nvim Dark
+
+```{r, ggsci-iterm-nvim-dark}
+p1 <- p1 + scale_color_iterm("Nvim Dark")
+p2 <- p2 + scale_fill_iterm("Nvim Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Nvim Light
+
+```{r, ggsci-iterm-nvim-light}
+p1 <- p1 + scale_color_iterm("Nvim Light")
+p2 <- p2 + scale_fill_iterm("Nvim Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Obsidian
+
+```{r, ggsci-iterm-obsidian}
+p1 <- p1 + scale_color_iterm("Obsidian")
+p2 <- p2 + scale_fill_iterm("Obsidian")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Ocean
+
+```{r, ggsci-iterm-ocean}
+p1 <- p1 + scale_color_iterm("Ocean")
+p2 <- p2 + scale_fill_iterm("Ocean")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Oceanic Material
+
+```{r, ggsci-iterm-oceanic-material}
+p1 <- p1 + scale_color_iterm("Oceanic Material")
+p2 <- p2 + scale_fill_iterm("Oceanic Material")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Oceanic Next
+
+```{r, ggsci-iterm-oceanic-next}
+p1 <- p1 + scale_color_iterm("Oceanic Next")
+p2 <- p2 + scale_fill_iterm("Oceanic Next")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Ollie
+
+```{r, ggsci-iterm-ollie}
+p1 <- p1 + scale_color_iterm("Ollie")
+p2 <- p2 + scale_fill_iterm("Ollie")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## One Double Dark
+
+```{r, ggsci-iterm-one-double-dark}
+p1 <- p1 + scale_color_iterm("One Double Dark")
+p2 <- p2 + scale_fill_iterm("One Double Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## One Double Light
+
+```{r, ggsci-iterm-one-double-light}
+p1 <- p1 + scale_color_iterm("One Double Light")
+p2 <- p2 + scale_fill_iterm("One Double Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## One Half Dark
+
+```{r, ggsci-iterm-one-half-dark}
+p1 <- p1 + scale_color_iterm("One Half Dark")
+p2 <- p2 + scale_fill_iterm("One Half Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## One Half Light
+
+```{r, ggsci-iterm-one-half-light}
+p1 <- p1 + scale_color_iterm("One Half Light")
+p2 <- p2 + scale_fill_iterm("One Half Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Operator Mono Dark
+
+```{r, ggsci-iterm-operator-mono-dark}
+p1 <- p1 + scale_color_iterm("Operator Mono Dark")
+p2 <- p2 + scale_fill_iterm("Operator Mono Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Overnight Slumber
+
+```{r, ggsci-iterm-overnight-slumber}
+p1 <- p1 + scale_color_iterm("Overnight Slumber")
+p2 <- p2 + scale_fill_iterm("Overnight Slumber")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Oxocarbon
+
+```{r, ggsci-iterm-oxocarbon}
+p1 <- p1 + scale_color_iterm("Oxocarbon")
+p2 <- p2 + scale_fill_iterm("Oxocarbon")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Pale Night Hc
+
+```{r, ggsci-iterm-pale-night-hc}
+p1 <- p1 + scale_color_iterm("Pale Night Hc")
+p2 <- p2 + scale_fill_iterm("Pale Night Hc")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Pandora
+
+```{r, ggsci-iterm-pandora}
+p1 <- p1 + scale_color_iterm("Pandora")
+p2 <- p2 + scale_fill_iterm("Pandora")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Paraiso Dark
+
+```{r, ggsci-iterm-paraiso-dark}
+p1 <- p1 + scale_color_iterm("Paraiso Dark")
+p2 <- p2 + scale_fill_iterm("Paraiso Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Paul Millr
+
+```{r, ggsci-iterm-paul-millr}
+p1 <- p1 + scale_color_iterm("Paul Millr")
+p2 <- p2 + scale_fill_iterm("Paul Millr")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Pencil Dark
+
+```{r, ggsci-iterm-pencil-dark}
+p1 <- p1 + scale_color_iterm("Pencil Dark")
+p2 <- p2 + scale_fill_iterm("Pencil Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Pencil Light
+
+```{r, ggsci-iterm-pencil-light}
+p1 <- p1 + scale_color_iterm("Pencil Light")
+p2 <- p2 + scale_fill_iterm("Pencil Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Peppermint
+
+```{r, ggsci-iterm-peppermint}
+p1 <- p1 + scale_color_iterm("Peppermint")
+p2 <- p2 + scale_fill_iterm("Peppermint")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Phala Green Dark
+
+```{r, ggsci-iterm-phala-green-dark}
+p1 <- p1 + scale_color_iterm("Phala Green Dark")
+p2 <- p2 + scale_fill_iterm("Phala Green Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Piatto Light
+
+```{r, ggsci-iterm-piatto-light}
+p1 <- p1 + scale_color_iterm("Piatto Light")
+p2 <- p2 + scale_fill_iterm("Piatto Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Pnevma
+
+```{r, ggsci-iterm-pnevma}
+p1 <- p1 + scale_color_iterm("Pnevma")
+p2 <- p2 + scale_fill_iterm("Pnevma")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Popping And Locking
+
+```{r, ggsci-iterm-popping-and-locking}
+p1 <- p1 + scale_color_iterm("Popping And Locking")
+p2 <- p2 + scale_fill_iterm("Popping And Locking")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Powershell
+
+```{r, ggsci-iterm-powershell}
+p1 <- p1 + scale_color_iterm("Powershell")
+p2 <- p2 + scale_fill_iterm("Powershell")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Primary
+
+```{r, ggsci-iterm-primary}
+p1 <- p1 + scale_color_iterm("Primary")
+p2 <- p2 + scale_fill_iterm("Primary")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Pro Light
+
+```{r, ggsci-iterm-pro-light}
+p1 <- p1 + scale_color_iterm("Pro Light")
+p2 <- p2 + scale_fill_iterm("Pro Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Pro
+
+```{r, ggsci-iterm-pro}
+p1 <- p1 + scale_color_iterm("Pro")
+p2 <- p2 + scale_fill_iterm("Pro")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Purple Rain
+
+```{r, ggsci-iterm-purple-rain}
+p1 <- p1 + scale_color_iterm("Purple Rain")
+p2 <- p2 + scale_fill_iterm("Purple Rain")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Purplepeter
+
+```{r, ggsci-iterm-purplepeter}
+p1 <- p1 + scale_color_iterm("Purplepeter")
+p2 <- p2 + scale_fill_iterm("Purplepeter")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Rapture
+
+```{r, ggsci-iterm-rapture}
+p1 <- p1 + scale_color_iterm("Rapture")
+p2 <- p2 + scale_fill_iterm("Rapture")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Raycast Dark
+
+```{r, ggsci-iterm-raycast-dark}
+p1 <- p1 + scale_color_iterm("Raycast Dark")
+p2 <- p2 + scale_fill_iterm("Raycast Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Raycast Light
+
+```{r, ggsci-iterm-raycast-light}
+p1 <- p1 + scale_color_iterm("Raycast Light")
+p2 <- p2 + scale_fill_iterm("Raycast Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Rebecca
+
+```{r, ggsci-iterm-rebecca}
+p1 <- p1 + scale_color_iterm("Rebecca")
+p2 <- p2 + scale_fill_iterm("Rebecca")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Red Alert
+
+```{r, ggsci-iterm-red-alert}
+p1 <- p1 + scale_color_iterm("Red Alert")
+p2 <- p2 + scale_fill_iterm("Red Alert")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Red Planet
+
+```{r, ggsci-iterm-red-planet}
+p1 <- p1 + scale_color_iterm("Red Planet")
+p2 <- p2 + scale_fill_iterm("Red Planet")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Red Sands
+
+```{r, ggsci-iterm-red-sands}
+p1 <- p1 + scale_color_iterm("Red Sands")
+p2 <- p2 + scale_fill_iterm("Red Sands")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Relaxed
+
+```{r, ggsci-iterm-relaxed}
+p1 <- p1 + scale_color_iterm("Relaxed")
+p2 <- p2 + scale_fill_iterm("Relaxed")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Retro Legends
+
+```{r, ggsci-iterm-retro-legends}
+p1 <- p1 + scale_color_iterm("Retro Legends")
+p2 <- p2 + scale_fill_iterm("Retro Legends")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Retro
+
+```{r, ggsci-iterm-retro}
+p1 <- p1 + scale_color_iterm("Retro")
+p2 <- p2 + scale_fill_iterm("Retro")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Rippedcasts
+
+```{r, ggsci-iterm-rippedcasts}
+p1 <- p1 + scale_color_iterm("Rippedcasts")
+p2 <- p2 + scale_fill_iterm("Rippedcasts")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Rose Pine Dawn
+
+```{r, ggsci-iterm-rose-pine-dawn}
+p1 <- p1 + scale_color_iterm("Rose Pine Dawn")
+p2 <- p2 + scale_fill_iterm("Rose Pine Dawn")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Rose Pine Moon
+
+```{r, ggsci-iterm-rose-pine-moon}
+p1 <- p1 + scale_color_iterm("Rose Pine Moon")
+p2 <- p2 + scale_fill_iterm("Rose Pine Moon")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Rose Pine
+
+```{r, ggsci-iterm-rose-pine}
+p1 <- p1 + scale_color_iterm("Rose Pine")
+p2 <- p2 + scale_fill_iterm("Rose Pine")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Rouge 2
+
+```{r, ggsci-iterm-rouge-2}
+p1 <- p1 + scale_color_iterm("Rouge 2")
+p2 <- p2 + scale_fill_iterm("Rouge 2")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Royal
+
+```{r, ggsci-iterm-royal}
+p1 <- p1 + scale_color_iterm("Royal")
+p2 <- p2 + scale_fill_iterm("Royal")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Ryuuko
+
+```{r, ggsci-iterm-ryuuko}
+p1 <- p1 + scale_color_iterm("Ryuuko")
+p2 <- p2 + scale_fill_iterm("Ryuuko")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Sakura
+
+```{r, ggsci-iterm-sakura}
+p1 <- p1 + scale_color_iterm("Sakura")
+p2 <- p2 + scale_fill_iterm("Sakura")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Scarlet Protocol
+
+```{r, ggsci-iterm-scarlet-protocol}
+p1 <- p1 + scale_color_iterm("Scarlet Protocol")
+p2 <- p2 + scale_fill_iterm("Scarlet Protocol")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Sea Shells
+
+```{r, ggsci-iterm-sea-shells}
+p1 <- p1 + scale_color_iterm("Sea Shells")
+p2 <- p2 + scale_fill_iterm("Sea Shells")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Seafoam Pastel
+
+```{r, ggsci-iterm-seafoam-pastel}
+p1 <- p1 + scale_color_iterm("Seafoam Pastel")
+p2 <- p2 + scale_fill_iterm("Seafoam Pastel")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Selenized Dark
+
+```{r, ggsci-iterm-selenized-dark}
+p1 <- p1 + scale_color_iterm("Selenized Dark")
+p2 <- p2 + scale_fill_iterm("Selenized Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Selenized Light
+
+```{r, ggsci-iterm-selenized-light}
+p1 <- p1 + scale_color_iterm("Selenized Light")
+p2 <- p2 + scale_fill_iterm("Selenized Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Seoulbones Dark
+
+```{r, ggsci-iterm-seoulbones-dark}
+p1 <- p1 + scale_color_iterm("Seoulbones Dark")
+p2 <- p2 + scale_fill_iterm("Seoulbones Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Seoulbones Light
+
+```{r, ggsci-iterm-seoulbones-light}
+p1 <- p1 + scale_color_iterm("Seoulbones Light")
+p2 <- p2 + scale_fill_iterm("Seoulbones Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Seti
+
+```{r, ggsci-iterm-seti}
+p1 <- p1 + scale_color_iterm("Seti")
+p2 <- p2 + scale_fill_iterm("Seti")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Shades Of Purple
+
+```{r, ggsci-iterm-shades-of-purple}
+p1 <- p1 + scale_color_iterm("Shades Of Purple")
+p2 <- p2 + scale_fill_iterm("Shades Of Purple")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Shaman
+
+```{r, ggsci-iterm-shaman}
+p1 <- p1 + scale_color_iterm("Shaman")
+p2 <- p2 + scale_fill_iterm("Shaman")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Slate
+
+```{r, ggsci-iterm-slate}
+p1 <- p1 + scale_color_iterm("Slate")
+p2 <- p2 + scale_fill_iterm("Slate")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Sleepy Hollow
+
+```{r, ggsci-iterm-sleepy-hollow}
+p1 <- p1 + scale_color_iterm("Sleepy Hollow")
+p2 <- p2 + scale_fill_iterm("Sleepy Hollow")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Smyck
+
+```{r, ggsci-iterm-smyck}
+p1 <- p1 + scale_color_iterm("Smyck")
+p2 <- p2 + scale_fill_iterm("Smyck")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Snazzy Soft
+
+```{r, ggsci-iterm-snazzy-soft}
+p1 <- p1 + scale_color_iterm("Snazzy Soft")
+p2 <- p2 + scale_fill_iterm("Snazzy Soft")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Snazzy
+
+```{r, ggsci-iterm-snazzy}
+p1 <- p1 + scale_color_iterm("Snazzy")
+p2 <- p2 + scale_fill_iterm("Snazzy")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Soft Server
+
+```{r, ggsci-iterm-soft-server}
+p1 <- p1 + scale_color_iterm("Soft Server")
+p2 <- p2 + scale_fill_iterm("Soft Server")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Solarized Darcula
+
+```{r, ggsci-iterm-solarized-darcula}
+p1 <- p1 + scale_color_iterm("Solarized Darcula")
+p2 <- p2 + scale_fill_iterm("Solarized Darcula")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Solarized Dark Higher Contrast
+
+```{r, ggsci-iterm-solarized-dark-higher-contrast}
+p1 <- p1 + scale_color_iterm("Solarized Dark Higher Contrast")
+p2 <- p2 + scale_fill_iterm("Solarized Dark Higher Contrast")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Solarized Dark Patched
+
+```{r, ggsci-iterm-solarized-dark-patched}
+p1 <- p1 + scale_color_iterm("Solarized Dark Patched")
+p2 <- p2 + scale_fill_iterm("Solarized Dark Patched")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Solarized Osaka Night
+
+```{r, ggsci-iterm-solarized-osaka-night}
+p1 <- p1 + scale_color_iterm("Solarized Osaka Night")
+p2 <- p2 + scale_fill_iterm("Solarized Osaka Night")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Sonokai
+
+```{r, ggsci-iterm-sonokai}
+p1 <- p1 + scale_color_iterm("Sonokai")
+p2 <- p2 + scale_fill_iterm("Sonokai")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Spacedust
+
+```{r, ggsci-iterm-spacedust}
+p1 <- p1 + scale_color_iterm("Spacedust")
+p2 <- p2 + scale_fill_iterm("Spacedust")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Spacegray Bright
+
+```{r, ggsci-iterm-spacegray-bright}
+p1 <- p1 + scale_color_iterm("Spacegray Bright")
+p2 <- p2 + scale_fill_iterm("Spacegray Bright")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Spacegray Eighties Dull
+
+```{r, ggsci-iterm-spacegray-eighties-dull}
+p1 <- p1 + scale_color_iterm("Spacegray Eighties Dull")
+p2 <- p2 + scale_fill_iterm("Spacegray Eighties Dull")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Spacegray Eighties
+
+```{r, ggsci-iterm-spacegray-eighties}
+p1 <- p1 + scale_color_iterm("Spacegray Eighties")
+p2 <- p2 + scale_fill_iterm("Spacegray Eighties")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Spacegray
+
+```{r, ggsci-iterm-spacegray}
+p1 <- p1 + scale_color_iterm("Spacegray")
+p2 <- p2 + scale_fill_iterm("Spacegray")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Spiderman
+
+```{r, ggsci-iterm-spiderman}
+p1 <- p1 + scale_color_iterm("Spiderman")
+p2 <- p2 + scale_fill_iterm("Spiderman")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Spring
+
+```{r, ggsci-iterm-spring}
+p1 <- p1 + scale_color_iterm("Spring")
+p2 <- p2 + scale_fill_iterm("Spring")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Square
+
+```{r, ggsci-iterm-square}
+p1 <- p1 + scale_color_iterm("Square")
+p2 <- p2 + scale_fill_iterm("Square")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Squirrelsong Dark
+
+```{r, ggsci-iterm-squirrelsong-dark}
+p1 <- p1 + scale_color_iterm("Squirrelsong Dark")
+p2 <- p2 + scale_fill_iterm("Squirrelsong Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Srcery
+
+```{r, ggsci-iterm-srcery}
+p1 <- p1 + scale_color_iterm("Srcery")
+p2 <- p2 + scale_fill_iterm("Srcery")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Starlight
+
+```{r, ggsci-iterm-starlight}
+p1 <- p1 + scale_color_iterm("Starlight")
+p2 <- p2 + scale_fill_iterm("Starlight")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Sublette
+
+```{r, ggsci-iterm-sublette}
+p1 <- p1 + scale_color_iterm("Sublette")
+p2 <- p2 + scale_fill_iterm("Sublette")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Subliminal
+
+```{r, ggsci-iterm-subliminal}
+p1 <- p1 + scale_color_iterm("Subliminal")
+p2 <- p2 + scale_fill_iterm("Subliminal")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Sugarplum
+
+```{r, ggsci-iterm-sugarplum}
+p1 <- p1 + scale_color_iterm("Sugarplum")
+p2 <- p2 + scale_fill_iterm("Sugarplum")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Sundried
+
+```{r, ggsci-iterm-sundried}
+p1 <- p1 + scale_color_iterm("Sundried")
+p2 <- p2 + scale_fill_iterm("Sundried")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Symfonic
+
+```{r, ggsci-iterm-symfonic}
+p1 <- p1 + scale_color_iterm("Symfonic")
+p2 <- p2 + scale_fill_iterm("Symfonic")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Synthwave Alpha
+
+```{r, ggsci-iterm-synthwave-alpha}
+p1 <- p1 + scale_color_iterm("Synthwave Alpha")
+p2 <- p2 + scale_fill_iterm("Synthwave Alpha")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Synthwave Everything
+
+```{r, ggsci-iterm-synthwave-everything}
+p1 <- p1 + scale_color_iterm("Synthwave Everything")
+p2 <- p2 + scale_fill_iterm("Synthwave Everything")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Synthwave
+
+```{r, ggsci-iterm-synthwave}
+p1 <- p1 + scale_color_iterm("Synthwave")
+p2 <- p2 + scale_fill_iterm("Synthwave")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Tango Adapted
+
+```{r, ggsci-iterm-tango-adapted}
+p1 <- p1 + scale_color_iterm("Tango Adapted")
+p2 <- p2 + scale_fill_iterm("Tango Adapted")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Tango Half Adapted
+
+```{r, ggsci-iterm-tango-half-adapted}
+p1 <- p1 + scale_color_iterm("Tango Half Adapted")
+p2 <- p2 + scale_fill_iterm("Tango Half Adapted")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Tearout
+
+```{r, ggsci-iterm-tearout}
+p1 <- p1 + scale_color_iterm("Tearout")
+p2 <- p2 + scale_fill_iterm("Tearout")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Teerb
+
+```{r, ggsci-iterm-teerb}
+p1 <- p1 + scale_color_iterm("Teerb")
+p2 <- p2 + scale_fill_iterm("Teerb")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Terafox
+
+```{r, ggsci-iterm-terafox}
+p1 <- p1 + scale_color_iterm("Terafox")
+p2 <- p2 + scale_fill_iterm("Terafox")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Terminal Basic Dark
+
+```{r, ggsci-iterm-terminal-basic-dark}
+p1 <- p1 + scale_color_iterm("Terminal Basic Dark")
+p2 <- p2 + scale_fill_iterm("Terminal Basic Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Terminal Basic
+
+```{r, ggsci-iterm-terminal-basic}
+p1 <- p1 + scale_color_iterm("Terminal Basic")
+p2 <- p2 + scale_fill_iterm("Terminal Basic")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Thayer Bright
+
+```{r, ggsci-iterm-thayer-bright}
+p1 <- p1 + scale_color_iterm("Thayer Bright")
+p2 <- p2 + scale_fill_iterm("Thayer Bright")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## The Hulk
+
+```{r, ggsci-iterm-the-hulk}
+p1 <- p1 + scale_color_iterm("The Hulk")
+p2 <- p2 + scale_fill_iterm("The Hulk")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Tinacious Design Dark
+
+```{r, ggsci-iterm-tinacious-design-dark}
+p1 <- p1 + scale_color_iterm("Tinacious Design Dark")
+p2 <- p2 + scale_fill_iterm("Tinacious Design Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Tinacious Design Light
+
+```{r, ggsci-iterm-tinacious-design-light}
+p1 <- p1 + scale_color_iterm("Tinacious Design Light")
+p2 <- p2 + scale_fill_iterm("Tinacious Design Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## TokyoNight Day
+
+```{r, ggsci-iterm-tokyonight-day}
+p1 <- p1 + scale_color_iterm("TokyoNight Day")
+p2 <- p2 + scale_fill_iterm("TokyoNight Day")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## TokyoNight Moon
+
+```{r, ggsci-iterm-tokyonight-moon}
+p1 <- p1 + scale_color_iterm("TokyoNight Moon")
+p2 <- p2 + scale_fill_iterm("TokyoNight Moon")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## TokyoNight Night
+
+```{r, ggsci-iterm-tokyonight-night}
+p1 <- p1 + scale_color_iterm("TokyoNight Night")
+p2 <- p2 + scale_fill_iterm("TokyoNight Night")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## TokyoNight Storm
+
+```{r, ggsci-iterm-tokyonight-storm}
+p1 <- p1 + scale_color_iterm("TokyoNight Storm")
+p2 <- p2 + scale_fill_iterm("TokyoNight Storm")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## TokyoNight
+
+```{r, ggsci-iterm-tokyonight}
+p1 <- p1 + scale_color_iterm("TokyoNight")
+p2 <- p2 + scale_fill_iterm("TokyoNight")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Tomorrow Night Blue
+
+```{r, ggsci-iterm-tomorrow-night-blue}
+p1 <- p1 + scale_color_iterm("Tomorrow Night Blue")
+p2 <- p2 + scale_fill_iterm("Tomorrow Night Blue")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Tomorrow Night Bright
+
+```{r, ggsci-iterm-tomorrow-night-bright}
+p1 <- p1 + scale_color_iterm("Tomorrow Night Bright")
+p2 <- p2 + scale_fill_iterm("Tomorrow Night Bright")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Tomorrow Night Burns
+
+```{r, ggsci-iterm-tomorrow-night-burns}
+p1 <- p1 + scale_color_iterm("Tomorrow Night Burns")
+p2 <- p2 + scale_fill_iterm("Tomorrow Night Burns")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Tomorrow Night Eighties
+
+```{r, ggsci-iterm-tomorrow-night-eighties}
+p1 <- p1 + scale_color_iterm("Tomorrow Night Eighties")
+p2 <- p2 + scale_fill_iterm("Tomorrow Night Eighties")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Tomorrow Night
+
+```{r, ggsci-iterm-tomorrow-night}
+p1 <- p1 + scale_color_iterm("Tomorrow Night")
+p2 <- p2 + scale_fill_iterm("Tomorrow Night")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Tomorrow
+
+```{r, ggsci-iterm-tomorrow}
+p1 <- p1 + scale_color_iterm("Tomorrow")
+p2 <- p2 + scale_fill_iterm("Tomorrow")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Toy Chest
+
+```{r, ggsci-iterm-toy-chest}
+p1 <- p1 + scale_color_iterm("Toy Chest")
+p2 <- p2 + scale_fill_iterm("Toy Chest")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Treehouse
+
+```{r, ggsci-iterm-treehouse}
+p1 <- p1 + scale_color_iterm("Treehouse")
+p2 <- p2 + scale_fill_iterm("Treehouse")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Twilight
+
+```{r, ggsci-iterm-twilight}
+p1 <- p1 + scale_color_iterm("Twilight")
+p2 <- p2 + scale_fill_iterm("Twilight")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Ubuntu
+
+```{r, ggsci-iterm-ubuntu}
+p1 <- p1 + scale_color_iterm("Ubuntu")
+p2 <- p2 + scale_fill_iterm("Ubuntu")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Ultra Dark
+
+```{r, ggsci-iterm-ultra-dark}
+p1 <- p1 + scale_color_iterm("Ultra Dark")
+p2 <- p2 + scale_fill_iterm("Ultra Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Ultra Violent
+
+```{r, ggsci-iterm-ultra-violent}
+p1 <- p1 + scale_color_iterm("Ultra Violent")
+p2 <- p2 + scale_fill_iterm("Ultra Violent")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Under The Sea
+
+```{r, ggsci-iterm-under-the-sea}
+p1 <- p1 + scale_color_iterm("Under The Sea")
+p2 <- p2 + scale_fill_iterm("Under The Sea")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Unikitty
+
+```{r, ggsci-iterm-unikitty}
+p1 <- p1 + scale_color_iterm("Unikitty")
+p2 <- p2 + scale_fill_iterm("Unikitty")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Urple
+
+```{r, ggsci-iterm-urple}
+p1 <- p1 + scale_color_iterm("Urple")
+p2 <- p2 + scale_fill_iterm("Urple")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Vague
+
+```{r, ggsci-iterm-vague}
+p1 <- p1 + scale_color_iterm("Vague")
+p2 <- p2 + scale_fill_iterm("Vague")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Vaughn
+
+```{r, ggsci-iterm-vaughn}
+p1 <- p1 + scale_color_iterm("Vaughn")
+p2 <- p2 + scale_fill_iterm("Vaughn")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Vercel
+
+```{r, ggsci-iterm-vercel}
+p1 <- p1 + scale_color_iterm("Vercel")
+p2 <- p2 + scale_fill_iterm("Vercel")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Vesper
+
+```{r, ggsci-iterm-vesper}
+p1 <- p1 + scale_color_iterm("Vesper")
+p2 <- p2 + scale_fill_iterm("Vesper")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Vibrant Ink
+
+```{r, ggsci-iterm-vibrant-ink}
+p1 <- p1 + scale_color_iterm("Vibrant Ink")
+p2 <- p2 + scale_fill_iterm("Vibrant Ink")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Vimbones
+
+```{r, ggsci-iterm-vimbones}
+p1 <- p1 + scale_color_iterm("Vimbones")
+p2 <- p2 + scale_fill_iterm("Vimbones")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Violet Dark
+
+```{r, ggsci-iterm-violet-dark}
+p1 <- p1 + scale_color_iterm("Violet Dark")
+p2 <- p2 + scale_fill_iterm("Violet Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Violet Light
+
+```{r, ggsci-iterm-violet-light}
+p1 <- p1 + scale_color_iterm("Violet Light")
+p2 <- p2 + scale_fill_iterm("Violet Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Violite
+
+```{r, ggsci-iterm-violite}
+p1 <- p1 + scale_color_iterm("Violite")
+p2 <- p2 + scale_fill_iterm("Violite")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Warm Neon
+
+```{r, ggsci-iterm-warm-neon}
+p1 <- p1 + scale_color_iterm("Warm Neon")
+p2 <- p2 + scale_fill_iterm("Warm Neon")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Wez
+
+```{r, ggsci-iterm-wez}
+p1 <- p1 + scale_color_iterm("Wez")
+p2 <- p2 + scale_fill_iterm("Wez")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Whimsy
+
+```{r, ggsci-iterm-whimsy}
+p1 <- p1 + scale_color_iterm("Whimsy")
+p2 <- p2 + scale_fill_iterm("Whimsy")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Wild Cherry
+
+```{r, ggsci-iterm-wild-cherry}
+p1 <- p1 + scale_color_iterm("Wild Cherry")
+p2 <- p2 + scale_fill_iterm("Wild Cherry")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Wilmersdorf
+
+```{r, ggsci-iterm-wilmersdorf}
+p1 <- p1 + scale_color_iterm("Wilmersdorf")
+p2 <- p2 + scale_fill_iterm("Wilmersdorf")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Wombat
+
+```{r, ggsci-iterm-wombat}
+p1 <- p1 + scale_color_iterm("Wombat")
+p2 <- p2 + scale_fill_iterm("Wombat")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Wryan
+
+```{r, ggsci-iterm-wryan}
+p1 <- p1 + scale_color_iterm("Wryan")
+p2 <- p2 + scale_fill_iterm("Wryan")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Xcode Dark hc
+
+```{r, ggsci-iterm-xcode-dark-hc}
+p1 <- p1 + scale_color_iterm("Xcode Dark hc")
+p2 <- p2 + scale_fill_iterm("Xcode Dark hc")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Xcode Dark
+
+```{r, ggsci-iterm-xcode-dark}
+p1 <- p1 + scale_color_iterm("Xcode Dark")
+p2 <- p2 + scale_fill_iterm("Xcode Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Xcode Light hc
+
+```{r, ggsci-iterm-xcode-light-hc}
+p1 <- p1 + scale_color_iterm("Xcode Light hc")
+p2 <- p2 + scale_fill_iterm("Xcode Light hc")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Xcode Light
+
+```{r, ggsci-iterm-xcode-light}
+p1 <- p1 + scale_color_iterm("Xcode Light")
+p2 <- p2 + scale_fill_iterm("Xcode Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Xcode WWDC
+
+```{r, ggsci-iterm-xcode-wwdc}
+p1 <- p1 + scale_color_iterm("Xcode WWDC")
+p2 <- p2 + scale_fill_iterm("Xcode WWDC")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Zenbones Dark
+
+```{r, ggsci-iterm-zenbones-dark}
+p1 <- p1 + scale_color_iterm("Zenbones Dark")
+p2 <- p2 + scale_fill_iterm("Zenbones Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Zenbones Light
+
+```{r, ggsci-iterm-zenbones-light}
+p1 <- p1 + scale_color_iterm("Zenbones Light")
+p2 <- p2 + scale_fill_iterm("Zenbones Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Zenbones
+
+```{r, ggsci-iterm-zenbones}
+p1 <- p1 + scale_color_iterm("Zenbones")
+p2 <- p2 + scale_fill_iterm("Zenbones")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Zenburn
+
+```{r, ggsci-iterm-zenburn}
+p1 <- p1 + scale_color_iterm("Zenburn")
+p2 <- p2 + scale_fill_iterm("Zenburn")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Zenburned
+
+```{r, ggsci-iterm-zenburned}
+p1 <- p1 + scale_color_iterm("Zenburned")
+p2 <- p2 + scale_fill_iterm("Zenburned")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Zenwritten Dark
+
+```{r, ggsci-iterm-zenwritten-dark}
+p1 <- p1 + scale_color_iterm("Zenwritten Dark")
+p2 <- p2 + scale_fill_iterm("Zenwritten Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Zenwritten Light
+
+```{r, ggsci-iterm-zenwritten-light}
+p1 <- p1 + scale_color_iterm("Zenwritten Light")
+p2 <- p2 + scale_fill_iterm("Zenwritten Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
