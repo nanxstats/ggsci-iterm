@@ -1,0 +1,3054 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ggsci iterm palettes",
+    "section": "",
+    "text": "Set up example plots:\nlibrary(\"ggsci\")\nlibrary(\"ggplot2\")\nlibrary(\"gridExtra\")\np1 &lt;- example_scatterplot()\np2 &lt;- example_barplot()"
+  },
+  {
+    "objectID": "index.html#x96f",
+    "href": "index.html#x96f",
+    "title": "ggsci iterm palettes",
+    "section": "0x96f",
+    "text": "0x96f\n\np1 &lt;- p1 + scale_color_iterm(\"0x96f\")\np2 &lt;- p2 + scale_fill_iterm(\"0x96f\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#bit-rainbow",
+    "href": "index.html#bit-rainbow",
+    "title": "ggsci iterm palettes",
+    "section": "12-bit Rainbow",
+    "text": "12-bit Rainbow\n\np1 &lt;- p1 + scale_color_iterm(\"12-bit Rainbow\")\np2 &lt;- p2 + scale_fill_iterm(\"12-bit Rainbow\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#day",
+    "href": "index.html#day",
+    "title": "ggsci iterm palettes",
+    "section": "3024 Day",
+    "text": "3024 Day\n\np1 &lt;- p1 + scale_color_iterm(\"3024 Day\")\np2 &lt;- p2 + scale_fill_iterm(\"3024 Day\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#night",
+    "href": "index.html#night",
+    "title": "ggsci iterm palettes",
+    "section": "3024 Night",
+    "text": "3024 Night\n\np1 &lt;- p1 + scale_color_iterm(\"3024 Night\")\np2 &lt;- p2 + scale_fill_iterm(\"3024 Night\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#aardvark-blue",
+    "href": "index.html#aardvark-blue",
+    "title": "ggsci iterm palettes",
+    "section": "Aardvark Blue",
+    "text": "Aardvark Blue\n\np1 &lt;- p1 + scale_color_iterm(\"Aardvark Blue\")\np2 &lt;- p2 + scale_fill_iterm(\"Aardvark Blue\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#abernathy",
+    "href": "index.html#abernathy",
+    "title": "ggsci iterm palettes",
+    "section": "Abernathy",
+    "text": "Abernathy\n\np1 &lt;- p1 + scale_color_iterm(\"Abernathy\")\np2 &lt;- p2 + scale_fill_iterm(\"Abernathy\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#adventure-time",
+    "href": "index.html#adventure-time",
+    "title": "ggsci iterm palettes",
+    "section": "Adventure Time",
+    "text": "Adventure Time\n\np1 &lt;- p1 + scale_color_iterm(\"Adventure Time\")\np2 &lt;- p2 + scale_fill_iterm(\"Adventure Time\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#adventure",
+    "href": "index.html#adventure",
+    "title": "ggsci iterm palettes",
+    "section": "Adventure",
+    "text": "Adventure\n\np1 &lt;- p1 + scale_color_iterm(\"Adventure\")\np2 &lt;- p2 + scale_fill_iterm(\"Adventure\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#adwaita-dark",
+    "href": "index.html#adwaita-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Adwaita Dark",
+    "text": "Adwaita Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Adwaita Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Adwaita Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#adwaita",
+    "href": "index.html#adwaita",
+    "title": "ggsci iterm palettes",
+    "section": "Adwaita",
+    "text": "Adwaita\n\np1 &lt;- p1 + scale_color_iterm(\"Adwaita\")\np2 &lt;- p2 + scale_fill_iterm(\"Adwaita\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#afterglow",
+    "href": "index.html#afterglow",
+    "title": "ggsci iterm palettes",
+    "section": "Afterglow",
+    "text": "Afterglow\n\np1 &lt;- p1 + scale_color_iterm(\"Afterglow\")\np2 &lt;- p2 + scale_fill_iterm(\"Afterglow\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#alabaster",
+    "href": "index.html#alabaster",
+    "title": "ggsci iterm palettes",
+    "section": "Alabaster",
+    "text": "Alabaster\n\np1 &lt;- p1 + scale_color_iterm(\"Alabaster\")\np2 &lt;- p2 + scale_fill_iterm(\"Alabaster\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#alien-blood",
+    "href": "index.html#alien-blood",
+    "title": "ggsci iterm palettes",
+    "section": "Alien Blood",
+    "text": "Alien Blood\n\np1 &lt;- p1 + scale_color_iterm(\"Alien Blood\")\np2 &lt;- p2 + scale_fill_iterm(\"Alien Blood\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#andromeda",
+    "href": "index.html#andromeda",
+    "title": "ggsci iterm palettes",
+    "section": "Andromeda",
+    "text": "Andromeda\n\np1 &lt;- p1 + scale_color_iterm(\"Andromeda\")\np2 &lt;- p2 + scale_fill_iterm(\"Andromeda\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#apple-classic",
+    "href": "index.html#apple-classic",
+    "title": "ggsci iterm palettes",
+    "section": "Apple Classic",
+    "text": "Apple Classic\n\np1 &lt;- p1 + scale_color_iterm(\"Apple Classic\")\np2 &lt;- p2 + scale_fill_iterm(\"Apple Classic\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#apple-system-colors-light",
+    "href": "index.html#apple-system-colors-light",
+    "title": "ggsci iterm palettes",
+    "section": "Apple System Colors Light",
+    "text": "Apple System Colors Light\n\np1 &lt;- p1 + scale_color_iterm(\"Apple System Colors Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Apple System Colors Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#apple-system-colors",
+    "href": "index.html#apple-system-colors",
+    "title": "ggsci iterm palettes",
+    "section": "Apple System Colors",
+    "text": "Apple System Colors\n\np1 &lt;- p1 + scale_color_iterm(\"Apple System Colors\")\np2 &lt;- p2 + scale_fill_iterm(\"Apple System Colors\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#arcoiris",
+    "href": "index.html#arcoiris",
+    "title": "ggsci iterm palettes",
+    "section": "Arcoiris",
+    "text": "Arcoiris\n\np1 &lt;- p1 + scale_color_iterm(\"Arcoiris\")\np2 &lt;- p2 + scale_fill_iterm(\"Arcoiris\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#ardoise",
+    "href": "index.html#ardoise",
+    "title": "ggsci iterm palettes",
+    "section": "Ardoise",
+    "text": "Ardoise\n\np1 &lt;- p1 + scale_color_iterm(\"Ardoise\")\np2 &lt;- p2 + scale_fill_iterm(\"Ardoise\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#argonaut",
+    "href": "index.html#argonaut",
+    "title": "ggsci iterm palettes",
+    "section": "Argonaut",
+    "text": "Argonaut\n\np1 &lt;- p1 + scale_color_iterm(\"Argonaut\")\np2 &lt;- p2 + scale_fill_iterm(\"Argonaut\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#arthur",
+    "href": "index.html#arthur",
+    "title": "ggsci iterm palettes",
+    "section": "Arthur",
+    "text": "Arthur\n\np1 &lt;- p1 + scale_color_iterm(\"Arthur\")\np2 &lt;- p2 + scale_fill_iterm(\"Arthur\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#atelier-sulphurpool",
+    "href": "index.html#atelier-sulphurpool",
+    "title": "ggsci iterm palettes",
+    "section": "Atelier Sulphurpool",
+    "text": "Atelier Sulphurpool\n\np1 &lt;- p1 + scale_color_iterm(\"Atelier Sulphurpool\")\np2 &lt;- p2 + scale_fill_iterm(\"Atelier Sulphurpool\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#atom-one-dark",
+    "href": "index.html#atom-one-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Atom One Dark",
+    "text": "Atom One Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Atom One Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Atom One Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#atom-one-light",
+    "href": "index.html#atom-one-light",
+    "title": "ggsci iterm palettes",
+    "section": "Atom One Light",
+    "text": "Atom One Light\n\np1 &lt;- p1 + scale_color_iterm(\"Atom One Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Atom One Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#atom",
+    "href": "index.html#atom",
+    "title": "ggsci iterm palettes",
+    "section": "Atom",
+    "text": "Atom\n\np1 &lt;- p1 + scale_color_iterm(\"Atom\")\np2 &lt;- p2 + scale_fill_iterm(\"Atom\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#aura",
+    "href": "index.html#aura",
+    "title": "ggsci iterm palettes",
+    "section": "Aura",
+    "text": "Aura\n\np1 &lt;- p1 + scale_color_iterm(\"Aura\")\np2 &lt;- p2 + scale_fill_iterm(\"Aura\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#aurora",
+    "href": "index.html#aurora",
+    "title": "ggsci iterm palettes",
+    "section": "Aurora",
+    "text": "Aurora\n\np1 &lt;- p1 + scale_color_iterm(\"Aurora\")\np2 &lt;- p2 + scale_fill_iterm(\"Aurora\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#ayu-light",
+    "href": "index.html#ayu-light",
+    "title": "ggsci iterm palettes",
+    "section": "Ayu Light",
+    "text": "Ayu Light\n\np1 &lt;- p1 + scale_color_iterm(\"Ayu Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Ayu Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#ayu-mirage",
+    "href": "index.html#ayu-mirage",
+    "title": "ggsci iterm palettes",
+    "section": "Ayu Mirage",
+    "text": "Ayu Mirage\n\np1 &lt;- p1 + scale_color_iterm(\"Ayu Mirage\")\np2 &lt;- p2 + scale_fill_iterm(\"Ayu Mirage\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#ayu",
+    "href": "index.html#ayu",
+    "title": "ggsci iterm palettes",
+    "section": "Ayu",
+    "text": "Ayu\n\np1 &lt;- p1 + scale_color_iterm(\"Ayu\")\np2 &lt;- p2 + scale_fill_iterm(\"Ayu\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#banana-blueberry",
+    "href": "index.html#banana-blueberry",
+    "title": "ggsci iterm palettes",
+    "section": "Banana Blueberry",
+    "text": "Banana Blueberry\n\np1 &lt;- p1 + scale_color_iterm(\"Banana Blueberry\")\np2 &lt;- p2 + scale_fill_iterm(\"Banana Blueberry\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#batman",
+    "href": "index.html#batman",
+    "title": "ggsci iterm palettes",
+    "section": "Batman",
+    "text": "Batman\n\np1 &lt;- p1 + scale_color_iterm(\"Batman\")\np2 &lt;- p2 + scale_fill_iterm(\"Batman\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#belafonte-day",
+    "href": "index.html#belafonte-day",
+    "title": "ggsci iterm palettes",
+    "section": "Belafonte Day",
+    "text": "Belafonte Day\n\np1 &lt;- p1 + scale_color_iterm(\"Belafonte Day\")\np2 &lt;- p2 + scale_fill_iterm(\"Belafonte Day\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#belafonte-night",
+    "href": "index.html#belafonte-night",
+    "title": "ggsci iterm palettes",
+    "section": "Belafonte Night",
+    "text": "Belafonte Night\n\np1 &lt;- p1 + scale_color_iterm(\"Belafonte Night\")\np2 &lt;- p2 + scale_fill_iterm(\"Belafonte Night\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#birds-of-paradise",
+    "href": "index.html#birds-of-paradise",
+    "title": "ggsci iterm palettes",
+    "section": "Birds Of Paradise",
+    "text": "Birds Of Paradise\n\np1 &lt;- p1 + scale_color_iterm(\"Birds Of Paradise\")\np2 &lt;- p2 + scale_fill_iterm(\"Birds Of Paradise\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#black-metal-bathory",
+    "href": "index.html#black-metal-bathory",
+    "title": "ggsci iterm palettes",
+    "section": "Black Metal (Bathory)",
+    "text": "Black Metal (Bathory)\n\np1 &lt;- p1 + scale_color_iterm(\"Black Metal (Bathory)\")\np2 &lt;- p2 + scale_fill_iterm(\"Black Metal (Bathory)\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#black-metal-burzum",
+    "href": "index.html#black-metal-burzum",
+    "title": "ggsci iterm palettes",
+    "section": "Black Metal (Burzum)",
+    "text": "Black Metal (Burzum)\n\np1 &lt;- p1 + scale_color_iterm(\"Black Metal (Burzum)\")\np2 &lt;- p2 + scale_fill_iterm(\"Black Metal (Burzum)\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#black-metal-dark-funeral",
+    "href": "index.html#black-metal-dark-funeral",
+    "title": "ggsci iterm palettes",
+    "section": "Black Metal (Dark Funeral)",
+    "text": "Black Metal (Dark Funeral)\n\np1 &lt;- p1 + scale_color_iterm(\"Black Metal (Dark Funeral)\")\np2 &lt;- p2 + scale_fill_iterm(\"Black Metal (Dark Funeral)\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#black-metal-gorgoroth",
+    "href": "index.html#black-metal-gorgoroth",
+    "title": "ggsci iterm palettes",
+    "section": "Black Metal (Gorgoroth)",
+    "text": "Black Metal (Gorgoroth)\n\np1 &lt;- p1 + scale_color_iterm(\"Black Metal (Gorgoroth)\")\np2 &lt;- p2 + scale_fill_iterm(\"Black Metal (Gorgoroth)\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#black-metal-immortal",
+    "href": "index.html#black-metal-immortal",
+    "title": "ggsci iterm palettes",
+    "section": "Black Metal (Immortal)",
+    "text": "Black Metal (Immortal)\n\np1 &lt;- p1 + scale_color_iterm(\"Black Metal (Immortal)\")\np2 &lt;- p2 + scale_fill_iterm(\"Black Metal (Immortal)\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#black-metal-khold",
+    "href": "index.html#black-metal-khold",
+    "title": "ggsci iterm palettes",
+    "section": "Black Metal (Khold)",
+    "text": "Black Metal (Khold)\n\np1 &lt;- p1 + scale_color_iterm(\"Black Metal (Khold)\")\np2 &lt;- p2 + scale_fill_iterm(\"Black Metal (Khold)\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#black-metal-marduk",
+    "href": "index.html#black-metal-marduk",
+    "title": "ggsci iterm palettes",
+    "section": "Black Metal (Marduk)",
+    "text": "Black Metal (Marduk)\n\np1 &lt;- p1 + scale_color_iterm(\"Black Metal (Marduk)\")\np2 &lt;- p2 + scale_fill_iterm(\"Black Metal (Marduk)\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#black-metal-mayhem",
+    "href": "index.html#black-metal-mayhem",
+    "title": "ggsci iterm palettes",
+    "section": "Black Metal (Mayhem)",
+    "text": "Black Metal (Mayhem)\n\np1 &lt;- p1 + scale_color_iterm(\"Black Metal (Mayhem)\")\np2 &lt;- p2 + scale_fill_iterm(\"Black Metal (Mayhem)\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#black-metal-nile",
+    "href": "index.html#black-metal-nile",
+    "title": "ggsci iterm palettes",
+    "section": "Black Metal (Nile)",
+    "text": "Black Metal (Nile)\n\np1 &lt;- p1 + scale_color_iterm(\"Black Metal (Nile)\")\np2 &lt;- p2 + scale_fill_iterm(\"Black Metal (Nile)\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#black-metal-venom",
+    "href": "index.html#black-metal-venom",
+    "title": "ggsci iterm palettes",
+    "section": "Black Metal (Venom)",
+    "text": "Black Metal (Venom)\n\np1 &lt;- p1 + scale_color_iterm(\"Black Metal (Venom)\")\np2 &lt;- p2 + scale_fill_iterm(\"Black Metal (Venom)\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#black-metal",
+    "href": "index.html#black-metal",
+    "title": "ggsci iterm palettes",
+    "section": "Black Metal",
+    "text": "Black Metal\n\np1 &lt;- p1 + scale_color_iterm(\"Black Metal\")\np2 &lt;- p2 + scale_fill_iterm(\"Black Metal\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#blazer",
+    "href": "index.html#blazer",
+    "title": "ggsci iterm palettes",
+    "section": "Blazer",
+    "text": "Blazer\n\np1 &lt;- p1 + scale_color_iterm(\"Blazer\")\np2 &lt;- p2 + scale_fill_iterm(\"Blazer\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#blue-berry-pie",
+    "href": "index.html#blue-berry-pie",
+    "title": "ggsci iterm palettes",
+    "section": "Blue Berry Pie",
+    "text": "Blue Berry Pie\n\np1 &lt;- p1 + scale_color_iterm(\"Blue Berry Pie\")\np2 &lt;- p2 + scale_fill_iterm(\"Blue Berry Pie\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#blue-dolphin",
+    "href": "index.html#blue-dolphin",
+    "title": "ggsci iterm palettes",
+    "section": "Blue Dolphin",
+    "text": "Blue Dolphin\n\np1 &lt;- p1 + scale_color_iterm(\"Blue Dolphin\")\np2 &lt;- p2 + scale_fill_iterm(\"Blue Dolphin\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#blue-matrix",
+    "href": "index.html#blue-matrix",
+    "title": "ggsci iterm palettes",
+    "section": "Blue Matrix",
+    "text": "Blue Matrix\n\np1 &lt;- p1 + scale_color_iterm(\"Blue Matrix\")\np2 &lt;- p2 + scale_fill_iterm(\"Blue Matrix\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#bluloco-dark",
+    "href": "index.html#bluloco-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Bluloco Dark",
+    "text": "Bluloco Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Bluloco Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Bluloco Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#bluloco-light",
+    "href": "index.html#bluloco-light",
+    "title": "ggsci iterm palettes",
+    "section": "Bluloco Light",
+    "text": "Bluloco Light\n\np1 &lt;- p1 + scale_color_iterm(\"Bluloco Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Bluloco Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#borland",
+    "href": "index.html#borland",
+    "title": "ggsci iterm palettes",
+    "section": "Borland",
+    "text": "Borland\n\np1 &lt;- p1 + scale_color_iterm(\"Borland\")\np2 &lt;- p2 + scale_fill_iterm(\"Borland\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#box",
+    "href": "index.html#box",
+    "title": "ggsci iterm palettes",
+    "section": "Box",
+    "text": "Box\n\np1 &lt;- p1 + scale_color_iterm(\"Box\")\np2 &lt;- p2 + scale_fill_iterm(\"Box\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#breadog",
+    "href": "index.html#breadog",
+    "title": "ggsci iterm palettes",
+    "section": "Breadog",
+    "text": "Breadog\n\np1 &lt;- p1 + scale_color_iterm(\"Breadog\")\np2 &lt;- p2 + scale_fill_iterm(\"Breadog\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#breeze",
+    "href": "index.html#breeze",
+    "title": "ggsci iterm palettes",
+    "section": "Breeze",
+    "text": "Breeze\n\np1 &lt;- p1 + scale_color_iterm(\"Breeze\")\np2 &lt;- p2 + scale_fill_iterm(\"Breeze\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#bright-lights",
+    "href": "index.html#bright-lights",
+    "title": "ggsci iterm palettes",
+    "section": "Bright Lights",
+    "text": "Bright Lights\n\np1 &lt;- p1 + scale_color_iterm(\"Bright Lights\")\np2 &lt;- p2 + scale_fill_iterm(\"Bright Lights\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#broadcast",
+    "href": "index.html#broadcast",
+    "title": "ggsci iterm palettes",
+    "section": "Broadcast",
+    "text": "Broadcast\n\np1 &lt;- p1 + scale_color_iterm(\"Broadcast\")\np2 &lt;- p2 + scale_fill_iterm(\"Broadcast\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#brogrammer",
+    "href": "index.html#brogrammer",
+    "title": "ggsci iterm palettes",
+    "section": "Brogrammer",
+    "text": "Brogrammer\n\np1 &lt;- p1 + scale_color_iterm(\"Brogrammer\")\np2 &lt;- p2 + scale_fill_iterm(\"Brogrammer\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#builtin-dark",
+    "href": "index.html#builtin-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Builtin Dark",
+    "text": "Builtin Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Builtin Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Builtin Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#builtin-light",
+    "href": "index.html#builtin-light",
+    "title": "ggsci iterm palettes",
+    "section": "Builtin Light",
+    "text": "Builtin Light\n\np1 &lt;- p1 + scale_color_iterm(\"Builtin Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Builtin Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#builtin-pastel-dark",
+    "href": "index.html#builtin-pastel-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Builtin Pastel Dark",
+    "text": "Builtin Pastel Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Builtin Pastel Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Builtin Pastel Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#builtin-solarized-dark",
+    "href": "index.html#builtin-solarized-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Builtin Solarized Dark",
+    "text": "Builtin Solarized Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Builtin Solarized Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Builtin Solarized Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#builtin-solarized-light",
+    "href": "index.html#builtin-solarized-light",
+    "title": "ggsci iterm palettes",
+    "section": "Builtin Solarized Light",
+    "text": "Builtin Solarized Light\n\np1 &lt;- p1 + scale_color_iterm(\"Builtin Solarized Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Builtin Solarized Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#builtin-tango-dark",
+    "href": "index.html#builtin-tango-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Builtin Tango Dark",
+    "text": "Builtin Tango Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Builtin Tango Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Builtin Tango Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#builtin-tango-light",
+    "href": "index.html#builtin-tango-light",
+    "title": "ggsci iterm palettes",
+    "section": "Builtin Tango Light",
+    "text": "Builtin Tango Light\n\np1 &lt;- p1 + scale_color_iterm(\"Builtin Tango Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Builtin Tango Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#c64",
+    "href": "index.html#c64",
+    "title": "ggsci iterm palettes",
+    "section": "C64",
+    "text": "C64\n\np1 &lt;- p1 + scale_color_iterm(\"C64\")\np2 &lt;- p2 + scale_fill_iterm(\"C64\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#calamity",
+    "href": "index.html#calamity",
+    "title": "ggsci iterm palettes",
+    "section": "Calamity",
+    "text": "Calamity\n\np1 &lt;- p1 + scale_color_iterm(\"Calamity\")\np2 &lt;- p2 + scale_fill_iterm(\"Calamity\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#carbonfox",
+    "href": "index.html#carbonfox",
+    "title": "ggsci iterm palettes",
+    "section": "Carbonfox",
+    "text": "Carbonfox\n\np1 &lt;- p1 + scale_color_iterm(\"Carbonfox\")\np2 &lt;- p2 + scale_fill_iterm(\"Carbonfox\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#catppuccin-frappe",
+    "href": "index.html#catppuccin-frappe",
+    "title": "ggsci iterm palettes",
+    "section": "Catppuccin Frappe",
+    "text": "Catppuccin Frappe\n\np1 &lt;- p1 + scale_color_iterm(\"Catppuccin Frappe\")\np2 &lt;- p2 + scale_fill_iterm(\"Catppuccin Frappe\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#catppuccin-latte",
+    "href": "index.html#catppuccin-latte",
+    "title": "ggsci iterm palettes",
+    "section": "Catppuccin Latte",
+    "text": "Catppuccin Latte\n\np1 &lt;- p1 + scale_color_iterm(\"Catppuccin Latte\")\np2 &lt;- p2 + scale_fill_iterm(\"Catppuccin Latte\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#catppuccin-macchiato",
+    "href": "index.html#catppuccin-macchiato",
+    "title": "ggsci iterm palettes",
+    "section": "Catppuccin Macchiato",
+    "text": "Catppuccin Macchiato\n\np1 &lt;- p1 + scale_color_iterm(\"Catppuccin Macchiato\")\np2 &lt;- p2 + scale_fill_iterm(\"Catppuccin Macchiato\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#catppuccin-mocha",
+    "href": "index.html#catppuccin-mocha",
+    "title": "ggsci iterm palettes",
+    "section": "Catppuccin Mocha",
+    "text": "Catppuccin Mocha\n\np1 &lt;- p1 + scale_color_iterm(\"Catppuccin Mocha\")\np2 &lt;- p2 + scale_fill_iterm(\"Catppuccin Mocha\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#cga",
+    "href": "index.html#cga",
+    "title": "ggsci iterm palettes",
+    "section": "CGA",
+    "text": "CGA\n\np1 &lt;- p1 + scale_color_iterm(\"CGA\")\np2 &lt;- p2 + scale_fill_iterm(\"CGA\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#chalk",
+    "href": "index.html#chalk",
+    "title": "ggsci iterm palettes",
+    "section": "Chalk",
+    "text": "Chalk\n\np1 &lt;- p1 + scale_color_iterm(\"Chalk\")\np2 &lt;- p2 + scale_fill_iterm(\"Chalk\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#chalkboard",
+    "href": "index.html#chalkboard",
+    "title": "ggsci iterm palettes",
+    "section": "Chalkboard",
+    "text": "Chalkboard\n\np1 &lt;- p1 + scale_color_iterm(\"Chalkboard\")\np2 &lt;- p2 + scale_fill_iterm(\"Chalkboard\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#challenger-deep",
+    "href": "index.html#challenger-deep",
+    "title": "ggsci iterm palettes",
+    "section": "Challenger Deep",
+    "text": "Challenger Deep\n\np1 &lt;- p1 + scale_color_iterm(\"Challenger Deep\")\np2 &lt;- p2 + scale_fill_iterm(\"Challenger Deep\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#chester",
+    "href": "index.html#chester",
+    "title": "ggsci iterm palettes",
+    "section": "Chester",
+    "text": "Chester\n\np1 &lt;- p1 + scale_color_iterm(\"Chester\")\np2 &lt;- p2 + scale_fill_iterm(\"Chester\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#ciapre",
+    "href": "index.html#ciapre",
+    "title": "ggsci iterm palettes",
+    "section": "Ciapre",
+    "text": "Ciapre\n\np1 &lt;- p1 + scale_color_iterm(\"Ciapre\")\np2 &lt;- p2 + scale_fill_iterm(\"Ciapre\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#citruszest",
+    "href": "index.html#citruszest",
+    "title": "ggsci iterm palettes",
+    "section": "Citruszest",
+    "text": "Citruszest\n\np1 &lt;- p1 + scale_color_iterm(\"Citruszest\")\np2 &lt;- p2 + scale_fill_iterm(\"Citruszest\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#clrs",
+    "href": "index.html#clrs",
+    "title": "ggsci iterm palettes",
+    "section": "CLRS",
+    "text": "CLRS\n\np1 &lt;- p1 + scale_color_iterm(\"CLRS\")\np2 &lt;- p2 + scale_fill_iterm(\"CLRS\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#cobalt-neon",
+    "href": "index.html#cobalt-neon",
+    "title": "ggsci iterm palettes",
+    "section": "Cobalt Neon",
+    "text": "Cobalt Neon\n\np1 &lt;- p1 + scale_color_iterm(\"Cobalt Neon\")\np2 &lt;- p2 + scale_fill_iterm(\"Cobalt Neon\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#cobalt-next-dark",
+    "href": "index.html#cobalt-next-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Cobalt Next Dark",
+    "text": "Cobalt Next Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Cobalt Next Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Cobalt Next Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#cobalt-next-minimal",
+    "href": "index.html#cobalt-next-minimal",
+    "title": "ggsci iterm palettes",
+    "section": "Cobalt Next Minimal",
+    "text": "Cobalt Next Minimal\n\np1 &lt;- p1 + scale_color_iterm(\"Cobalt Next Minimal\")\np2 &lt;- p2 + scale_fill_iterm(\"Cobalt Next Minimal\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#cobalt-next",
+    "href": "index.html#cobalt-next",
+    "title": "ggsci iterm palettes",
+    "section": "Cobalt Next",
+    "text": "Cobalt Next\n\np1 &lt;- p1 + scale_color_iterm(\"Cobalt Next\")\np2 &lt;- p2 + scale_fill_iterm(\"Cobalt Next\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#cobalt2",
+    "href": "index.html#cobalt2",
+    "title": "ggsci iterm palettes",
+    "section": "Cobalt2",
+    "text": "Cobalt2\n\np1 &lt;- p1 + scale_color_iterm(\"Cobalt2\")\np2 &lt;- p2 + scale_fill_iterm(\"Cobalt2\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#coffee-theme",
+    "href": "index.html#coffee-theme",
+    "title": "ggsci iterm palettes",
+    "section": "Coffee Theme",
+    "text": "Coffee Theme\n\np1 &lt;- p1 + scale_color_iterm(\"Coffee Theme\")\np2 &lt;- p2 + scale_fill_iterm(\"Coffee Theme\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#crayon-pony-fish",
+    "href": "index.html#crayon-pony-fish",
+    "title": "ggsci iterm palettes",
+    "section": "Crayon Pony Fish",
+    "text": "Crayon Pony Fish\n\np1 &lt;- p1 + scale_color_iterm(\"Crayon Pony Fish\")\np2 &lt;- p2 + scale_fill_iterm(\"Crayon Pony Fish\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#cursor-dark",
+    "href": "index.html#cursor-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Cursor Dark",
+    "text": "Cursor Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Cursor Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Cursor Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#cutie-pro",
+    "href": "index.html#cutie-pro",
+    "title": "ggsci iterm palettes",
+    "section": "Cutie Pro",
+    "text": "Cutie Pro\n\np1 &lt;- p1 + scale_color_iterm(\"Cutie Pro\")\np2 &lt;- p2 + scale_fill_iterm(\"Cutie Pro\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#cyberdyne",
+    "href": "index.html#cyberdyne",
+    "title": "ggsci iterm palettes",
+    "section": "Cyberdyne",
+    "text": "Cyberdyne\n\np1 &lt;- p1 + scale_color_iterm(\"Cyberdyne\")\np2 &lt;- p2 + scale_fill_iterm(\"Cyberdyne\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#cyberpunk-scarlet-protocol",
+    "href": "index.html#cyberpunk-scarlet-protocol",
+    "title": "ggsci iterm palettes",
+    "section": "Cyberpunk Scarlet Protocol",
+    "text": "Cyberpunk Scarlet Protocol\n\np1 &lt;- p1 + scale_color_iterm(\"Cyberpunk Scarlet Protocol\")\np2 &lt;- p2 + scale_fill_iterm(\"Cyberpunk Scarlet Protocol\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#cyberpunk",
+    "href": "index.html#cyberpunk",
+    "title": "ggsci iterm palettes",
+    "section": "Cyberpunk",
+    "text": "Cyberpunk\n\np1 &lt;- p1 + scale_color_iterm(\"Cyberpunk\")\np2 &lt;- p2 + scale_fill_iterm(\"Cyberpunk\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#dark-modern",
+    "href": "index.html#dark-modern",
+    "title": "ggsci iterm palettes",
+    "section": "Dark Modern",
+    "text": "Dark Modern\n\np1 &lt;- p1 + scale_color_iterm(\"Dark Modern\")\np2 &lt;- p2 + scale_fill_iterm(\"Dark Modern\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#dark-pastel",
+    "href": "index.html#dark-pastel",
+    "title": "ggsci iterm palettes",
+    "section": "Dark Pastel",
+    "text": "Dark Pastel\n\np1 &lt;- p1 + scale_color_iterm(\"Dark Pastel\")\np2 &lt;- p2 + scale_fill_iterm(\"Dark Pastel\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#dark",
+    "href": "index.html#dark",
+    "title": "ggsci iterm palettes",
+    "section": "Dark+",
+    "text": "Dark+\n\np1 &lt;- p1 + scale_color_iterm(\"Dark+\")\np2 &lt;- p2 + scale_fill_iterm(\"Dark+\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#darkermatrix",
+    "href": "index.html#darkermatrix",
+    "title": "ggsci iterm palettes",
+    "section": "Darkermatrix",
+    "text": "Darkermatrix\n\np1 &lt;- p1 + scale_color_iterm(\"Darkermatrix\")\np2 &lt;- p2 + scale_fill_iterm(\"Darkermatrix\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#darkmatrix",
+    "href": "index.html#darkmatrix",
+    "title": "ggsci iterm palettes",
+    "section": "Darkmatrix",
+    "text": "Darkmatrix\n\np1 &lt;- p1 + scale_color_iterm(\"Darkmatrix\")\np2 &lt;- p2 + scale_fill_iterm(\"Darkmatrix\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#darkside",
+    "href": "index.html#darkside",
+    "title": "ggsci iterm palettes",
+    "section": "Darkside",
+    "text": "Darkside\n\np1 &lt;- p1 + scale_color_iterm(\"Darkside\")\np2 &lt;- p2 + scale_fill_iterm(\"Darkside\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#dawnfox",
+    "href": "index.html#dawnfox",
+    "title": "ggsci iterm palettes",
+    "section": "Dawnfox",
+    "text": "Dawnfox\n\np1 &lt;- p1 + scale_color_iterm(\"Dawnfox\")\np2 &lt;- p2 + scale_fill_iterm(\"Dawnfox\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#dayfox",
+    "href": "index.html#dayfox",
+    "title": "ggsci iterm palettes",
+    "section": "Dayfox",
+    "text": "Dayfox\n\np1 &lt;- p1 + scale_color_iterm(\"Dayfox\")\np2 &lt;- p2 + scale_fill_iterm(\"Dayfox\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#deep",
+    "href": "index.html#deep",
+    "title": "ggsci iterm palettes",
+    "section": "Deep",
+    "text": "Deep\n\np1 &lt;- p1 + scale_color_iterm(\"Deep\")\np2 &lt;- p2 + scale_fill_iterm(\"Deep\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#desert",
+    "href": "index.html#desert",
+    "title": "ggsci iterm palettes",
+    "section": "Desert",
+    "text": "Desert\n\np1 &lt;- p1 + scale_color_iterm(\"Desert\")\np2 &lt;- p2 + scale_fill_iterm(\"Desert\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#detuned",
+    "href": "index.html#detuned",
+    "title": "ggsci iterm palettes",
+    "section": "Detuned",
+    "text": "Detuned\n\np1 &lt;- p1 + scale_color_iterm(\"Detuned\")\np2 &lt;- p2 + scale_fill_iterm(\"Detuned\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#dimidium",
+    "href": "index.html#dimidium",
+    "title": "ggsci iterm palettes",
+    "section": "Dimidium",
+    "text": "Dimidium\n\np1 &lt;- p1 + scale_color_iterm(\"Dimidium\")\np2 &lt;- p2 + scale_fill_iterm(\"Dimidium\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#dimmed-monokai",
+    "href": "index.html#dimmed-monokai",
+    "title": "ggsci iterm palettes",
+    "section": "Dimmed Monokai",
+    "text": "Dimmed Monokai\n\np1 &lt;- p1 + scale_color_iterm(\"Dimmed Monokai\")\np2 &lt;- p2 + scale_fill_iterm(\"Dimmed Monokai\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#django-reborn-again",
+    "href": "index.html#django-reborn-again",
+    "title": "ggsci iterm palettes",
+    "section": "Django Reborn Again",
+    "text": "Django Reborn Again\n\np1 &lt;- p1 + scale_color_iterm(\"Django Reborn Again\")\np2 &lt;- p2 + scale_fill_iterm(\"Django Reborn Again\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#django-smooth",
+    "href": "index.html#django-smooth",
+    "title": "ggsci iterm palettes",
+    "section": "Django Smooth",
+    "text": "Django Smooth\n\np1 &lt;- p1 + scale_color_iterm(\"Django Smooth\")\np2 &lt;- p2 + scale_fill_iterm(\"Django Smooth\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#django",
+    "href": "index.html#django",
+    "title": "ggsci iterm palettes",
+    "section": "Django",
+    "text": "Django\n\np1 &lt;- p1 + scale_color_iterm(\"Django\")\np2 &lt;- p2 + scale_fill_iterm(\"Django\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#doom-one",
+    "href": "index.html#doom-one",
+    "title": "ggsci iterm palettes",
+    "section": "Doom One",
+    "text": "Doom One\n\np1 &lt;- p1 + scale_color_iterm(\"Doom One\")\np2 &lt;- p2 + scale_fill_iterm(\"Doom One\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#doom-peacock",
+    "href": "index.html#doom-peacock",
+    "title": "ggsci iterm palettes",
+    "section": "Doom Peacock",
+    "text": "Doom Peacock\n\np1 &lt;- p1 + scale_color_iterm(\"Doom Peacock\")\np2 &lt;- p2 + scale_fill_iterm(\"Doom Peacock\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#dot-gov",
+    "href": "index.html#dot-gov",
+    "title": "ggsci iterm palettes",
+    "section": "Dot Gov",
+    "text": "Dot Gov\n\np1 &lt;- p1 + scale_color_iterm(\"Dot Gov\")\np2 &lt;- p2 + scale_fill_iterm(\"Dot Gov\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#dracula",
+    "href": "index.html#dracula",
+    "title": "ggsci iterm palettes",
+    "section": "Dracula",
+    "text": "Dracula\n\np1 &lt;- p1 + scale_color_iterm(\"Dracula\")\np2 &lt;- p2 + scale_fill_iterm(\"Dracula\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#dracula-1",
+    "href": "index.html#dracula-1",
+    "title": "ggsci iterm palettes",
+    "section": "Dracula+",
+    "text": "Dracula+\n\np1 &lt;- p1 + scale_color_iterm(\"Dracula+\")\np2 &lt;- p2 + scale_fill_iterm(\"Dracula+\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#duckbones",
+    "href": "index.html#duckbones",
+    "title": "ggsci iterm palettes",
+    "section": "Duckbones",
+    "text": "Duckbones\n\np1 &lt;- p1 + scale_color_iterm(\"Duckbones\")\np2 &lt;- p2 + scale_fill_iterm(\"Duckbones\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#duotone-dark",
+    "href": "index.html#duotone-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Duotone Dark",
+    "text": "Duotone Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Duotone Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Duotone Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#duskfox",
+    "href": "index.html#duskfox",
+    "title": "ggsci iterm palettes",
+    "section": "Duskfox",
+    "text": "Duskfox\n\np1 &lt;- p1 + scale_color_iterm(\"Duskfox\")\np2 &lt;- p2 + scale_fill_iterm(\"Duskfox\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#earthsong",
+    "href": "index.html#earthsong",
+    "title": "ggsci iterm palettes",
+    "section": "Earthsong",
+    "text": "Earthsong\n\np1 &lt;- p1 + scale_color_iterm(\"Earthsong\")\np2 &lt;- p2 + scale_fill_iterm(\"Earthsong\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#electron-highlighter",
+    "href": "index.html#electron-highlighter",
+    "title": "ggsci iterm palettes",
+    "section": "Electron Highlighter",
+    "text": "Electron Highlighter\n\np1 &lt;- p1 + scale_color_iterm(\"Electron Highlighter\")\np2 &lt;- p2 + scale_fill_iterm(\"Electron Highlighter\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#elegant",
+    "href": "index.html#elegant",
+    "title": "ggsci iterm palettes",
+    "section": "Elegant",
+    "text": "Elegant\n\np1 &lt;- p1 + scale_color_iterm(\"Elegant\")\np2 &lt;- p2 + scale_fill_iterm(\"Elegant\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#elemental",
+    "href": "index.html#elemental",
+    "title": "ggsci iterm palettes",
+    "section": "Elemental",
+    "text": "Elemental\n\np1 &lt;- p1 + scale_color_iterm(\"Elemental\")\np2 &lt;- p2 + scale_fill_iterm(\"Elemental\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#elementary",
+    "href": "index.html#elementary",
+    "title": "ggsci iterm palettes",
+    "section": "Elementary",
+    "text": "Elementary\n\np1 &lt;- p1 + scale_color_iterm(\"Elementary\")\np2 &lt;- p2 + scale_fill_iterm(\"Elementary\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#embark",
+    "href": "index.html#embark",
+    "title": "ggsci iterm palettes",
+    "section": "Embark",
+    "text": "Embark\n\np1 &lt;- p1 + scale_color_iterm(\"Embark\")\np2 &lt;- p2 + scale_fill_iterm(\"Embark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#embers-dark",
+    "href": "index.html#embers-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Embers Dark",
+    "text": "Embers Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Embers Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Embers Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#encom",
+    "href": "index.html#encom",
+    "title": "ggsci iterm palettes",
+    "section": "ENCOM",
+    "text": "ENCOM\n\np1 &lt;- p1 + scale_color_iterm(\"ENCOM\")\np2 &lt;- p2 + scale_fill_iterm(\"ENCOM\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#espresso-libre",
+    "href": "index.html#espresso-libre",
+    "title": "ggsci iterm palettes",
+    "section": "Espresso Libre",
+    "text": "Espresso Libre\n\np1 &lt;- p1 + scale_color_iterm(\"Espresso Libre\")\np2 &lt;- p2 + scale_fill_iterm(\"Espresso Libre\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#espresso",
+    "href": "index.html#espresso",
+    "title": "ggsci iterm palettes",
+    "section": "Espresso",
+    "text": "Espresso\n\np1 &lt;- p1 + scale_color_iterm(\"Espresso\")\np2 &lt;- p2 + scale_fill_iterm(\"Espresso\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#everblush",
+    "href": "index.html#everblush",
+    "title": "ggsci iterm palettes",
+    "section": "Everblush",
+    "text": "Everblush\n\np1 &lt;- p1 + scale_color_iterm(\"Everblush\")\np2 &lt;- p2 + scale_fill_iterm(\"Everblush\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#everforest-dark-hard",
+    "href": "index.html#everforest-dark-hard",
+    "title": "ggsci iterm palettes",
+    "section": "Everforest Dark Hard",
+    "text": "Everforest Dark Hard\n\np1 &lt;- p1 + scale_color_iterm(\"Everforest Dark Hard\")\np2 &lt;- p2 + scale_fill_iterm(\"Everforest Dark Hard\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#everforest-light-med",
+    "href": "index.html#everforest-light-med",
+    "title": "ggsci iterm palettes",
+    "section": "Everforest Light Med",
+    "text": "Everforest Light Med\n\np1 &lt;- p1 + scale_color_iterm(\"Everforest Light Med\")\np2 &lt;- p2 + scale_fill_iterm(\"Everforest Light Med\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#fahrenheit",
+    "href": "index.html#fahrenheit",
+    "title": "ggsci iterm palettes",
+    "section": "Fahrenheit",
+    "text": "Fahrenheit\n\np1 &lt;- p1 + scale_color_iterm(\"Fahrenheit\")\np2 &lt;- p2 + scale_fill_iterm(\"Fahrenheit\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#fairyfloss",
+    "href": "index.html#fairyfloss",
+    "title": "ggsci iterm palettes",
+    "section": "Fairyfloss",
+    "text": "Fairyfloss\n\np1 &lt;- p1 + scale_color_iterm(\"Fairyfloss\")\np2 &lt;- p2 + scale_fill_iterm(\"Fairyfloss\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#farmhouse-dark",
+    "href": "index.html#farmhouse-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Farmhouse Dark",
+    "text": "Farmhouse Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Farmhouse Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Farmhouse Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#farmhouse-light",
+    "href": "index.html#farmhouse-light",
+    "title": "ggsci iterm palettes",
+    "section": "Farmhouse Light",
+    "text": "Farmhouse Light\n\np1 &lt;- p1 + scale_color_iterm(\"Farmhouse Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Farmhouse Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#fideloper",
+    "href": "index.html#fideloper",
+    "title": "ggsci iterm palettes",
+    "section": "Fideloper",
+    "text": "Fideloper\n\np1 &lt;- p1 + scale_color_iterm(\"Fideloper\")\np2 &lt;- p2 + scale_fill_iterm(\"Fideloper\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#firefly-traditional",
+    "href": "index.html#firefly-traditional",
+    "title": "ggsci iterm palettes",
+    "section": "Firefly Traditional",
+    "text": "Firefly Traditional\n\np1 &lt;- p1 + scale_color_iterm(\"Firefly Traditional\")\np2 &lt;- p2 + scale_fill_iterm(\"Firefly Traditional\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#firefox-dev",
+    "href": "index.html#firefox-dev",
+    "title": "ggsci iterm palettes",
+    "section": "Firefox Dev",
+    "text": "Firefox Dev\n\np1 &lt;- p1 + scale_color_iterm(\"Firefox Dev\")\np2 &lt;- p2 + scale_fill_iterm(\"Firefox Dev\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#firewatch",
+    "href": "index.html#firewatch",
+    "title": "ggsci iterm palettes",
+    "section": "Firewatch",
+    "text": "Firewatch\n\np1 &lt;- p1 + scale_color_iterm(\"Firewatch\")\np2 &lt;- p2 + scale_fill_iterm(\"Firewatch\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#fish-tank",
+    "href": "index.html#fish-tank",
+    "title": "ggsci iterm palettes",
+    "section": "Fish Tank",
+    "text": "Fish Tank\n\np1 &lt;- p1 + scale_color_iterm(\"Fish Tank\")\np2 &lt;- p2 + scale_fill_iterm(\"Fish Tank\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#flat",
+    "href": "index.html#flat",
+    "title": "ggsci iterm palettes",
+    "section": "Flat",
+    "text": "Flat\n\np1 &lt;- p1 + scale_color_iterm(\"Flat\")\np2 &lt;- p2 + scale_fill_iterm(\"Flat\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#flatland",
+    "href": "index.html#flatland",
+    "title": "ggsci iterm palettes",
+    "section": "Flatland",
+    "text": "Flatland\n\np1 &lt;- p1 + scale_color_iterm(\"Flatland\")\np2 &lt;- p2 + scale_fill_iterm(\"Flatland\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#flexoki-dark",
+    "href": "index.html#flexoki-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Flexoki Dark",
+    "text": "Flexoki Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Flexoki Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Flexoki Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#flexoki-light",
+    "href": "index.html#flexoki-light",
+    "title": "ggsci iterm palettes",
+    "section": "Flexoki Light",
+    "text": "Flexoki Light\n\np1 &lt;- p1 + scale_color_iterm(\"Flexoki Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Flexoki Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#floraverse",
+    "href": "index.html#floraverse",
+    "title": "ggsci iterm palettes",
+    "section": "Floraverse",
+    "text": "Floraverse\n\np1 &lt;- p1 + scale_color_iterm(\"Floraverse\")\np2 &lt;- p2 + scale_fill_iterm(\"Floraverse\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#forest-blue",
+    "href": "index.html#forest-blue",
+    "title": "ggsci iterm palettes",
+    "section": "Forest Blue",
+    "text": "Forest Blue\n\np1 &lt;- p1 + scale_color_iterm(\"Forest Blue\")\np2 &lt;- p2 + scale_fill_iterm(\"Forest Blue\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#framer",
+    "href": "index.html#framer",
+    "title": "ggsci iterm palettes",
+    "section": "Framer",
+    "text": "Framer\n\np1 &lt;- p1 + scale_color_iterm(\"Framer\")\np2 &lt;- p2 + scale_fill_iterm(\"Framer\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#front-end-delight",
+    "href": "index.html#front-end-delight",
+    "title": "ggsci iterm palettes",
+    "section": "Front End Delight",
+    "text": "Front End Delight\n\np1 &lt;- p1 + scale_color_iterm(\"Front End Delight\")\np2 &lt;- p2 + scale_fill_iterm(\"Front End Delight\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#fun-forrest",
+    "href": "index.html#fun-forrest",
+    "title": "ggsci iterm palettes",
+    "section": "Fun Forrest",
+    "text": "Fun Forrest\n\np1 &lt;- p1 + scale_color_iterm(\"Fun Forrest\")\np2 &lt;- p2 + scale_fill_iterm(\"Fun Forrest\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#galaxy",
+    "href": "index.html#galaxy",
+    "title": "ggsci iterm palettes",
+    "section": "Galaxy",
+    "text": "Galaxy\n\np1 &lt;- p1 + scale_color_iterm(\"Galaxy\")\np2 &lt;- p2 + scale_fill_iterm(\"Galaxy\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#galizur",
+    "href": "index.html#galizur",
+    "title": "ggsci iterm palettes",
+    "section": "Galizur",
+    "text": "Galizur\n\np1 &lt;- p1 + scale_color_iterm(\"Galizur\")\np2 &lt;- p2 + scale_fill_iterm(\"Galizur\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#ghostty-default-style-dark",
+    "href": "index.html#ghostty-default-style-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Ghostty Default Style Dark",
+    "text": "Ghostty Default Style Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Ghostty Default Style Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Ghostty Default Style Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#github-dark-colorblind",
+    "href": "index.html#github-dark-colorblind",
+    "title": "ggsci iterm palettes",
+    "section": "GitHub Dark Colorblind",
+    "text": "GitHub Dark Colorblind\n\np1 &lt;- p1 + scale_color_iterm(\"GitHub Dark Colorblind\")\np2 &lt;- p2 + scale_fill_iterm(\"GitHub Dark Colorblind\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#github-dark-default",
+    "href": "index.html#github-dark-default",
+    "title": "ggsci iterm palettes",
+    "section": "GitHub Dark Default",
+    "text": "GitHub Dark Default\n\np1 &lt;- p1 + scale_color_iterm(\"GitHub Dark Default\")\np2 &lt;- p2 + scale_fill_iterm(\"GitHub Dark Default\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#github-dark-dimmed",
+    "href": "index.html#github-dark-dimmed",
+    "title": "ggsci iterm palettes",
+    "section": "GitHub Dark Dimmed",
+    "text": "GitHub Dark Dimmed\n\np1 &lt;- p1 + scale_color_iterm(\"GitHub Dark Dimmed\")\np2 &lt;- p2 + scale_fill_iterm(\"GitHub Dark Dimmed\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#github-dark-high-contrast",
+    "href": "index.html#github-dark-high-contrast",
+    "title": "ggsci iterm palettes",
+    "section": "GitHub Dark High Contrast",
+    "text": "GitHub Dark High Contrast\n\np1 &lt;- p1 + scale_color_iterm(\"GitHub Dark High Contrast\")\np2 &lt;- p2 + scale_fill_iterm(\"GitHub Dark High Contrast\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#github-dark",
+    "href": "index.html#github-dark",
+    "title": "ggsci iterm palettes",
+    "section": "GitHub Dark",
+    "text": "GitHub Dark\n\np1 &lt;- p1 + scale_color_iterm(\"GitHub Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"GitHub Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#github-light-colorblind",
+    "href": "index.html#github-light-colorblind",
+    "title": "ggsci iterm palettes",
+    "section": "GitHub Light Colorblind",
+    "text": "GitHub Light Colorblind\n\np1 &lt;- p1 + scale_color_iterm(\"GitHub Light Colorblind\")\np2 &lt;- p2 + scale_fill_iterm(\"GitHub Light Colorblind\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#github-light-default",
+    "href": "index.html#github-light-default",
+    "title": "ggsci iterm palettes",
+    "section": "GitHub Light Default",
+    "text": "GitHub Light Default\n\np1 &lt;- p1 + scale_color_iterm(\"GitHub Light Default\")\np2 &lt;- p2 + scale_fill_iterm(\"GitHub Light Default\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#github-light-high-contrast",
+    "href": "index.html#github-light-high-contrast",
+    "title": "ggsci iterm palettes",
+    "section": "GitHub Light High Contrast",
+    "text": "GitHub Light High Contrast\n\np1 &lt;- p1 + scale_color_iterm(\"GitHub Light High Contrast\")\np2 &lt;- p2 + scale_fill_iterm(\"GitHub Light High Contrast\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#github",
+    "href": "index.html#github",
+    "title": "ggsci iterm palettes",
+    "section": "GitHub",
+    "text": "GitHub\n\np1 &lt;- p1 + scale_color_iterm(\"GitHub\")\np2 &lt;- p2 + scale_fill_iterm(\"GitHub\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#gitlab-dark-grey",
+    "href": "index.html#gitlab-dark-grey",
+    "title": "ggsci iterm palettes",
+    "section": "GitLab Dark Grey",
+    "text": "GitLab Dark Grey\n\np1 &lt;- p1 + scale_color_iterm(\"GitLab Dark Grey\")\np2 &lt;- p2 + scale_fill_iterm(\"GitLab Dark Grey\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#gitlab-dark",
+    "href": "index.html#gitlab-dark",
+    "title": "ggsci iterm palettes",
+    "section": "GitLab Dark",
+    "text": "GitLab Dark\n\np1 &lt;- p1 + scale_color_iterm(\"GitLab Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"GitLab Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#gitlab-light",
+    "href": "index.html#gitlab-light",
+    "title": "ggsci iterm palettes",
+    "section": "GitLab Light",
+    "text": "GitLab Light\n\np1 &lt;- p1 + scale_color_iterm(\"GitLab Light\")\np2 &lt;- p2 + scale_fill_iterm(\"GitLab Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#glacier",
+    "href": "index.html#glacier",
+    "title": "ggsci iterm palettes",
+    "section": "Glacier",
+    "text": "Glacier\n\np1 &lt;- p1 + scale_color_iterm(\"Glacier\")\np2 &lt;- p2 + scale_fill_iterm(\"Glacier\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#grape",
+    "href": "index.html#grape",
+    "title": "ggsci iterm palettes",
+    "section": "Grape",
+    "text": "Grape\n\np1 &lt;- p1 + scale_color_iterm(\"Grape\")\np2 &lt;- p2 + scale_fill_iterm(\"Grape\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#grass",
+    "href": "index.html#grass",
+    "title": "ggsci iterm palettes",
+    "section": "Grass",
+    "text": "Grass\n\np1 &lt;- p1 + scale_color_iterm(\"Grass\")\np2 &lt;- p2 + scale_fill_iterm(\"Grass\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#grey-green",
+    "href": "index.html#grey-green",
+    "title": "ggsci iterm palettes",
+    "section": "Grey Green",
+    "text": "Grey Green\n\np1 &lt;- p1 + scale_color_iterm(\"Grey Green\")\np2 &lt;- p2 + scale_fill_iterm(\"Grey Green\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#gruber-darker",
+    "href": "index.html#gruber-darker",
+    "title": "ggsci iterm palettes",
+    "section": "Gruber Darker",
+    "text": "Gruber Darker\n\np1 &lt;- p1 + scale_color_iterm(\"Gruber Darker\")\np2 &lt;- p2 + scale_fill_iterm(\"Gruber Darker\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#gruvbox-dark-hard",
+    "href": "index.html#gruvbox-dark-hard",
+    "title": "ggsci iterm palettes",
+    "section": "Gruvbox Dark Hard",
+    "text": "Gruvbox Dark Hard\n\np1 &lt;- p1 + scale_color_iterm(\"Gruvbox Dark Hard\")\np2 &lt;- p2 + scale_fill_iterm(\"Gruvbox Dark Hard\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#gruvbox-dark",
+    "href": "index.html#gruvbox-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Gruvbox Dark",
+    "text": "Gruvbox Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Gruvbox Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Gruvbox Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#gruvbox-light-hard",
+    "href": "index.html#gruvbox-light-hard",
+    "title": "ggsci iterm palettes",
+    "section": "Gruvbox Light Hard",
+    "text": "Gruvbox Light Hard\n\np1 &lt;- p1 + scale_color_iterm(\"Gruvbox Light Hard\")\np2 &lt;- p2 + scale_fill_iterm(\"Gruvbox Light Hard\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#gruvbox-light",
+    "href": "index.html#gruvbox-light",
+    "title": "ggsci iterm palettes",
+    "section": "Gruvbox Light",
+    "text": "Gruvbox Light\n\np1 &lt;- p1 + scale_color_iterm(\"Gruvbox Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Gruvbox Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#gruvbox-material-dark",
+    "href": "index.html#gruvbox-material-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Gruvbox Material Dark",
+    "text": "Gruvbox Material Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Gruvbox Material Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Gruvbox Material Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#gruvbox-material-light",
+    "href": "index.html#gruvbox-material-light",
+    "title": "ggsci iterm palettes",
+    "section": "Gruvbox Material Light",
+    "text": "Gruvbox Material Light\n\np1 &lt;- p1 + scale_color_iterm(\"Gruvbox Material Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Gruvbox Material Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#gruvbox-material",
+    "href": "index.html#gruvbox-material",
+    "title": "ggsci iterm palettes",
+    "section": "Gruvbox Material",
+    "text": "Gruvbox Material\n\np1 &lt;- p1 + scale_color_iterm(\"Gruvbox Material\")\np2 &lt;- p2 + scale_fill_iterm(\"Gruvbox Material\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#guezwhoz",
+    "href": "index.html#guezwhoz",
+    "title": "ggsci iterm palettes",
+    "section": "Guezwhoz",
+    "text": "Guezwhoz\n\np1 &lt;- p1 + scale_color_iterm(\"Guezwhoz\")\np2 &lt;- p2 + scale_fill_iterm(\"Guezwhoz\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#hacktober",
+    "href": "index.html#hacktober",
+    "title": "ggsci iterm palettes",
+    "section": "Hacktober",
+    "text": "Hacktober\n\np1 &lt;- p1 + scale_color_iterm(\"Hacktober\")\np2 &lt;- p2 + scale_fill_iterm(\"Hacktober\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#hardcore",
+    "href": "index.html#hardcore",
+    "title": "ggsci iterm palettes",
+    "section": "Hardcore",
+    "text": "Hardcore\n\np1 &lt;- p1 + scale_color_iterm(\"Hardcore\")\np2 &lt;- p2 + scale_fill_iterm(\"Hardcore\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#harper",
+    "href": "index.html#harper",
+    "title": "ggsci iterm palettes",
+    "section": "Harper",
+    "text": "Harper\n\np1 &lt;- p1 + scale_color_iterm(\"Harper\")\np2 &lt;- p2 + scale_fill_iterm(\"Harper\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#havn-daggry",
+    "href": "index.html#havn-daggry",
+    "title": "ggsci iterm palettes",
+    "section": "Havn Daggry",
+    "text": "Havn Daggry\n\np1 &lt;- p1 + scale_color_iterm(\"Havn Daggry\")\np2 &lt;- p2 + scale_fill_iterm(\"Havn Daggry\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#havn-skumring",
+    "href": "index.html#havn-skumring",
+    "title": "ggsci iterm palettes",
+    "section": "Havn Skumring",
+    "text": "Havn Skumring\n\np1 &lt;- p1 + scale_color_iterm(\"Havn Skumring\")\np2 &lt;- p2 + scale_fill_iterm(\"Havn Skumring\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#hax0r-blue",
+    "href": "index.html#hax0r-blue",
+    "title": "ggsci iterm palettes",
+    "section": "HaX0R Blue",
+    "text": "HaX0R Blue\n\np1 &lt;- p1 + scale_color_iterm(\"HaX0R Blue\")\np2 &lt;- p2 + scale_fill_iterm(\"HaX0R Blue\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#hax0r-gr33n",
+    "href": "index.html#hax0r-gr33n",
+    "title": "ggsci iterm palettes",
+    "section": "HaX0R Gr33N",
+    "text": "HaX0R Gr33N\n\np1 &lt;- p1 + scale_color_iterm(\"HaX0R Gr33N\")\np2 &lt;- p2 + scale_fill_iterm(\"HaX0R Gr33N\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#hax0r-r3d",
+    "href": "index.html#hax0r-r3d",
+    "title": "ggsci iterm palettes",
+    "section": "HaX0R R3D",
+    "text": "HaX0R R3D\n\np1 &lt;- p1 + scale_color_iterm(\"HaX0R R3D\")\np2 &lt;- p2 + scale_fill_iterm(\"HaX0R R3D\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#heeler",
+    "href": "index.html#heeler",
+    "title": "ggsci iterm palettes",
+    "section": "Heeler",
+    "text": "Heeler\n\np1 &lt;- p1 + scale_color_iterm(\"Heeler\")\np2 &lt;- p2 + scale_fill_iterm(\"Heeler\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#highway",
+    "href": "index.html#highway",
+    "title": "ggsci iterm palettes",
+    "section": "Highway",
+    "text": "Highway\n\np1 &lt;- p1 + scale_color_iterm(\"Highway\")\np2 &lt;- p2 + scale_fill_iterm(\"Highway\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#hipster-green",
+    "href": "index.html#hipster-green",
+    "title": "ggsci iterm palettes",
+    "section": "Hipster Green",
+    "text": "Hipster Green\n\np1 &lt;- p1 + scale_color_iterm(\"Hipster Green\")\np2 &lt;- p2 + scale_fill_iterm(\"Hipster Green\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#hivacruz",
+    "href": "index.html#hivacruz",
+    "title": "ggsci iterm palettes",
+    "section": "Hivacruz",
+    "text": "Hivacruz\n\np1 &lt;- p1 + scale_color_iterm(\"Hivacruz\")\np2 &lt;- p2 + scale_fill_iterm(\"Hivacruz\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#homebrew",
+    "href": "index.html#homebrew",
+    "title": "ggsci iterm palettes",
+    "section": "Homebrew",
+    "text": "Homebrew\n\np1 &lt;- p1 + scale_color_iterm(\"Homebrew\")\np2 &lt;- p2 + scale_fill_iterm(\"Homebrew\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#hopscotch.256",
+    "href": "index.html#hopscotch.256",
+    "title": "ggsci iterm palettes",
+    "section": "Hopscotch.256",
+    "text": "Hopscotch.256\n\np1 &lt;- p1 + scale_color_iterm(\"Hopscotch.256\")\np2 &lt;- p2 + scale_fill_iterm(\"Hopscotch.256\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#hopscotch",
+    "href": "index.html#hopscotch",
+    "title": "ggsci iterm palettes",
+    "section": "Hopscotch",
+    "text": "Hopscotch\n\np1 &lt;- p1 + scale_color_iterm(\"Hopscotch\")\np2 &lt;- p2 + scale_fill_iterm(\"Hopscotch\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#horizon-bright",
+    "href": "index.html#horizon-bright",
+    "title": "ggsci iterm palettes",
+    "section": "Horizon Bright",
+    "text": "Horizon Bright\n\np1 &lt;- p1 + scale_color_iterm(\"Horizon Bright\")\np2 &lt;- p2 + scale_fill_iterm(\"Horizon Bright\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#horizon",
+    "href": "index.html#horizon",
+    "title": "ggsci iterm palettes",
+    "section": "Horizon",
+    "text": "Horizon\n\np1 &lt;- p1 + scale_color_iterm(\"Horizon\")\np2 &lt;- p2 + scale_fill_iterm(\"Horizon\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#hurtado",
+    "href": "index.html#hurtado",
+    "title": "ggsci iterm palettes",
+    "section": "Hurtado",
+    "text": "Hurtado\n\np1 &lt;- p1 + scale_color_iterm(\"Hurtado\")\np2 &lt;- p2 + scale_fill_iterm(\"Hurtado\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#hybrid",
+    "href": "index.html#hybrid",
+    "title": "ggsci iterm palettes",
+    "section": "Hybrid",
+    "text": "Hybrid\n\np1 &lt;- p1 + scale_color_iterm(\"Hybrid\")\np2 &lt;- p2 + scale_fill_iterm(\"Hybrid\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#ibm-5153-cga-black",
+    "href": "index.html#ibm-5153-cga-black",
+    "title": "ggsci iterm palettes",
+    "section": "IBM 5153 CGA (Black)",
+    "text": "IBM 5153 CGA (Black)\n\np1 &lt;- p1 + scale_color_iterm(\"IBM 5153 CGA (Black)\")\np2 &lt;- p2 + scale_fill_iterm(\"IBM 5153 CGA (Black)\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#ibm-5153-cga",
+    "href": "index.html#ibm-5153-cga",
+    "title": "ggsci iterm palettes",
+    "section": "IBM 5153 CGA",
+    "text": "IBM 5153 CGA\n\np1 &lt;- p1 + scale_color_iterm(\"IBM 5153 CGA\")\np2 &lt;- p2 + scale_fill_iterm(\"IBM 5153 CGA\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#ic-green-ppl",
+    "href": "index.html#ic-green-ppl",
+    "title": "ggsci iterm palettes",
+    "section": "IC Green PPL",
+    "text": "IC Green PPL\n\np1 &lt;- p1 + scale_color_iterm(\"IC Green PPL\")\np2 &lt;- p2 + scale_fill_iterm(\"IC Green PPL\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#ic-orange-ppl",
+    "href": "index.html#ic-orange-ppl",
+    "title": "ggsci iterm palettes",
+    "section": "IC Orange PPL",
+    "text": "IC Orange PPL\n\np1 &lt;- p1 + scale_color_iterm(\"IC Orange PPL\")\np2 &lt;- p2 + scale_fill_iterm(\"IC Orange PPL\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#iceberg-dark",
+    "href": "index.html#iceberg-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Iceberg Dark",
+    "text": "Iceberg Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Iceberg Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Iceberg Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#iceberg-light",
+    "href": "index.html#iceberg-light",
+    "title": "ggsci iterm palettes",
+    "section": "Iceberg Light",
+    "text": "Iceberg Light\n\np1 &lt;- p1 + scale_color_iterm(\"Iceberg Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Iceberg Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#idea",
+    "href": "index.html#idea",
+    "title": "ggsci iterm palettes",
+    "section": "Idea",
+    "text": "Idea\n\np1 &lt;- p1 + scale_color_iterm(\"Idea\")\np2 &lt;- p2 + scale_fill_iterm(\"Idea\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#idle-toes",
+    "href": "index.html#idle-toes",
+    "title": "ggsci iterm palettes",
+    "section": "Idle Toes",
+    "text": "Idle Toes\n\np1 &lt;- p1 + scale_color_iterm(\"Idle Toes\")\np2 &lt;- p2 + scale_fill_iterm(\"Idle Toes\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#ir-black",
+    "href": "index.html#ir-black",
+    "title": "ggsci iterm palettes",
+    "section": "IR Black",
+    "text": "IR Black\n\np1 &lt;- p1 + scale_color_iterm(\"IR Black\")\np2 &lt;- p2 + scale_fill_iterm(\"IR Black\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#irix-console",
+    "href": "index.html#irix-console",
+    "title": "ggsci iterm palettes",
+    "section": "IRIX Console",
+    "text": "IRIX Console\n\np1 &lt;- p1 + scale_color_iterm(\"IRIX Console\")\np2 &lt;- p2 + scale_fill_iterm(\"IRIX Console\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#irix-terminal",
+    "href": "index.html#irix-terminal",
+    "title": "ggsci iterm palettes",
+    "section": "IRIX Terminal",
+    "text": "IRIX Terminal\n\np1 &lt;- p1 + scale_color_iterm(\"IRIX Terminal\")\np2 &lt;- p2 + scale_fill_iterm(\"IRIX Terminal\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#iterm2-dark-background",
+    "href": "index.html#iterm2-dark-background",
+    "title": "ggsci iterm palettes",
+    "section": "iTerm2 Dark Background",
+    "text": "iTerm2 Dark Background\n\np1 &lt;- p1 + scale_color_iterm(\"iTerm2 Dark Background\")\np2 &lt;- p2 + scale_fill_iterm(\"iTerm2 Dark Background\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#iterm2-default",
+    "href": "index.html#iterm2-default",
+    "title": "ggsci iterm palettes",
+    "section": "iTerm2 Default",
+    "text": "iTerm2 Default\n\np1 &lt;- p1 + scale_color_iterm(\"iTerm2 Default\")\np2 &lt;- p2 + scale_fill_iterm(\"iTerm2 Default\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#iterm2-light-background",
+    "href": "index.html#iterm2-light-background",
+    "title": "ggsci iterm palettes",
+    "section": "iTerm2 Light Background",
+    "text": "iTerm2 Light Background\n\np1 &lt;- p1 + scale_color_iterm(\"iTerm2 Light Background\")\np2 &lt;- p2 + scale_fill_iterm(\"iTerm2 Light Background\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#iterm2-pastel-dark-background",
+    "href": "index.html#iterm2-pastel-dark-background",
+    "title": "ggsci iterm palettes",
+    "section": "iTerm2 Pastel Dark Background",
+    "text": "iTerm2 Pastel Dark Background\n\np1 &lt;- p1 + scale_color_iterm(\"iTerm2 Pastel Dark Background\")\np2 &lt;- p2 + scale_fill_iterm(\"iTerm2 Pastel Dark Background\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#iterm2-smoooooth",
+    "href": "index.html#iterm2-smoooooth",
+    "title": "ggsci iterm palettes",
+    "section": "iTerm2 Smoooooth",
+    "text": "iTerm2 Smoooooth\n\np1 &lt;- p1 + scale_color_iterm(\"iTerm2 Smoooooth\")\np2 &lt;- p2 + scale_fill_iterm(\"iTerm2 Smoooooth\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#iterm2-solarized-dark",
+    "href": "index.html#iterm2-solarized-dark",
+    "title": "ggsci iterm palettes",
+    "section": "iTerm2 Solarized Dark",
+    "text": "iTerm2 Solarized Dark\n\np1 &lt;- p1 + scale_color_iterm(\"iTerm2 Solarized Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"iTerm2 Solarized Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#iterm2-solarized-light",
+    "href": "index.html#iterm2-solarized-light",
+    "title": "ggsci iterm palettes",
+    "section": "iTerm2 Solarized Light",
+    "text": "iTerm2 Solarized Light\n\np1 &lt;- p1 + scale_color_iterm(\"iTerm2 Solarized Light\")\np2 &lt;- p2 + scale_fill_iterm(\"iTerm2 Solarized Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#iterm2-tango-dark",
+    "href": "index.html#iterm2-tango-dark",
+    "title": "ggsci iterm palettes",
+    "section": "iTerm2 Tango Dark",
+    "text": "iTerm2 Tango Dark\n\np1 &lt;- p1 + scale_color_iterm(\"iTerm2 Tango Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"iTerm2 Tango Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#iterm2-tango-light",
+    "href": "index.html#iterm2-tango-light",
+    "title": "ggsci iterm palettes",
+    "section": "iTerm2 Tango Light",
+    "text": "iTerm2 Tango Light\n\np1 &lt;- p1 + scale_color_iterm(\"iTerm2 Tango Light\")\np2 &lt;- p2 + scale_fill_iterm(\"iTerm2 Tango Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#jackie-brown",
+    "href": "index.html#jackie-brown",
+    "title": "ggsci iterm palettes",
+    "section": "Jackie Brown",
+    "text": "Jackie Brown\n\np1 &lt;- p1 + scale_color_iterm(\"Jackie Brown\")\np2 &lt;- p2 + scale_fill_iterm(\"Jackie Brown\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#japanesque",
+    "href": "index.html#japanesque",
+    "title": "ggsci iterm palettes",
+    "section": "Japanesque",
+    "text": "Japanesque\n\np1 &lt;- p1 + scale_color_iterm(\"Japanesque\")\np2 &lt;- p2 + scale_fill_iterm(\"Japanesque\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#jellybeans",
+    "href": "index.html#jellybeans",
+    "title": "ggsci iterm palettes",
+    "section": "Jellybeans",
+    "text": "Jellybeans\n\np1 &lt;- p1 + scale_color_iterm(\"Jellybeans\")\np2 &lt;- p2 + scale_fill_iterm(\"Jellybeans\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#jetbrains-darcula",
+    "href": "index.html#jetbrains-darcula",
+    "title": "ggsci iterm palettes",
+    "section": "JetBrains Darcula",
+    "text": "JetBrains Darcula\n\np1 &lt;- p1 + scale_color_iterm(\"JetBrains Darcula\")\np2 &lt;- p2 + scale_fill_iterm(\"JetBrains Darcula\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#jubi",
+    "href": "index.html#jubi",
+    "title": "ggsci iterm palettes",
+    "section": "Jubi",
+    "text": "Jubi\n\np1 &lt;- p1 + scale_color_iterm(\"Jubi\")\np2 &lt;- p2 + scale_fill_iterm(\"Jubi\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#kanagawa-dragon",
+    "href": "index.html#kanagawa-dragon",
+    "title": "ggsci iterm palettes",
+    "section": "Kanagawa Dragon",
+    "text": "Kanagawa Dragon\n\np1 &lt;- p1 + scale_color_iterm(\"Kanagawa Dragon\")\np2 &lt;- p2 + scale_fill_iterm(\"Kanagawa Dragon\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#kanagawa-wave",
+    "href": "index.html#kanagawa-wave",
+    "title": "ggsci iterm palettes",
+    "section": "Kanagawa Wave",
+    "text": "Kanagawa Wave\n\np1 &lt;- p1 + scale_color_iterm(\"Kanagawa Wave\")\np2 &lt;- p2 + scale_fill_iterm(\"Kanagawa Wave\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#kanagawabones",
+    "href": "index.html#kanagawabones",
+    "title": "ggsci iterm palettes",
+    "section": "Kanagawabones",
+    "text": "Kanagawabones\n\np1 &lt;- p1 + scale_color_iterm(\"Kanagawabones\")\np2 &lt;- p2 + scale_fill_iterm(\"Kanagawabones\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#kibble",
+    "href": "index.html#kibble",
+    "title": "ggsci iterm palettes",
+    "section": "Kibble",
+    "text": "Kibble\n\np1 &lt;- p1 + scale_color_iterm(\"Kibble\")\np2 &lt;- p2 + scale_fill_iterm(\"Kibble\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#kitty-default",
+    "href": "index.html#kitty-default",
+    "title": "ggsci iterm palettes",
+    "section": "Kitty Default",
+    "text": "Kitty Default\n\np1 &lt;- p1 + scale_color_iterm(\"Kitty Default\")\np2 &lt;- p2 + scale_fill_iterm(\"Kitty Default\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#kitty-low-contrast",
+    "href": "index.html#kitty-low-contrast",
+    "title": "ggsci iterm palettes",
+    "section": "Kitty Low Contrast",
+    "text": "Kitty Low Contrast\n\np1 &lt;- p1 + scale_color_iterm(\"Kitty Low Contrast\")\np2 &lt;- p2 + scale_fill_iterm(\"Kitty Low Contrast\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#kolorit",
+    "href": "index.html#kolorit",
+    "title": "ggsci iterm palettes",
+    "section": "Kolorit",
+    "text": "Kolorit\n\np1 &lt;- p1 + scale_color_iterm(\"Kolorit\")\np2 &lt;- p2 + scale_fill_iterm(\"Kolorit\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#konsolas",
+    "href": "index.html#konsolas",
+    "title": "ggsci iterm palettes",
+    "section": "Konsolas",
+    "text": "Konsolas\n\np1 &lt;- p1 + scale_color_iterm(\"Konsolas\")\np2 &lt;- p2 + scale_fill_iterm(\"Konsolas\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#kurokula",
+    "href": "index.html#kurokula",
+    "title": "ggsci iterm palettes",
+    "section": "Kurokula",
+    "text": "Kurokula\n\np1 &lt;- p1 + scale_color_iterm(\"Kurokula\")\np2 &lt;- p2 + scale_fill_iterm(\"Kurokula\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#lab-fox",
+    "href": "index.html#lab-fox",
+    "title": "ggsci iterm palettes",
+    "section": "Lab Fox",
+    "text": "Lab Fox\n\np1 &lt;- p1 + scale_color_iterm(\"Lab Fox\")\np2 &lt;- p2 + scale_fill_iterm(\"Lab Fox\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#laser",
+    "href": "index.html#laser",
+    "title": "ggsci iterm palettes",
+    "section": "Laser",
+    "text": "Laser\n\np1 &lt;- p1 + scale_color_iterm(\"Laser\")\np2 &lt;- p2 + scale_fill_iterm(\"Laser\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#later-this-evening",
+    "href": "index.html#later-this-evening",
+    "title": "ggsci iterm palettes",
+    "section": "Later This Evening",
+    "text": "Later This Evening\n\np1 &lt;- p1 + scale_color_iterm(\"Later This Evening\")\np2 &lt;- p2 + scale_fill_iterm(\"Later This Evening\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#lavandula",
+    "href": "index.html#lavandula",
+    "title": "ggsci iterm palettes",
+    "section": "Lavandula",
+    "text": "Lavandula\n\np1 &lt;- p1 + scale_color_iterm(\"Lavandula\")\np2 &lt;- p2 + scale_fill_iterm(\"Lavandula\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#light-owl",
+    "href": "index.html#light-owl",
+    "title": "ggsci iterm palettes",
+    "section": "Light Owl",
+    "text": "Light Owl\n\np1 &lt;- p1 + scale_color_iterm(\"Light Owl\")\np2 &lt;- p2 + scale_fill_iterm(\"Light Owl\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#liquid-carbon-transparent",
+    "href": "index.html#liquid-carbon-transparent",
+    "title": "ggsci iterm palettes",
+    "section": "Liquid Carbon Transparent",
+    "text": "Liquid Carbon Transparent\n\np1 &lt;- p1 + scale_color_iterm(\"Liquid Carbon Transparent\")\np2 &lt;- p2 + scale_fill_iterm(\"Liquid Carbon Transparent\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#liquid-carbon",
+    "href": "index.html#liquid-carbon",
+    "title": "ggsci iterm palettes",
+    "section": "Liquid Carbon",
+    "text": "Liquid Carbon\n\np1 &lt;- p1 + scale_color_iterm(\"Liquid Carbon\")\np2 &lt;- p2 + scale_fill_iterm(\"Liquid Carbon\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#lovelace",
+    "href": "index.html#lovelace",
+    "title": "ggsci iterm palettes",
+    "section": "Lovelace",
+    "text": "Lovelace\n\np1 &lt;- p1 + scale_color_iterm(\"Lovelace\")\np2 &lt;- p2 + scale_fill_iterm(\"Lovelace\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#man-page",
+    "href": "index.html#man-page",
+    "title": "ggsci iterm palettes",
+    "section": "Man Page",
+    "text": "Man Page\n\np1 &lt;- p1 + scale_color_iterm(\"Man Page\")\np2 &lt;- p2 + scale_fill_iterm(\"Man Page\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#mariana",
+    "href": "index.html#mariana",
+    "title": "ggsci iterm palettes",
+    "section": "Mariana",
+    "text": "Mariana\n\np1 &lt;- p1 + scale_color_iterm(\"Mariana\")\np2 &lt;- p2 + scale_fill_iterm(\"Mariana\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#material-dark",
+    "href": "index.html#material-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Material Dark",
+    "text": "Material Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Material Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Material Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#material-darker",
+    "href": "index.html#material-darker",
+    "title": "ggsci iterm palettes",
+    "section": "Material Darker",
+    "text": "Material Darker\n\np1 &lt;- p1 + scale_color_iterm(\"Material Darker\")\np2 &lt;- p2 + scale_fill_iterm(\"Material Darker\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#material-design-colors",
+    "href": "index.html#material-design-colors",
+    "title": "ggsci iterm palettes",
+    "section": "Material Design Colors",
+    "text": "Material Design Colors\n\np1 &lt;- p1 + scale_color_iterm(\"Material Design Colors\")\np2 &lt;- p2 + scale_fill_iterm(\"Material Design Colors\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#material-ocean",
+    "href": "index.html#material-ocean",
+    "title": "ggsci iterm palettes",
+    "section": "Material Ocean",
+    "text": "Material Ocean\n\np1 &lt;- p1 + scale_color_iterm(\"Material Ocean\")\np2 &lt;- p2 + scale_fill_iterm(\"Material Ocean\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#material",
+    "href": "index.html#material",
+    "title": "ggsci iterm palettes",
+    "section": "Material",
+    "text": "Material\n\np1 &lt;- p1 + scale_color_iterm(\"Material\")\np2 &lt;- p2 + scale_fill_iterm(\"Material\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#mathias",
+    "href": "index.html#mathias",
+    "title": "ggsci iterm palettes",
+    "section": "Mathias",
+    "text": "Mathias\n\np1 &lt;- p1 + scale_color_iterm(\"Mathias\")\np2 &lt;- p2 + scale_fill_iterm(\"Mathias\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#matrix",
+    "href": "index.html#matrix",
+    "title": "ggsci iterm palettes",
+    "section": "Matrix",
+    "text": "Matrix\n\np1 &lt;- p1 + scale_color_iterm(\"Matrix\")\np2 &lt;- p2 + scale_fill_iterm(\"Matrix\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#medallion",
+    "href": "index.html#medallion",
+    "title": "ggsci iterm palettes",
+    "section": "Medallion",
+    "text": "Medallion\n\np1 &lt;- p1 + scale_color_iterm(\"Medallion\")\np2 &lt;- p2 + scale_fill_iterm(\"Medallion\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#melange-dark",
+    "href": "index.html#melange-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Melange Dark",
+    "text": "Melange Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Melange Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Melange Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#melange-light",
+    "href": "index.html#melange-light",
+    "title": "ggsci iterm palettes",
+    "section": "Melange Light",
+    "text": "Melange Light\n\np1 &lt;- p1 + scale_color_iterm(\"Melange Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Melange Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#mellifluous",
+    "href": "index.html#mellifluous",
+    "title": "ggsci iterm palettes",
+    "section": "Mellifluous",
+    "text": "Mellifluous\n\np1 &lt;- p1 + scale_color_iterm(\"Mellifluous\")\np2 &lt;- p2 + scale_fill_iterm(\"Mellifluous\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#mellow",
+    "href": "index.html#mellow",
+    "title": "ggsci iterm palettes",
+    "section": "Mellow",
+    "text": "Mellow\n\np1 &lt;- p1 + scale_color_iterm(\"Mellow\")\np2 &lt;- p2 + scale_fill_iterm(\"Mellow\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#miasma",
+    "href": "index.html#miasma",
+    "title": "ggsci iterm palettes",
+    "section": "Miasma",
+    "text": "Miasma\n\np1 &lt;- p1 + scale_color_iterm(\"Miasma\")\np2 &lt;- p2 + scale_fill_iterm(\"Miasma\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#midnight-in-mojave",
+    "href": "index.html#midnight-in-mojave",
+    "title": "ggsci iterm palettes",
+    "section": "Midnight In Mojave",
+    "text": "Midnight In Mojave\n\np1 &lt;- p1 + scale_color_iterm(\"Midnight In Mojave\")\np2 &lt;- p2 + scale_fill_iterm(\"Midnight In Mojave\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#mirage",
+    "href": "index.html#mirage",
+    "title": "ggsci iterm palettes",
+    "section": "Mirage",
+    "text": "Mirage\n\np1 &lt;- p1 + scale_color_iterm(\"Mirage\")\np2 &lt;- p2 + scale_fill_iterm(\"Mirage\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#misterioso",
+    "href": "index.html#misterioso",
+    "title": "ggsci iterm palettes",
+    "section": "Misterioso",
+    "text": "Misterioso\n\np1 &lt;- p1 + scale_color_iterm(\"Misterioso\")\np2 &lt;- p2 + scale_fill_iterm(\"Misterioso\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#molokai",
+    "href": "index.html#molokai",
+    "title": "ggsci iterm palettes",
+    "section": "Molokai",
+    "text": "Molokai\n\np1 &lt;- p1 + scale_color_iterm(\"Molokai\")\np2 &lt;- p2 + scale_fill_iterm(\"Molokai\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#mona-lisa",
+    "href": "index.html#mona-lisa",
+    "title": "ggsci iterm palettes",
+    "section": "Mona Lisa",
+    "text": "Mona Lisa\n\np1 &lt;- p1 + scale_color_iterm(\"Mona Lisa\")\np2 &lt;- p2 + scale_fill_iterm(\"Mona Lisa\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#monokai-classic",
+    "href": "index.html#monokai-classic",
+    "title": "ggsci iterm palettes",
+    "section": "Monokai Classic",
+    "text": "Monokai Classic\n\np1 &lt;- p1 + scale_color_iterm(\"Monokai Classic\")\np2 &lt;- p2 + scale_fill_iterm(\"Monokai Classic\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#monokai-pro-light-sun",
+    "href": "index.html#monokai-pro-light-sun",
+    "title": "ggsci iterm palettes",
+    "section": "Monokai Pro Light Sun",
+    "text": "Monokai Pro Light Sun\n\np1 &lt;- p1 + scale_color_iterm(\"Monokai Pro Light Sun\")\np2 &lt;- p2 + scale_fill_iterm(\"Monokai Pro Light Sun\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#monokai-pro-light",
+    "href": "index.html#monokai-pro-light",
+    "title": "ggsci iterm palettes",
+    "section": "Monokai Pro Light",
+    "text": "Monokai Pro Light\n\np1 &lt;- p1 + scale_color_iterm(\"Monokai Pro Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Monokai Pro Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#monokai-pro-machine",
+    "href": "index.html#monokai-pro-machine",
+    "title": "ggsci iterm palettes",
+    "section": "Monokai Pro Machine",
+    "text": "Monokai Pro Machine\n\np1 &lt;- p1 + scale_color_iterm(\"Monokai Pro Machine\")\np2 &lt;- p2 + scale_fill_iterm(\"Monokai Pro Machine\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#monokai-pro-octagon",
+    "href": "index.html#monokai-pro-octagon",
+    "title": "ggsci iterm palettes",
+    "section": "Monokai Pro Octagon",
+    "text": "Monokai Pro Octagon\n\np1 &lt;- p1 + scale_color_iterm(\"Monokai Pro Octagon\")\np2 &lt;- p2 + scale_fill_iterm(\"Monokai Pro Octagon\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#monokai-pro-ristretto",
+    "href": "index.html#monokai-pro-ristretto",
+    "title": "ggsci iterm palettes",
+    "section": "Monokai Pro Ristretto",
+    "text": "Monokai Pro Ristretto\n\np1 &lt;- p1 + scale_color_iterm(\"Monokai Pro Ristretto\")\np2 &lt;- p2 + scale_fill_iterm(\"Monokai Pro Ristretto\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#monokai-pro-spectrum",
+    "href": "index.html#monokai-pro-spectrum",
+    "title": "ggsci iterm palettes",
+    "section": "Monokai Pro Spectrum",
+    "text": "Monokai Pro Spectrum\n\np1 &lt;- p1 + scale_color_iterm(\"Monokai Pro Spectrum\")\np2 &lt;- p2 + scale_fill_iterm(\"Monokai Pro Spectrum\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#monokai-pro",
+    "href": "index.html#monokai-pro",
+    "title": "ggsci iterm palettes",
+    "section": "Monokai Pro",
+    "text": "Monokai Pro\n\np1 &lt;- p1 + scale_color_iterm(\"Monokai Pro\")\np2 &lt;- p2 + scale_fill_iterm(\"Monokai Pro\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#monokai-remastered",
+    "href": "index.html#monokai-remastered",
+    "title": "ggsci iterm palettes",
+    "section": "Monokai Remastered",
+    "text": "Monokai Remastered\n\np1 &lt;- p1 + scale_color_iterm(\"Monokai Remastered\")\np2 &lt;- p2 + scale_fill_iterm(\"Monokai Remastered\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#monokai-soda",
+    "href": "index.html#monokai-soda",
+    "title": "ggsci iterm palettes",
+    "section": "Monokai Soda",
+    "text": "Monokai Soda\n\np1 &lt;- p1 + scale_color_iterm(\"Monokai Soda\")\np2 &lt;- p2 + scale_fill_iterm(\"Monokai Soda\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#monokai-vivid",
+    "href": "index.html#monokai-vivid",
+    "title": "ggsci iterm palettes",
+    "section": "Monokai Vivid",
+    "text": "Monokai Vivid\n\np1 &lt;- p1 + scale_color_iterm(\"Monokai Vivid\")\np2 &lt;- p2 + scale_fill_iterm(\"Monokai Vivid\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#moonfly",
+    "href": "index.html#moonfly",
+    "title": "ggsci iterm palettes",
+    "section": "Moonfly",
+    "text": "Moonfly\n\np1 &lt;- p1 + scale_color_iterm(\"Moonfly\")\np2 &lt;- p2 + scale_fill_iterm(\"Moonfly\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#n0tch2k",
+    "href": "index.html#n0tch2k",
+    "title": "ggsci iterm palettes",
+    "section": "N0Tch2K",
+    "text": "N0Tch2K\n\np1 &lt;- p1 + scale_color_iterm(\"N0Tch2K\")\np2 &lt;- p2 + scale_fill_iterm(\"N0Tch2K\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#neobones-dark",
+    "href": "index.html#neobones-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Neobones Dark",
+    "text": "Neobones Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Neobones Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Neobones Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#neobones-light",
+    "href": "index.html#neobones-light",
+    "title": "ggsci iterm palettes",
+    "section": "Neobones Light",
+    "text": "Neobones Light\n\np1 &lt;- p1 + scale_color_iterm(\"Neobones Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Neobones Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#neon",
+    "href": "index.html#neon",
+    "title": "ggsci iterm palettes",
+    "section": "Neon",
+    "text": "Neon\n\np1 &lt;- p1 + scale_color_iterm(\"Neon\")\np2 &lt;- p2 + scale_fill_iterm(\"Neon\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#neopolitan",
+    "href": "index.html#neopolitan",
+    "title": "ggsci iterm palettes",
+    "section": "Neopolitan",
+    "text": "Neopolitan\n\np1 &lt;- p1 + scale_color_iterm(\"Neopolitan\")\np2 &lt;- p2 + scale_fill_iterm(\"Neopolitan\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#neutron",
+    "href": "index.html#neutron",
+    "title": "ggsci iterm palettes",
+    "section": "Neutron",
+    "text": "Neutron\n\np1 &lt;- p1 + scale_color_iterm(\"Neutron\")\np2 &lt;- p2 + scale_fill_iterm(\"Neutron\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#night-lion-v1",
+    "href": "index.html#night-lion-v1",
+    "title": "ggsci iterm palettes",
+    "section": "Night Lion V1",
+    "text": "Night Lion V1\n\np1 &lt;- p1 + scale_color_iterm(\"Night Lion V1\")\np2 &lt;- p2 + scale_fill_iterm(\"Night Lion V1\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#night-lion-v2",
+    "href": "index.html#night-lion-v2",
+    "title": "ggsci iterm palettes",
+    "section": "Night Lion V2",
+    "text": "Night Lion V2\n\np1 &lt;- p1 + scale_color_iterm(\"Night Lion V2\")\np2 &lt;- p2 + scale_fill_iterm(\"Night Lion V2\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#night-owl",
+    "href": "index.html#night-owl",
+    "title": "ggsci iterm palettes",
+    "section": "Night Owl",
+    "text": "Night Owl\n\np1 &lt;- p1 + scale_color_iterm(\"Night Owl\")\np2 &lt;- p2 + scale_fill_iterm(\"Night Owl\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#night-owlish-light",
+    "href": "index.html#night-owlish-light",
+    "title": "ggsci iterm palettes",
+    "section": "Night Owlish Light",
+    "text": "Night Owlish Light\n\np1 &lt;- p1 + scale_color_iterm(\"Night Owlish Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Night Owlish Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#nightfox",
+    "href": "index.html#nightfox",
+    "title": "ggsci iterm palettes",
+    "section": "Nightfox",
+    "text": "Nightfox\n\np1 &lt;- p1 + scale_color_iterm(\"Nightfox\")\np2 &lt;- p2 + scale_fill_iterm(\"Nightfox\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#niji",
+    "href": "index.html#niji",
+    "title": "ggsci iterm palettes",
+    "section": "Niji",
+    "text": "Niji\n\np1 &lt;- p1 + scale_color_iterm(\"Niji\")\np2 &lt;- p2 + scale_fill_iterm(\"Niji\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#nocturnal-winter",
+    "href": "index.html#nocturnal-winter",
+    "title": "ggsci iterm palettes",
+    "section": "Nocturnal Winter",
+    "text": "Nocturnal Winter\n\np1 &lt;- p1 + scale_color_iterm(\"Nocturnal Winter\")\np2 &lt;- p2 + scale_fill_iterm(\"Nocturnal Winter\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#nord-light",
+    "href": "index.html#nord-light",
+    "title": "ggsci iterm palettes",
+    "section": "Nord Light",
+    "text": "Nord Light\n\np1 &lt;- p1 + scale_color_iterm(\"Nord Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Nord Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#nord-wave",
+    "href": "index.html#nord-wave",
+    "title": "ggsci iterm palettes",
+    "section": "Nord Wave",
+    "text": "Nord Wave\n\np1 &lt;- p1 + scale_color_iterm(\"Nord Wave\")\np2 &lt;- p2 + scale_fill_iterm(\"Nord Wave\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#nord",
+    "href": "index.html#nord",
+    "title": "ggsci iterm palettes",
+    "section": "Nord",
+    "text": "Nord\n\np1 &lt;- p1 + scale_color_iterm(\"Nord\")\np2 &lt;- p2 + scale_fill_iterm(\"Nord\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#nordfox",
+    "href": "index.html#nordfox",
+    "title": "ggsci iterm palettes",
+    "section": "Nordfox",
+    "text": "Nordfox\n\np1 &lt;- p1 + scale_color_iterm(\"Nordfox\")\np2 &lt;- p2 + scale_fill_iterm(\"Nordfox\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#novel",
+    "href": "index.html#novel",
+    "title": "ggsci iterm palettes",
+    "section": "Novel",
+    "text": "Novel\n\np1 &lt;- p1 + scale_color_iterm(\"Novel\")\np2 &lt;- p2 + scale_fill_iterm(\"Novel\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#nvim-dark",
+    "href": "index.html#nvim-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Nvim Dark",
+    "text": "Nvim Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Nvim Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Nvim Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#nvim-light",
+    "href": "index.html#nvim-light",
+    "title": "ggsci iterm palettes",
+    "section": "Nvim Light",
+    "text": "Nvim Light\n\np1 &lt;- p1 + scale_color_iterm(\"Nvim Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Nvim Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#obsidian",
+    "href": "index.html#obsidian",
+    "title": "ggsci iterm palettes",
+    "section": "Obsidian",
+    "text": "Obsidian\n\np1 &lt;- p1 + scale_color_iterm(\"Obsidian\")\np2 &lt;- p2 + scale_fill_iterm(\"Obsidian\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#ocean",
+    "href": "index.html#ocean",
+    "title": "ggsci iterm palettes",
+    "section": "Ocean",
+    "text": "Ocean\n\np1 &lt;- p1 + scale_color_iterm(\"Ocean\")\np2 &lt;- p2 + scale_fill_iterm(\"Ocean\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#oceanic-material",
+    "href": "index.html#oceanic-material",
+    "title": "ggsci iterm palettes",
+    "section": "Oceanic Material",
+    "text": "Oceanic Material\n\np1 &lt;- p1 + scale_color_iterm(\"Oceanic Material\")\np2 &lt;- p2 + scale_fill_iterm(\"Oceanic Material\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#oceanic-next",
+    "href": "index.html#oceanic-next",
+    "title": "ggsci iterm palettes",
+    "section": "Oceanic Next",
+    "text": "Oceanic Next\n\np1 &lt;- p1 + scale_color_iterm(\"Oceanic Next\")\np2 &lt;- p2 + scale_fill_iterm(\"Oceanic Next\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#ollie",
+    "href": "index.html#ollie",
+    "title": "ggsci iterm palettes",
+    "section": "Ollie",
+    "text": "Ollie\n\np1 &lt;- p1 + scale_color_iterm(\"Ollie\")\np2 &lt;- p2 + scale_fill_iterm(\"Ollie\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#one-double-dark",
+    "href": "index.html#one-double-dark",
+    "title": "ggsci iterm palettes",
+    "section": "One Double Dark",
+    "text": "One Double Dark\n\np1 &lt;- p1 + scale_color_iterm(\"One Double Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"One Double Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#one-double-light",
+    "href": "index.html#one-double-light",
+    "title": "ggsci iterm palettes",
+    "section": "One Double Light",
+    "text": "One Double Light\n\np1 &lt;- p1 + scale_color_iterm(\"One Double Light\")\np2 &lt;- p2 + scale_fill_iterm(\"One Double Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#one-half-dark",
+    "href": "index.html#one-half-dark",
+    "title": "ggsci iterm palettes",
+    "section": "One Half Dark",
+    "text": "One Half Dark\n\np1 &lt;- p1 + scale_color_iterm(\"One Half Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"One Half Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#one-half-light",
+    "href": "index.html#one-half-light",
+    "title": "ggsci iterm palettes",
+    "section": "One Half Light",
+    "text": "One Half Light\n\np1 &lt;- p1 + scale_color_iterm(\"One Half Light\")\np2 &lt;- p2 + scale_fill_iterm(\"One Half Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#operator-mono-dark",
+    "href": "index.html#operator-mono-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Operator Mono Dark",
+    "text": "Operator Mono Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Operator Mono Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Operator Mono Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#overnight-slumber",
+    "href": "index.html#overnight-slumber",
+    "title": "ggsci iterm palettes",
+    "section": "Overnight Slumber",
+    "text": "Overnight Slumber\n\np1 &lt;- p1 + scale_color_iterm(\"Overnight Slumber\")\np2 &lt;- p2 + scale_fill_iterm(\"Overnight Slumber\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#oxocarbon",
+    "href": "index.html#oxocarbon",
+    "title": "ggsci iterm palettes",
+    "section": "Oxocarbon",
+    "text": "Oxocarbon\n\np1 &lt;- p1 + scale_color_iterm(\"Oxocarbon\")\np2 &lt;- p2 + scale_fill_iterm(\"Oxocarbon\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#pale-night-hc",
+    "href": "index.html#pale-night-hc",
+    "title": "ggsci iterm palettes",
+    "section": "Pale Night Hc",
+    "text": "Pale Night Hc\n\np1 &lt;- p1 + scale_color_iterm(\"Pale Night Hc\")\np2 &lt;- p2 + scale_fill_iterm(\"Pale Night Hc\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#pandora",
+    "href": "index.html#pandora",
+    "title": "ggsci iterm palettes",
+    "section": "Pandora",
+    "text": "Pandora\n\np1 &lt;- p1 + scale_color_iterm(\"Pandora\")\np2 &lt;- p2 + scale_fill_iterm(\"Pandora\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#paraiso-dark",
+    "href": "index.html#paraiso-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Paraiso Dark",
+    "text": "Paraiso Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Paraiso Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Paraiso Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#paul-millr",
+    "href": "index.html#paul-millr",
+    "title": "ggsci iterm palettes",
+    "section": "Paul Millr",
+    "text": "Paul Millr\n\np1 &lt;- p1 + scale_color_iterm(\"Paul Millr\")\np2 &lt;- p2 + scale_fill_iterm(\"Paul Millr\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#pencil-dark",
+    "href": "index.html#pencil-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Pencil Dark",
+    "text": "Pencil Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Pencil Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Pencil Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#pencil-light",
+    "href": "index.html#pencil-light",
+    "title": "ggsci iterm palettes",
+    "section": "Pencil Light",
+    "text": "Pencil Light\n\np1 &lt;- p1 + scale_color_iterm(\"Pencil Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Pencil Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#peppermint",
+    "href": "index.html#peppermint",
+    "title": "ggsci iterm palettes",
+    "section": "Peppermint",
+    "text": "Peppermint\n\np1 &lt;- p1 + scale_color_iterm(\"Peppermint\")\np2 &lt;- p2 + scale_fill_iterm(\"Peppermint\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#phala-green-dark",
+    "href": "index.html#phala-green-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Phala Green Dark",
+    "text": "Phala Green Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Phala Green Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Phala Green Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#piatto-light",
+    "href": "index.html#piatto-light",
+    "title": "ggsci iterm palettes",
+    "section": "Piatto Light",
+    "text": "Piatto Light\n\np1 &lt;- p1 + scale_color_iterm(\"Piatto Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Piatto Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#pnevma",
+    "href": "index.html#pnevma",
+    "title": "ggsci iterm palettes",
+    "section": "Pnevma",
+    "text": "Pnevma\n\np1 &lt;- p1 + scale_color_iterm(\"Pnevma\")\np2 &lt;- p2 + scale_fill_iterm(\"Pnevma\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#popping-and-locking",
+    "href": "index.html#popping-and-locking",
+    "title": "ggsci iterm palettes",
+    "section": "Popping And Locking",
+    "text": "Popping And Locking\n\np1 &lt;- p1 + scale_color_iterm(\"Popping And Locking\")\np2 &lt;- p2 + scale_fill_iterm(\"Popping And Locking\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#powershell",
+    "href": "index.html#powershell",
+    "title": "ggsci iterm palettes",
+    "section": "Powershell",
+    "text": "Powershell\n\np1 &lt;- p1 + scale_color_iterm(\"Powershell\")\np2 &lt;- p2 + scale_fill_iterm(\"Powershell\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#primary",
+    "href": "index.html#primary",
+    "title": "ggsci iterm palettes",
+    "section": "Primary",
+    "text": "Primary\n\np1 &lt;- p1 + scale_color_iterm(\"Primary\")\np2 &lt;- p2 + scale_fill_iterm(\"Primary\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#pro-light",
+    "href": "index.html#pro-light",
+    "title": "ggsci iterm palettes",
+    "section": "Pro Light",
+    "text": "Pro Light\n\np1 &lt;- p1 + scale_color_iterm(\"Pro Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Pro Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#pro",
+    "href": "index.html#pro",
+    "title": "ggsci iterm palettes",
+    "section": "Pro",
+    "text": "Pro\n\np1 &lt;- p1 + scale_color_iterm(\"Pro\")\np2 &lt;- p2 + scale_fill_iterm(\"Pro\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#purple-rain",
+    "href": "index.html#purple-rain",
+    "title": "ggsci iterm palettes",
+    "section": "Purple Rain",
+    "text": "Purple Rain\n\np1 &lt;- p1 + scale_color_iterm(\"Purple Rain\")\np2 &lt;- p2 + scale_fill_iterm(\"Purple Rain\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#purplepeter",
+    "href": "index.html#purplepeter",
+    "title": "ggsci iterm palettes",
+    "section": "Purplepeter",
+    "text": "Purplepeter\n\np1 &lt;- p1 + scale_color_iterm(\"Purplepeter\")\np2 &lt;- p2 + scale_fill_iterm(\"Purplepeter\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#rapture",
+    "href": "index.html#rapture",
+    "title": "ggsci iterm palettes",
+    "section": "Rapture",
+    "text": "Rapture\n\np1 &lt;- p1 + scale_color_iterm(\"Rapture\")\np2 &lt;- p2 + scale_fill_iterm(\"Rapture\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#raycast-dark",
+    "href": "index.html#raycast-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Raycast Dark",
+    "text": "Raycast Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Raycast Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Raycast Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#raycast-light",
+    "href": "index.html#raycast-light",
+    "title": "ggsci iterm palettes",
+    "section": "Raycast Light",
+    "text": "Raycast Light\n\np1 &lt;- p1 + scale_color_iterm(\"Raycast Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Raycast Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#rebecca",
+    "href": "index.html#rebecca",
+    "title": "ggsci iterm palettes",
+    "section": "Rebecca",
+    "text": "Rebecca\n\np1 &lt;- p1 + scale_color_iterm(\"Rebecca\")\np2 &lt;- p2 + scale_fill_iterm(\"Rebecca\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#red-alert",
+    "href": "index.html#red-alert",
+    "title": "ggsci iterm palettes",
+    "section": "Red Alert",
+    "text": "Red Alert\n\np1 &lt;- p1 + scale_color_iterm(\"Red Alert\")\np2 &lt;- p2 + scale_fill_iterm(\"Red Alert\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#red-planet",
+    "href": "index.html#red-planet",
+    "title": "ggsci iterm palettes",
+    "section": "Red Planet",
+    "text": "Red Planet\n\np1 &lt;- p1 + scale_color_iterm(\"Red Planet\")\np2 &lt;- p2 + scale_fill_iterm(\"Red Planet\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#red-sands",
+    "href": "index.html#red-sands",
+    "title": "ggsci iterm palettes",
+    "section": "Red Sands",
+    "text": "Red Sands\n\np1 &lt;- p1 + scale_color_iterm(\"Red Sands\")\np2 &lt;- p2 + scale_fill_iterm(\"Red Sands\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#relaxed",
+    "href": "index.html#relaxed",
+    "title": "ggsci iterm palettes",
+    "section": "Relaxed",
+    "text": "Relaxed\n\np1 &lt;- p1 + scale_color_iterm(\"Relaxed\")\np2 &lt;- p2 + scale_fill_iterm(\"Relaxed\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#retro-legends",
+    "href": "index.html#retro-legends",
+    "title": "ggsci iterm palettes",
+    "section": "Retro Legends",
+    "text": "Retro Legends\n\np1 &lt;- p1 + scale_color_iterm(\"Retro Legends\")\np2 &lt;- p2 + scale_fill_iterm(\"Retro Legends\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#retro",
+    "href": "index.html#retro",
+    "title": "ggsci iterm palettes",
+    "section": "Retro",
+    "text": "Retro\n\np1 &lt;- p1 + scale_color_iterm(\"Retro\")\np2 &lt;- p2 + scale_fill_iterm(\"Retro\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#rippedcasts",
+    "href": "index.html#rippedcasts",
+    "title": "ggsci iterm palettes",
+    "section": "Rippedcasts",
+    "text": "Rippedcasts\n\np1 &lt;- p1 + scale_color_iterm(\"Rippedcasts\")\np2 &lt;- p2 + scale_fill_iterm(\"Rippedcasts\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#rose-pine-dawn",
+    "href": "index.html#rose-pine-dawn",
+    "title": "ggsci iterm palettes",
+    "section": "Rose Pine Dawn",
+    "text": "Rose Pine Dawn\n\np1 &lt;- p1 + scale_color_iterm(\"Rose Pine Dawn\")\np2 &lt;- p2 + scale_fill_iterm(\"Rose Pine Dawn\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#rose-pine-moon",
+    "href": "index.html#rose-pine-moon",
+    "title": "ggsci iterm palettes",
+    "section": "Rose Pine Moon",
+    "text": "Rose Pine Moon\n\np1 &lt;- p1 + scale_color_iterm(\"Rose Pine Moon\")\np2 &lt;- p2 + scale_fill_iterm(\"Rose Pine Moon\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#rose-pine",
+    "href": "index.html#rose-pine",
+    "title": "ggsci iterm palettes",
+    "section": "Rose Pine",
+    "text": "Rose Pine\n\np1 &lt;- p1 + scale_color_iterm(\"Rose Pine\")\np2 &lt;- p2 + scale_fill_iterm(\"Rose Pine\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#rouge-2",
+    "href": "index.html#rouge-2",
+    "title": "ggsci iterm palettes",
+    "section": "Rouge 2",
+    "text": "Rouge 2\n\np1 &lt;- p1 + scale_color_iterm(\"Rouge 2\")\np2 &lt;- p2 + scale_fill_iterm(\"Rouge 2\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#royal",
+    "href": "index.html#royal",
+    "title": "ggsci iterm palettes",
+    "section": "Royal",
+    "text": "Royal\n\np1 &lt;- p1 + scale_color_iterm(\"Royal\")\np2 &lt;- p2 + scale_fill_iterm(\"Royal\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#ryuuko",
+    "href": "index.html#ryuuko",
+    "title": "ggsci iterm palettes",
+    "section": "Ryuuko",
+    "text": "Ryuuko\n\np1 &lt;- p1 + scale_color_iterm(\"Ryuuko\")\np2 &lt;- p2 + scale_fill_iterm(\"Ryuuko\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#sakura",
+    "href": "index.html#sakura",
+    "title": "ggsci iterm palettes",
+    "section": "Sakura",
+    "text": "Sakura\n\np1 &lt;- p1 + scale_color_iterm(\"Sakura\")\np2 &lt;- p2 + scale_fill_iterm(\"Sakura\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#scarlet-protocol",
+    "href": "index.html#scarlet-protocol",
+    "title": "ggsci iterm palettes",
+    "section": "Scarlet Protocol",
+    "text": "Scarlet Protocol\n\np1 &lt;- p1 + scale_color_iterm(\"Scarlet Protocol\")\np2 &lt;- p2 + scale_fill_iterm(\"Scarlet Protocol\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#sea-shells",
+    "href": "index.html#sea-shells",
+    "title": "ggsci iterm palettes",
+    "section": "Sea Shells",
+    "text": "Sea Shells\n\np1 &lt;- p1 + scale_color_iterm(\"Sea Shells\")\np2 &lt;- p2 + scale_fill_iterm(\"Sea Shells\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#seafoam-pastel",
+    "href": "index.html#seafoam-pastel",
+    "title": "ggsci iterm palettes",
+    "section": "Seafoam Pastel",
+    "text": "Seafoam Pastel\n\np1 &lt;- p1 + scale_color_iterm(\"Seafoam Pastel\")\np2 &lt;- p2 + scale_fill_iterm(\"Seafoam Pastel\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#selenized-dark",
+    "href": "index.html#selenized-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Selenized Dark",
+    "text": "Selenized Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Selenized Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Selenized Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#selenized-light",
+    "href": "index.html#selenized-light",
+    "title": "ggsci iterm palettes",
+    "section": "Selenized Light",
+    "text": "Selenized Light\n\np1 &lt;- p1 + scale_color_iterm(\"Selenized Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Selenized Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#seoulbones-dark",
+    "href": "index.html#seoulbones-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Seoulbones Dark",
+    "text": "Seoulbones Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Seoulbones Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Seoulbones Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#seoulbones-light",
+    "href": "index.html#seoulbones-light",
+    "title": "ggsci iterm palettes",
+    "section": "Seoulbones Light",
+    "text": "Seoulbones Light\n\np1 &lt;- p1 + scale_color_iterm(\"Seoulbones Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Seoulbones Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#seti",
+    "href": "index.html#seti",
+    "title": "ggsci iterm palettes",
+    "section": "Seti",
+    "text": "Seti\n\np1 &lt;- p1 + scale_color_iterm(\"Seti\")\np2 &lt;- p2 + scale_fill_iterm(\"Seti\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#shades-of-purple",
+    "href": "index.html#shades-of-purple",
+    "title": "ggsci iterm palettes",
+    "section": "Shades Of Purple",
+    "text": "Shades Of Purple\n\np1 &lt;- p1 + scale_color_iterm(\"Shades Of Purple\")\np2 &lt;- p2 + scale_fill_iterm(\"Shades Of Purple\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#shaman",
+    "href": "index.html#shaman",
+    "title": "ggsci iterm palettes",
+    "section": "Shaman",
+    "text": "Shaman\n\np1 &lt;- p1 + scale_color_iterm(\"Shaman\")\np2 &lt;- p2 + scale_fill_iterm(\"Shaman\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#slate",
+    "href": "index.html#slate",
+    "title": "ggsci iterm palettes",
+    "section": "Slate",
+    "text": "Slate\n\np1 &lt;- p1 + scale_color_iterm(\"Slate\")\np2 &lt;- p2 + scale_fill_iterm(\"Slate\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#sleepy-hollow",
+    "href": "index.html#sleepy-hollow",
+    "title": "ggsci iterm palettes",
+    "section": "Sleepy Hollow",
+    "text": "Sleepy Hollow\n\np1 &lt;- p1 + scale_color_iterm(\"Sleepy Hollow\")\np2 &lt;- p2 + scale_fill_iterm(\"Sleepy Hollow\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#smyck",
+    "href": "index.html#smyck",
+    "title": "ggsci iterm palettes",
+    "section": "Smyck",
+    "text": "Smyck\n\np1 &lt;- p1 + scale_color_iterm(\"Smyck\")\np2 &lt;- p2 + scale_fill_iterm(\"Smyck\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#snazzy-soft",
+    "href": "index.html#snazzy-soft",
+    "title": "ggsci iterm palettes",
+    "section": "Snazzy Soft",
+    "text": "Snazzy Soft\n\np1 &lt;- p1 + scale_color_iterm(\"Snazzy Soft\")\np2 &lt;- p2 + scale_fill_iterm(\"Snazzy Soft\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#snazzy",
+    "href": "index.html#snazzy",
+    "title": "ggsci iterm palettes",
+    "section": "Snazzy",
+    "text": "Snazzy\n\np1 &lt;- p1 + scale_color_iterm(\"Snazzy\")\np2 &lt;- p2 + scale_fill_iterm(\"Snazzy\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#soft-server",
+    "href": "index.html#soft-server",
+    "title": "ggsci iterm palettes",
+    "section": "Soft Server",
+    "text": "Soft Server\n\np1 &lt;- p1 + scale_color_iterm(\"Soft Server\")\np2 &lt;- p2 + scale_fill_iterm(\"Soft Server\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#solarized-darcula",
+    "href": "index.html#solarized-darcula",
+    "title": "ggsci iterm palettes",
+    "section": "Solarized Darcula",
+    "text": "Solarized Darcula\n\np1 &lt;- p1 + scale_color_iterm(\"Solarized Darcula\")\np2 &lt;- p2 + scale_fill_iterm(\"Solarized Darcula\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#solarized-dark-higher-contrast",
+    "href": "index.html#solarized-dark-higher-contrast",
+    "title": "ggsci iterm palettes",
+    "section": "Solarized Dark Higher Contrast",
+    "text": "Solarized Dark Higher Contrast\n\np1 &lt;- p1 + scale_color_iterm(\"Solarized Dark Higher Contrast\")\np2 &lt;- p2 + scale_fill_iterm(\"Solarized Dark Higher Contrast\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#solarized-dark-patched",
+    "href": "index.html#solarized-dark-patched",
+    "title": "ggsci iterm palettes",
+    "section": "Solarized Dark Patched",
+    "text": "Solarized Dark Patched\n\np1 &lt;- p1 + scale_color_iterm(\"Solarized Dark Patched\")\np2 &lt;- p2 + scale_fill_iterm(\"Solarized Dark Patched\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#solarized-osaka-night",
+    "href": "index.html#solarized-osaka-night",
+    "title": "ggsci iterm palettes",
+    "section": "Solarized Osaka Night",
+    "text": "Solarized Osaka Night\n\np1 &lt;- p1 + scale_color_iterm(\"Solarized Osaka Night\")\np2 &lt;- p2 + scale_fill_iterm(\"Solarized Osaka Night\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#sonokai",
+    "href": "index.html#sonokai",
+    "title": "ggsci iterm palettes",
+    "section": "Sonokai",
+    "text": "Sonokai\n\np1 &lt;- p1 + scale_color_iterm(\"Sonokai\")\np2 &lt;- p2 + scale_fill_iterm(\"Sonokai\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#spacedust",
+    "href": "index.html#spacedust",
+    "title": "ggsci iterm palettes",
+    "section": "Spacedust",
+    "text": "Spacedust\n\np1 &lt;- p1 + scale_color_iterm(\"Spacedust\")\np2 &lt;- p2 + scale_fill_iterm(\"Spacedust\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#spacegray-bright",
+    "href": "index.html#spacegray-bright",
+    "title": "ggsci iterm palettes",
+    "section": "Spacegray Bright",
+    "text": "Spacegray Bright\n\np1 &lt;- p1 + scale_color_iterm(\"Spacegray Bright\")\np2 &lt;- p2 + scale_fill_iterm(\"Spacegray Bright\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#spacegray-eighties-dull",
+    "href": "index.html#spacegray-eighties-dull",
+    "title": "ggsci iterm palettes",
+    "section": "Spacegray Eighties Dull",
+    "text": "Spacegray Eighties Dull\n\np1 &lt;- p1 + scale_color_iterm(\"Spacegray Eighties Dull\")\np2 &lt;- p2 + scale_fill_iterm(\"Spacegray Eighties Dull\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#spacegray-eighties",
+    "href": "index.html#spacegray-eighties",
+    "title": "ggsci iterm palettes",
+    "section": "Spacegray Eighties",
+    "text": "Spacegray Eighties\n\np1 &lt;- p1 + scale_color_iterm(\"Spacegray Eighties\")\np2 &lt;- p2 + scale_fill_iterm(\"Spacegray Eighties\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#spacegray",
+    "href": "index.html#spacegray",
+    "title": "ggsci iterm palettes",
+    "section": "Spacegray",
+    "text": "Spacegray\n\np1 &lt;- p1 + scale_color_iterm(\"Spacegray\")\np2 &lt;- p2 + scale_fill_iterm(\"Spacegray\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#spiderman",
+    "href": "index.html#spiderman",
+    "title": "ggsci iterm palettes",
+    "section": "Spiderman",
+    "text": "Spiderman\n\np1 &lt;- p1 + scale_color_iterm(\"Spiderman\")\np2 &lt;- p2 + scale_fill_iterm(\"Spiderman\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#spring",
+    "href": "index.html#spring",
+    "title": "ggsci iterm palettes",
+    "section": "Spring",
+    "text": "Spring\n\np1 &lt;- p1 + scale_color_iterm(\"Spring\")\np2 &lt;- p2 + scale_fill_iterm(\"Spring\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#square",
+    "href": "index.html#square",
+    "title": "ggsci iterm palettes",
+    "section": "Square",
+    "text": "Square\n\np1 &lt;- p1 + scale_color_iterm(\"Square\")\np2 &lt;- p2 + scale_fill_iterm(\"Square\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#squirrelsong-dark",
+    "href": "index.html#squirrelsong-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Squirrelsong Dark",
+    "text": "Squirrelsong Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Squirrelsong Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Squirrelsong Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#srcery",
+    "href": "index.html#srcery",
+    "title": "ggsci iterm palettes",
+    "section": "Srcery",
+    "text": "Srcery\n\np1 &lt;- p1 + scale_color_iterm(\"Srcery\")\np2 &lt;- p2 + scale_fill_iterm(\"Srcery\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#starlight",
+    "href": "index.html#starlight",
+    "title": "ggsci iterm palettes",
+    "section": "Starlight",
+    "text": "Starlight\n\np1 &lt;- p1 + scale_color_iterm(\"Starlight\")\np2 &lt;- p2 + scale_fill_iterm(\"Starlight\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#sublette",
+    "href": "index.html#sublette",
+    "title": "ggsci iterm palettes",
+    "section": "Sublette",
+    "text": "Sublette\n\np1 &lt;- p1 + scale_color_iterm(\"Sublette\")\np2 &lt;- p2 + scale_fill_iterm(\"Sublette\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#subliminal",
+    "href": "index.html#subliminal",
+    "title": "ggsci iterm palettes",
+    "section": "Subliminal",
+    "text": "Subliminal\n\np1 &lt;- p1 + scale_color_iterm(\"Subliminal\")\np2 &lt;- p2 + scale_fill_iterm(\"Subliminal\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#sugarplum",
+    "href": "index.html#sugarplum",
+    "title": "ggsci iterm palettes",
+    "section": "Sugarplum",
+    "text": "Sugarplum\n\np1 &lt;- p1 + scale_color_iterm(\"Sugarplum\")\np2 &lt;- p2 + scale_fill_iterm(\"Sugarplum\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#sundried",
+    "href": "index.html#sundried",
+    "title": "ggsci iterm palettes",
+    "section": "Sundried",
+    "text": "Sundried\n\np1 &lt;- p1 + scale_color_iterm(\"Sundried\")\np2 &lt;- p2 + scale_fill_iterm(\"Sundried\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#symfonic",
+    "href": "index.html#symfonic",
+    "title": "ggsci iterm palettes",
+    "section": "Symfonic",
+    "text": "Symfonic\n\np1 &lt;- p1 + scale_color_iterm(\"Symfonic\")\np2 &lt;- p2 + scale_fill_iterm(\"Symfonic\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#synthwave-alpha",
+    "href": "index.html#synthwave-alpha",
+    "title": "ggsci iterm palettes",
+    "section": "Synthwave Alpha",
+    "text": "Synthwave Alpha\n\np1 &lt;- p1 + scale_color_iterm(\"Synthwave Alpha\")\np2 &lt;- p2 + scale_fill_iterm(\"Synthwave Alpha\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#synthwave-everything",
+    "href": "index.html#synthwave-everything",
+    "title": "ggsci iterm palettes",
+    "section": "Synthwave Everything",
+    "text": "Synthwave Everything\n\np1 &lt;- p1 + scale_color_iterm(\"Synthwave Everything\")\np2 &lt;- p2 + scale_fill_iterm(\"Synthwave Everything\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#synthwave",
+    "href": "index.html#synthwave",
+    "title": "ggsci iterm palettes",
+    "section": "Synthwave",
+    "text": "Synthwave\n\np1 &lt;- p1 + scale_color_iterm(\"Synthwave\")\np2 &lt;- p2 + scale_fill_iterm(\"Synthwave\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#tango-adapted",
+    "href": "index.html#tango-adapted",
+    "title": "ggsci iterm palettes",
+    "section": "Tango Adapted",
+    "text": "Tango Adapted\n\np1 &lt;- p1 + scale_color_iterm(\"Tango Adapted\")\np2 &lt;- p2 + scale_fill_iterm(\"Tango Adapted\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#tango-half-adapted",
+    "href": "index.html#tango-half-adapted",
+    "title": "ggsci iterm palettes",
+    "section": "Tango Half Adapted",
+    "text": "Tango Half Adapted\n\np1 &lt;- p1 + scale_color_iterm(\"Tango Half Adapted\")\np2 &lt;- p2 + scale_fill_iterm(\"Tango Half Adapted\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#tearout",
+    "href": "index.html#tearout",
+    "title": "ggsci iterm palettes",
+    "section": "Tearout",
+    "text": "Tearout\n\np1 &lt;- p1 + scale_color_iterm(\"Tearout\")\np2 &lt;- p2 + scale_fill_iterm(\"Tearout\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#teerb",
+    "href": "index.html#teerb",
+    "title": "ggsci iterm palettes",
+    "section": "Teerb",
+    "text": "Teerb\n\np1 &lt;- p1 + scale_color_iterm(\"Teerb\")\np2 &lt;- p2 + scale_fill_iterm(\"Teerb\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#terafox",
+    "href": "index.html#terafox",
+    "title": "ggsci iterm palettes",
+    "section": "Terafox",
+    "text": "Terafox\n\np1 &lt;- p1 + scale_color_iterm(\"Terafox\")\np2 &lt;- p2 + scale_fill_iterm(\"Terafox\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#terminal-basic-dark",
+    "href": "index.html#terminal-basic-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Terminal Basic Dark",
+    "text": "Terminal Basic Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Terminal Basic Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Terminal Basic Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#terminal-basic",
+    "href": "index.html#terminal-basic",
+    "title": "ggsci iterm palettes",
+    "section": "Terminal Basic",
+    "text": "Terminal Basic\n\np1 &lt;- p1 + scale_color_iterm(\"Terminal Basic\")\np2 &lt;- p2 + scale_fill_iterm(\"Terminal Basic\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#thayer-bright",
+    "href": "index.html#thayer-bright",
+    "title": "ggsci iterm palettes",
+    "section": "Thayer Bright",
+    "text": "Thayer Bright\n\np1 &lt;- p1 + scale_color_iterm(\"Thayer Bright\")\np2 &lt;- p2 + scale_fill_iterm(\"Thayer Bright\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#the-hulk",
+    "href": "index.html#the-hulk",
+    "title": "ggsci iterm palettes",
+    "section": "The Hulk",
+    "text": "The Hulk\n\np1 &lt;- p1 + scale_color_iterm(\"The Hulk\")\np2 &lt;- p2 + scale_fill_iterm(\"The Hulk\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#tinacious-design-dark",
+    "href": "index.html#tinacious-design-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Tinacious Design Dark",
+    "text": "Tinacious Design Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Tinacious Design Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Tinacious Design Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#tinacious-design-light",
+    "href": "index.html#tinacious-design-light",
+    "title": "ggsci iterm palettes",
+    "section": "Tinacious Design Light",
+    "text": "Tinacious Design Light\n\np1 &lt;- p1 + scale_color_iterm(\"Tinacious Design Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Tinacious Design Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#tokyonight-day",
+    "href": "index.html#tokyonight-day",
+    "title": "ggsci iterm palettes",
+    "section": "TokyoNight Day",
+    "text": "TokyoNight Day\n\np1 &lt;- p1 + scale_color_iterm(\"TokyoNight Day\")\np2 &lt;- p2 + scale_fill_iterm(\"TokyoNight Day\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#tokyonight-moon",
+    "href": "index.html#tokyonight-moon",
+    "title": "ggsci iterm palettes",
+    "section": "TokyoNight Moon",
+    "text": "TokyoNight Moon\n\np1 &lt;- p1 + scale_color_iterm(\"TokyoNight Moon\")\np2 &lt;- p2 + scale_fill_iterm(\"TokyoNight Moon\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#tokyonight-night",
+    "href": "index.html#tokyonight-night",
+    "title": "ggsci iterm palettes",
+    "section": "TokyoNight Night",
+    "text": "TokyoNight Night\n\np1 &lt;- p1 + scale_color_iterm(\"TokyoNight Night\")\np2 &lt;- p2 + scale_fill_iterm(\"TokyoNight Night\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#tokyonight-storm",
+    "href": "index.html#tokyonight-storm",
+    "title": "ggsci iterm palettes",
+    "section": "TokyoNight Storm",
+    "text": "TokyoNight Storm\n\np1 &lt;- p1 + scale_color_iterm(\"TokyoNight Storm\")\np2 &lt;- p2 + scale_fill_iterm(\"TokyoNight Storm\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#tokyonight",
+    "href": "index.html#tokyonight",
+    "title": "ggsci iterm palettes",
+    "section": "TokyoNight",
+    "text": "TokyoNight\n\np1 &lt;- p1 + scale_color_iterm(\"TokyoNight\")\np2 &lt;- p2 + scale_fill_iterm(\"TokyoNight\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#tomorrow-night-blue",
+    "href": "index.html#tomorrow-night-blue",
+    "title": "ggsci iterm palettes",
+    "section": "Tomorrow Night Blue",
+    "text": "Tomorrow Night Blue\n\np1 &lt;- p1 + scale_color_iterm(\"Tomorrow Night Blue\")\np2 &lt;- p2 + scale_fill_iterm(\"Tomorrow Night Blue\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#tomorrow-night-bright",
+    "href": "index.html#tomorrow-night-bright",
+    "title": "ggsci iterm palettes",
+    "section": "Tomorrow Night Bright",
+    "text": "Tomorrow Night Bright\n\np1 &lt;- p1 + scale_color_iterm(\"Tomorrow Night Bright\")\np2 &lt;- p2 + scale_fill_iterm(\"Tomorrow Night Bright\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#tomorrow-night-burns",
+    "href": "index.html#tomorrow-night-burns",
+    "title": "ggsci iterm palettes",
+    "section": "Tomorrow Night Burns",
+    "text": "Tomorrow Night Burns\n\np1 &lt;- p1 + scale_color_iterm(\"Tomorrow Night Burns\")\np2 &lt;- p2 + scale_fill_iterm(\"Tomorrow Night Burns\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#tomorrow-night-eighties",
+    "href": "index.html#tomorrow-night-eighties",
+    "title": "ggsci iterm palettes",
+    "section": "Tomorrow Night Eighties",
+    "text": "Tomorrow Night Eighties\n\np1 &lt;- p1 + scale_color_iterm(\"Tomorrow Night Eighties\")\np2 &lt;- p2 + scale_fill_iterm(\"Tomorrow Night Eighties\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#tomorrow-night",
+    "href": "index.html#tomorrow-night",
+    "title": "ggsci iterm palettes",
+    "section": "Tomorrow Night",
+    "text": "Tomorrow Night\n\np1 &lt;- p1 + scale_color_iterm(\"Tomorrow Night\")\np2 &lt;- p2 + scale_fill_iterm(\"Tomorrow Night\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#tomorrow",
+    "href": "index.html#tomorrow",
+    "title": "ggsci iterm palettes",
+    "section": "Tomorrow",
+    "text": "Tomorrow\n\np1 &lt;- p1 + scale_color_iterm(\"Tomorrow\")\np2 &lt;- p2 + scale_fill_iterm(\"Tomorrow\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#toy-chest",
+    "href": "index.html#toy-chest",
+    "title": "ggsci iterm palettes",
+    "section": "Toy Chest",
+    "text": "Toy Chest\n\np1 &lt;- p1 + scale_color_iterm(\"Toy Chest\")\np2 &lt;- p2 + scale_fill_iterm(\"Toy Chest\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#treehouse",
+    "href": "index.html#treehouse",
+    "title": "ggsci iterm palettes",
+    "section": "Treehouse",
+    "text": "Treehouse\n\np1 &lt;- p1 + scale_color_iterm(\"Treehouse\")\np2 &lt;- p2 + scale_fill_iterm(\"Treehouse\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#twilight",
+    "href": "index.html#twilight",
+    "title": "ggsci iterm palettes",
+    "section": "Twilight",
+    "text": "Twilight\n\np1 &lt;- p1 + scale_color_iterm(\"Twilight\")\np2 &lt;- p2 + scale_fill_iterm(\"Twilight\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#ubuntu",
+    "href": "index.html#ubuntu",
+    "title": "ggsci iterm palettes",
+    "section": "Ubuntu",
+    "text": "Ubuntu\n\np1 &lt;- p1 + scale_color_iterm(\"Ubuntu\")\np2 &lt;- p2 + scale_fill_iterm(\"Ubuntu\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#ultra-dark",
+    "href": "index.html#ultra-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Ultra Dark",
+    "text": "Ultra Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Ultra Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Ultra Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#ultra-violent",
+    "href": "index.html#ultra-violent",
+    "title": "ggsci iterm palettes",
+    "section": "Ultra Violent",
+    "text": "Ultra Violent\n\np1 &lt;- p1 + scale_color_iterm(\"Ultra Violent\")\np2 &lt;- p2 + scale_fill_iterm(\"Ultra Violent\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#under-the-sea",
+    "href": "index.html#under-the-sea",
+    "title": "ggsci iterm palettes",
+    "section": "Under The Sea",
+    "text": "Under The Sea\n\np1 &lt;- p1 + scale_color_iterm(\"Under The Sea\")\np2 &lt;- p2 + scale_fill_iterm(\"Under The Sea\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#unikitty",
+    "href": "index.html#unikitty",
+    "title": "ggsci iterm palettes",
+    "section": "Unikitty",
+    "text": "Unikitty\n\np1 &lt;- p1 + scale_color_iterm(\"Unikitty\")\np2 &lt;- p2 + scale_fill_iterm(\"Unikitty\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#urple",
+    "href": "index.html#urple",
+    "title": "ggsci iterm palettes",
+    "section": "Urple",
+    "text": "Urple\n\np1 &lt;- p1 + scale_color_iterm(\"Urple\")\np2 &lt;- p2 + scale_fill_iterm(\"Urple\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#vague",
+    "href": "index.html#vague",
+    "title": "ggsci iterm palettes",
+    "section": "Vague",
+    "text": "Vague\n\np1 &lt;- p1 + scale_color_iterm(\"Vague\")\np2 &lt;- p2 + scale_fill_iterm(\"Vague\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#vaughn",
+    "href": "index.html#vaughn",
+    "title": "ggsci iterm palettes",
+    "section": "Vaughn",
+    "text": "Vaughn\n\np1 &lt;- p1 + scale_color_iterm(\"Vaughn\")\np2 &lt;- p2 + scale_fill_iterm(\"Vaughn\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#vercel",
+    "href": "index.html#vercel",
+    "title": "ggsci iterm palettes",
+    "section": "Vercel",
+    "text": "Vercel\n\np1 &lt;- p1 + scale_color_iterm(\"Vercel\")\np2 &lt;- p2 + scale_fill_iterm(\"Vercel\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#vesper",
+    "href": "index.html#vesper",
+    "title": "ggsci iterm palettes",
+    "section": "Vesper",
+    "text": "Vesper\n\np1 &lt;- p1 + scale_color_iterm(\"Vesper\")\np2 &lt;- p2 + scale_fill_iterm(\"Vesper\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#vibrant-ink",
+    "href": "index.html#vibrant-ink",
+    "title": "ggsci iterm palettes",
+    "section": "Vibrant Ink",
+    "text": "Vibrant Ink\n\np1 &lt;- p1 + scale_color_iterm(\"Vibrant Ink\")\np2 &lt;- p2 + scale_fill_iterm(\"Vibrant Ink\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#vimbones",
+    "href": "index.html#vimbones",
+    "title": "ggsci iterm palettes",
+    "section": "Vimbones",
+    "text": "Vimbones\n\np1 &lt;- p1 + scale_color_iterm(\"Vimbones\")\np2 &lt;- p2 + scale_fill_iterm(\"Vimbones\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#violet-dark",
+    "href": "index.html#violet-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Violet Dark",
+    "text": "Violet Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Violet Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Violet Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#violet-light",
+    "href": "index.html#violet-light",
+    "title": "ggsci iterm palettes",
+    "section": "Violet Light",
+    "text": "Violet Light\n\np1 &lt;- p1 + scale_color_iterm(\"Violet Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Violet Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#violite",
+    "href": "index.html#violite",
+    "title": "ggsci iterm palettes",
+    "section": "Violite",
+    "text": "Violite\n\np1 &lt;- p1 + scale_color_iterm(\"Violite\")\np2 &lt;- p2 + scale_fill_iterm(\"Violite\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#warm-neon",
+    "href": "index.html#warm-neon",
+    "title": "ggsci iterm palettes",
+    "section": "Warm Neon",
+    "text": "Warm Neon\n\np1 &lt;- p1 + scale_color_iterm(\"Warm Neon\")\np2 &lt;- p2 + scale_fill_iterm(\"Warm Neon\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#wez",
+    "href": "index.html#wez",
+    "title": "ggsci iterm palettes",
+    "section": "Wez",
+    "text": "Wez\n\np1 &lt;- p1 + scale_color_iterm(\"Wez\")\np2 &lt;- p2 + scale_fill_iterm(\"Wez\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#whimsy",
+    "href": "index.html#whimsy",
+    "title": "ggsci iterm palettes",
+    "section": "Whimsy",
+    "text": "Whimsy\n\np1 &lt;- p1 + scale_color_iterm(\"Whimsy\")\np2 &lt;- p2 + scale_fill_iterm(\"Whimsy\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#wild-cherry",
+    "href": "index.html#wild-cherry",
+    "title": "ggsci iterm palettes",
+    "section": "Wild Cherry",
+    "text": "Wild Cherry\n\np1 &lt;- p1 + scale_color_iterm(\"Wild Cherry\")\np2 &lt;- p2 + scale_fill_iterm(\"Wild Cherry\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#wilmersdorf",
+    "href": "index.html#wilmersdorf",
+    "title": "ggsci iterm palettes",
+    "section": "Wilmersdorf",
+    "text": "Wilmersdorf\n\np1 &lt;- p1 + scale_color_iterm(\"Wilmersdorf\")\np2 &lt;- p2 + scale_fill_iterm(\"Wilmersdorf\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#wombat",
+    "href": "index.html#wombat",
+    "title": "ggsci iterm palettes",
+    "section": "Wombat",
+    "text": "Wombat\n\np1 &lt;- p1 + scale_color_iterm(\"Wombat\")\np2 &lt;- p2 + scale_fill_iterm(\"Wombat\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#wryan",
+    "href": "index.html#wryan",
+    "title": "ggsci iterm palettes",
+    "section": "Wryan",
+    "text": "Wryan\n\np1 &lt;- p1 + scale_color_iterm(\"Wryan\")\np2 &lt;- p2 + scale_fill_iterm(\"Wryan\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#xcode-dark-hc",
+    "href": "index.html#xcode-dark-hc",
+    "title": "ggsci iterm palettes",
+    "section": "Xcode Dark hc",
+    "text": "Xcode Dark hc\n\np1 &lt;- p1 + scale_color_iterm(\"Xcode Dark hc\")\np2 &lt;- p2 + scale_fill_iterm(\"Xcode Dark hc\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#xcode-dark",
+    "href": "index.html#xcode-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Xcode Dark",
+    "text": "Xcode Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Xcode Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Xcode Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#xcode-light-hc",
+    "href": "index.html#xcode-light-hc",
+    "title": "ggsci iterm palettes",
+    "section": "Xcode Light hc",
+    "text": "Xcode Light hc\n\np1 &lt;- p1 + scale_color_iterm(\"Xcode Light hc\")\np2 &lt;- p2 + scale_fill_iterm(\"Xcode Light hc\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#xcode-light",
+    "href": "index.html#xcode-light",
+    "title": "ggsci iterm palettes",
+    "section": "Xcode Light",
+    "text": "Xcode Light\n\np1 &lt;- p1 + scale_color_iterm(\"Xcode Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Xcode Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#xcode-wwdc",
+    "href": "index.html#xcode-wwdc",
+    "title": "ggsci iterm palettes",
+    "section": "Xcode WWDC",
+    "text": "Xcode WWDC\n\np1 &lt;- p1 + scale_color_iterm(\"Xcode WWDC\")\np2 &lt;- p2 + scale_fill_iterm(\"Xcode WWDC\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#zenbones-dark",
+    "href": "index.html#zenbones-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Zenbones Dark",
+    "text": "Zenbones Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Zenbones Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Zenbones Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#zenbones-light",
+    "href": "index.html#zenbones-light",
+    "title": "ggsci iterm palettes",
+    "section": "Zenbones Light",
+    "text": "Zenbones Light\n\np1 &lt;- p1 + scale_color_iterm(\"Zenbones Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Zenbones Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#zenbones",
+    "href": "index.html#zenbones",
+    "title": "ggsci iterm palettes",
+    "section": "Zenbones",
+    "text": "Zenbones\n\np1 &lt;- p1 + scale_color_iterm(\"Zenbones\")\np2 &lt;- p2 + scale_fill_iterm(\"Zenbones\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#zenburn",
+    "href": "index.html#zenburn",
+    "title": "ggsci iterm palettes",
+    "section": "Zenburn",
+    "text": "Zenburn\n\np1 &lt;- p1 + scale_color_iterm(\"Zenburn\")\np2 &lt;- p2 + scale_fill_iterm(\"Zenburn\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#zenburned",
+    "href": "index.html#zenburned",
+    "title": "ggsci iterm palettes",
+    "section": "Zenburned",
+    "text": "Zenburned\n\np1 &lt;- p1 + scale_color_iterm(\"Zenburned\")\np2 &lt;- p2 + scale_fill_iterm(\"Zenburned\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#zenwritten-dark",
+    "href": "index.html#zenwritten-dark",
+    "title": "ggsci iterm palettes",
+    "section": "Zenwritten Dark",
+    "text": "Zenwritten Dark\n\np1 &lt;- p1 + scale_color_iterm(\"Zenwritten Dark\")\np2 &lt;- p2 + scale_fill_iterm(\"Zenwritten Dark\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#zenwritten-light",
+    "href": "index.html#zenwritten-light",
+    "title": "ggsci iterm palettes",
+    "section": "Zenwritten Light",
+    "text": "Zenwritten Light\n\np1 &lt;- p1 + scale_color_iterm(\"Zenwritten Light\")\np2 &lt;- p2 + scale_fill_iterm(\"Zenwritten Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  }
+]
