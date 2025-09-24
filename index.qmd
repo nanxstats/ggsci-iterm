@@ -2,7 +2,7 @@
 title: "ggsci iterm palettes"
 author: "Nan Xiao"
 date: "last-modified"
-description: Previewing all available (400+!) iterm color palettes in ggsci.
+description: "Preview all `r length(ggsci::iterm_palettes())` iterm color palettes in ggsci"
 title-block-banner: "#4c71aa"
 ---
 
@@ -49,18 +49,4 @@ scale_fill_iterm("...", variant = "bright")
 to try the bright variant. Not every palette has a functionally different bright variant, although many do.
 :::
 
-## 0x96f
-
-```{r, ggsci-iterm-0x96f}
-p1 <- p1 + scale_color_iterm("0x96f")
-p2 <- p2 + scale_fill_iterm("0x96f")
-grid.arrange(p1, p2, ncol = 2)
-```
-
-## 12-bit Rainbow
-
-```{r, ggsci-iterm-12-bit-rainbow}
-p1 <- p1 + scale_color_iterm("12-bit Rainbow")
-p2 <- p2 + scale_fill_iterm("12-bit Rainbow")
-grid.arrange(p1, p2, ncol = 2)
-```
+{{< include _palettes.qmd >}}
