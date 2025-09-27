@@ -8,5 +8,6 @@ format:
     highlight-style: monochrome
 
 website:
+  favicon: favicon.png
   repo-url: https://github.com/nanxstats/ggsci-iterm
   repo-actions: [issue, source]
