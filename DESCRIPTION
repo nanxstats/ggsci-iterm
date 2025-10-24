@@ -11,3 +11,5 @@ Imports:
     xml2,
     quarto
 Encoding: UTF-8
+Remotes:
+    nanxstats/ggsci@4.0.0
