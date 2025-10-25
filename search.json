@@ -1358,6 +1358,20 @@
     "text": "Horizon\n\np1 &lt;- p1 + scale_color_iterm(\"Horizon\")\np2 &lt;- p2 + scale_fill_iterm(\"Horizon\")\ngrid.arrange(p1, p2, ncol = 2)"
   },
   {
+    "objectID": "index.html#hot-dog-stand-mustard",
+    "href": "index.html#hot-dog-stand-mustard",
+    "title": "ggsci iterm palettes",
+    "section": "Hot Dog Stand (Mustard)",
+    "text": "Hot Dog Stand (Mustard)\n\np1 &lt;- p1 + scale_color_iterm(\"Hot Dog Stand (Mustard)\")\np2 &lt;- p2 + scale_fill_iterm(\"Hot Dog Stand (Mustard)\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#hot-dog-stand",
+    "href": "index.html#hot-dog-stand",
+    "title": "ggsci iterm palettes",
+    "section": "Hot Dog Stand",
+    "text": "Hot Dog Stand\n\np1 &lt;- p1 + scale_color_iterm(\"Hot Dog Stand\")\np2 &lt;- p2 + scale_fill_iterm(\"Hot Dog Stand\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
     "objectID": "index.html#hurtado",
     "href": "index.html#hurtado",
     "title": "ggsci iterm palettes",
@@ -1727,6 +1741,13 @@
     "title": "ggsci iterm palettes",
     "section": "Matrix",
     "text": "Matrix\n\np1 &lt;- p1 + scale_color_iterm(\"Matrix\")\np2 &lt;- p2 + scale_fill_iterm(\"Matrix\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#matte-black",
+    "href": "index.html#matte-black",
+    "title": "ggsci iterm palettes",
+    "section": "Matte Black",
+    "text": "Matte Black\n\np1 &lt;- p1 + scale_color_iterm(\"Matte Black\")\np2 &lt;- p2 + scale_fill_iterm(\"Matte Black\")\ngrid.arrange(p1, p2, ncol = 2)"
   },
   {
     "objectID": "index.html#medallion",
@@ -2184,6 +2205,34 @@
     "text": "Pnevma\n\np1 &lt;- p1 + scale_color_iterm(\"Pnevma\")\np2 &lt;- p2 + scale_fill_iterm(\"Pnevma\")\ngrid.arrange(p1, p2, ncol = 2)"
   },
   {
+    "objectID": "index.html#poimandres-darker",
+    "href": "index.html#poimandres-darker",
+    "title": "ggsci iterm palettes",
+    "section": "Poimandres Darker",
+    "text": "Poimandres Darker\n\np1 &lt;- p1 + scale_color_iterm(\"Poimandres Darker\")\np2 &lt;- p2 + scale_fill_iterm(\"Poimandres Darker\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#poimandres-storm",
+    "href": "index.html#poimandres-storm",
+    "title": "ggsci iterm palettes",
+    "section": "Poimandres Storm",
+    "text": "Poimandres Storm\n\np1 &lt;- p1 + scale_color_iterm(\"Poimandres Storm\")\np2 &lt;- p2 + scale_fill_iterm(\"Poimandres Storm\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#poimandres-white",
+    "href": "index.html#poimandres-white",
+    "title": "ggsci iterm palettes",
+    "section": "Poimandres White",
+    "text": "Poimandres White\n\np1 &lt;- p1 + scale_color_iterm(\"Poimandres White\")\np2 &lt;- p2 + scale_fill_iterm(\"Poimandres White\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#poimandres",
+    "href": "index.html#poimandres",
+    "title": "ggsci iterm palettes",
+    "section": "Poimandres",
+    "text": "Poimandres\n\np1 &lt;- p1 + scale_color_iterm(\"Poimandres\")\np2 &lt;- p2 + scale_fill_iterm(\"Poimandres\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
     "objectID": "index.html#popping-and-locking",
     "href": "index.html#popping-and-locking",
     "title": "ggsci iterm palettes",
@@ -2378,6 +2427,13 @@
     "title": "ggsci iterm palettes",
     "section": "Seafoam Pastel",
     "text": "Seafoam Pastel\n\np1 &lt;- p1 + scale_color_iterm(\"Seafoam Pastel\")\np2 &lt;- p2 + scale_fill_iterm(\"Seafoam Pastel\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#selenized-black",
+    "href": "index.html#selenized-black",
+    "title": "ggsci iterm palettes",
+    "section": "Selenized Black",
+    "text": "Selenized Black\n\np1 &lt;- p1 + scale_color_iterm(\"Selenized Black\")\np2 &lt;- p2 + scale_fill_iterm(\"Selenized Black\")\ngrid.arrange(p1, p2, ncol = 2)"
   },
   {
     "objectID": "index.html#selenized-dark",
