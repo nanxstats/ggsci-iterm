@@ -1542,6 +1542,22 @@ p2 <- p2 + scale_fill_iterm("Horizon")
 grid.arrange(p1, p2, ncol = 2)
 ```
 
+## Hot Dog Stand (Mustard)
+
+```{r, ggsci-iterm-hot-dog-stand-mustard}
+p1 <- p1 + scale_color_iterm("Hot Dog Stand (Mustard)")
+p2 <- p2 + scale_fill_iterm("Hot Dog Stand (Mustard)")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Hot Dog Stand
+
+```{r, ggsci-iterm-hot-dog-stand}
+p1 <- p1 + scale_color_iterm("Hot Dog Stand")
+p2 <- p2 + scale_fill_iterm("Hot Dog Stand")
+grid.arrange(p1, p2, ncol = 2)
+```
+
 ## Hurtado
 
 ```{r, ggsci-iterm-hurtado}
@@ -1963,6 +1979,14 @@ grid.arrange(p1, p2, ncol = 2)
 ```{r, ggsci-iterm-matrix}
 p1 <- p1 + scale_color_iterm("Matrix")
 p2 <- p2 + scale_fill_iterm("Matrix")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Matte Black
+
+```{r, ggsci-iterm-matte-black}
+p1 <- p1 + scale_color_iterm("Matte Black")
+p2 <- p2 + scale_fill_iterm("Matte Black")
 grid.arrange(p1, p2, ncol = 2)
 ```
 
@@ -2486,6 +2510,38 @@ p2 <- p2 + scale_fill_iterm("Pnevma")
 grid.arrange(p1, p2, ncol = 2)
 ```
 
+## Poimandres Darker
+
+```{r, ggsci-iterm-poimandres-darker}
+p1 <- p1 + scale_color_iterm("Poimandres Darker")
+p2 <- p2 + scale_fill_iterm("Poimandres Darker")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Poimandres Storm
+
+```{r, ggsci-iterm-poimandres-storm}
+p1 <- p1 + scale_color_iterm("Poimandres Storm")
+p2 <- p2 + scale_fill_iterm("Poimandres Storm")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Poimandres White
+
+```{r, ggsci-iterm-poimandres-white}
+p1 <- p1 + scale_color_iterm("Poimandres White")
+p2 <- p2 + scale_fill_iterm("Poimandres White")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Poimandres
+
+```{r, ggsci-iterm-poimandres}
+p1 <- p1 + scale_color_iterm("Poimandres")
+p2 <- p2 + scale_fill_iterm("Poimandres")
+grid.arrange(p1, p2, ncol = 2)
+```
+
 ## Popping And Locking
 
 ```{r, ggsci-iterm-popping-and-locking}
@@ -2707,6 +2763,14 @@ grid.arrange(p1, p2, ncol = 2)
 ```{r, ggsci-iterm-seafoam-pastel}
 p1 <- p1 + scale_color_iterm("Seafoam Pastel")
 p2 <- p2 + scale_fill_iterm("Seafoam Pastel")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Selenized Black
+
+```{r, ggsci-iterm-selenized-black}
+p1 <- p1 + scale_color_iterm("Selenized Black")
+p2 <- p2 + scale_fill_iterm("Selenized Black")
 grid.arrange(p1, p2, ncol = 2)
 ```
 
