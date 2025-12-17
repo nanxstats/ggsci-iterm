@@ -385,6 +385,13 @@
     "text": "Box\n\np1 &lt;- p1 + scale_color_iterm(\"Box\")\np2 &lt;- p2 + scale_fill_iterm(\"Box\")\ngrid.arrange(p1, p2, ncol = 2)"
   },
   {
+    "objectID": "index.html#branch",
+    "href": "index.html#branch",
+    "title": "ggsci iterm palettes",
+    "section": "branch",
+    "text": "branch\n\np1 &lt;- p1 + scale_color_iterm(\"branch\")\np2 &lt;- p2 + scale_fill_iterm(\"branch\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
     "objectID": "index.html#breadog",
     "href": "index.html#breadog",
     "title": "ggsci iterm palettes",
@@ -1995,6 +2002,20 @@
     "text": "Niji\n\np1 &lt;- p1 + scale_color_iterm(\"Niji\")\np2 &lt;- p2 + scale_fill_iterm(\"Niji\")\ngrid.arrange(p1, p2, ncol = 2)"
   },
   {
+    "objectID": "index.html#no-clown-fiesta-light",
+    "href": "index.html#no-clown-fiesta-light",
+    "title": "ggsci iterm palettes",
+    "section": "No Clown Fiesta Light",
+    "text": "No Clown Fiesta Light\n\np1 &lt;- p1 + scale_color_iterm(\"No Clown Fiesta Light\")\np2 &lt;- p2 + scale_fill_iterm(\"No Clown Fiesta Light\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#no-clown-fiesta",
+    "href": "index.html#no-clown-fiesta",
+    "title": "ggsci iterm palettes",
+    "section": "No Clown Fiesta",
+    "text": "No Clown Fiesta\n\np1 &lt;- p1 + scale_color_iterm(\"No Clown Fiesta\")\np2 &lt;- p2 + scale_fill_iterm(\"No Clown Fiesta\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
     "objectID": "index.html#nocturnal-winter",
     "href": "index.html#nocturnal-winter",
     "title": "ggsci iterm palettes",
@@ -2035,6 +2056,13 @@
     "title": "ggsci iterm palettes",
     "section": "Novel",
     "text": "Novel\n\np1 &lt;- p1 + scale_color_iterm(\"Novel\")\np2 &lt;- p2 + scale_fill_iterm(\"Novel\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#novmbr",
+    "href": "index.html#novmbr",
+    "title": "ggsci iterm palettes",
+    "section": "novmbr",
+    "text": "novmbr\n\np1 &lt;- p1 + scale_color_iterm(\"novmbr\")\np2 &lt;- p2 + scale_fill_iterm(\"novmbr\")\ngrid.arrange(p1, p2, ncol = 2)"
   },
   {
     "objectID": "index.html#nvim-dark",
@@ -2086,6 +2114,13 @@
     "text": "Ollie\n\np1 &lt;- p1 + scale_color_iterm(\"Ollie\")\np2 &lt;- p2 + scale_fill_iterm(\"Ollie\")\ngrid.arrange(p1, p2, ncol = 2)"
   },
   {
+    "objectID": "index.html#one-dark-two",
+    "href": "index.html#one-dark-two",
+    "title": "ggsci iterm palettes",
+    "section": "One Dark Two",
+    "text": "One Dark Two\n\np1 &lt;- p1 + scale_color_iterm(\"One Dark Two\")\np2 &lt;- p2 + scale_fill_iterm(\"One Dark Two\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
     "objectID": "index.html#one-double-dark",
     "href": "index.html#one-double-dark",
     "title": "ggsci iterm palettes",
@@ -2126,6 +2161,13 @@
     "title": "ggsci iterm palettes",
     "section": "Overnight Slumber",
     "text": "Overnight Slumber\n\np1 &lt;- p1 + scale_color_iterm(\"Overnight Slumber\")\np2 &lt;- p2 + scale_fill_iterm(\"Overnight Slumber\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#owl",
+    "href": "index.html#owl",
+    "title": "ggsci iterm palettes",
+    "section": "owl",
+    "text": "owl\n\np1 &lt;- p1 + scale_color_iterm(\"owl\")\np2 &lt;- p2 + scale_fill_iterm(\"owl\")\ngrid.arrange(p1, p2, ncol = 2)"
   },
   {
     "objectID": "index.html#oxocarbon",
@@ -2856,6 +2898,13 @@
     "text": "Toy Chest\n\np1 &lt;- p1 + scale_color_iterm(\"Toy Chest\")\np2 &lt;- p2 + scale_fill_iterm(\"Toy Chest\")\ngrid.arrange(p1, p2, ncol = 2)"
   },
   {
+    "objectID": "index.html#traffic",
+    "href": "index.html#traffic",
+    "title": "ggsci iterm palettes",
+    "section": "traffic",
+    "text": "traffic\n\np1 &lt;- p1 + scale_color_iterm(\"traffic\")\np2 &lt;- p2 + scale_fill_iterm(\"traffic\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
     "objectID": "index.html#treehouse",
     "href": "index.html#treehouse",
     "title": "ggsci iterm palettes",
@@ -2903,6 +2952,13 @@
     "title": "ggsci iterm palettes",
     "section": "Unikitty",
     "text": "Unikitty\n\np1 &lt;- p1 + scale_color_iterm(\"Unikitty\")\np2 &lt;- p2 + scale_fill_iterm(\"Unikitty\")\ngrid.arrange(p1, p2, ncol = 2)"
+  },
+  {
+    "objectID": "index.html#urban",
+    "href": "index.html#urban",
+    "title": "ggsci iterm palettes",
+    "section": "urban",
+    "text": "urban\n\np1 &lt;- p1 + scale_color_iterm(\"urban\")\np2 &lt;- p2 + scale_fill_iterm(\"urban\")\ngrid.arrange(p1, p2, ncol = 2)"
   },
   {
     "objectID": "index.html#urple",
