@@ -430,6 +430,14 @@ p2 <- p2 + scale_fill_iterm("Box")
 grid.arrange(p1, p2, ncol = 2)
 ```
 
+## branch
+
+```{r, ggsci-iterm-branch}
+p1 <- p1 + scale_color_iterm("branch")
+p2 <- p2 + scale_fill_iterm("branch")
+grid.arrange(p1, p2, ncol = 2)
+```
+
 ## Breadog
 
 ```{r, ggsci-iterm-breadog}
@@ -2270,6 +2278,22 @@ p2 <- p2 + scale_fill_iterm("Niji")
 grid.arrange(p1, p2, ncol = 2)
 ```
 
+## No Clown Fiesta Light
+
+```{r, ggsci-iterm-no-clown-fiesta-light}
+p1 <- p1 + scale_color_iterm("No Clown Fiesta Light")
+p2 <- p2 + scale_fill_iterm("No Clown Fiesta Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## No Clown Fiesta
+
+```{r, ggsci-iterm-no-clown-fiesta}
+p1 <- p1 + scale_color_iterm("No Clown Fiesta")
+p2 <- p2 + scale_fill_iterm("No Clown Fiesta")
+grid.arrange(p1, p2, ncol = 2)
+```
+
 ## Nocturnal Winter
 
 ```{r, ggsci-iterm-nocturnal-winter}
@@ -2315,6 +2339,14 @@ grid.arrange(p1, p2, ncol = 2)
 ```{r, ggsci-iterm-novel}
 p1 <- p1 + scale_color_iterm("Novel")
 p2 <- p2 + scale_fill_iterm("Novel")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## novmbr
+
+```{r, ggsci-iterm-novmbr}
+p1 <- p1 + scale_color_iterm("novmbr")
+p2 <- p2 + scale_fill_iterm("novmbr")
 grid.arrange(p1, p2, ncol = 2)
 ```
 
@@ -2374,6 +2406,14 @@ p2 <- p2 + scale_fill_iterm("Ollie")
 grid.arrange(p1, p2, ncol = 2)
 ```
 
+## One Dark Two
+
+```{r, ggsci-iterm-one-dark-two}
+p1 <- p1 + scale_color_iterm("One Dark Two")
+p2 <- p2 + scale_fill_iterm("One Dark Two")
+grid.arrange(p1, p2, ncol = 2)
+```
+
 ## One Double Dark
 
 ```{r, ggsci-iterm-one-double-dark}
@@ -2419,6 +2459,14 @@ grid.arrange(p1, p2, ncol = 2)
 ```{r, ggsci-iterm-overnight-slumber}
 p1 <- p1 + scale_color_iterm("Overnight Slumber")
 p2 <- p2 + scale_fill_iterm("Overnight Slumber")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## owl
+
+```{r, ggsci-iterm-owl}
+p1 <- p1 + scale_color_iterm("owl")
+p2 <- p2 + scale_fill_iterm("owl")
 grid.arrange(p1, p2, ncol = 2)
 ```
 
@@ -3254,6 +3302,14 @@ p2 <- p2 + scale_fill_iterm("Toy Chest")
 grid.arrange(p1, p2, ncol = 2)
 ```
 
+## traffic
+
+```{r, ggsci-iterm-traffic}
+p1 <- p1 + scale_color_iterm("traffic")
+p2 <- p2 + scale_fill_iterm("traffic")
+grid.arrange(p1, p2, ncol = 2)
+```
+
 ## Treehouse
 
 ```{r, ggsci-iterm-treehouse}
@@ -3307,6 +3363,14 @@ grid.arrange(p1, p2, ncol = 2)
 ```{r, ggsci-iterm-unikitty}
 p1 <- p1 + scale_color_iterm("Unikitty")
 p2 <- p2 + scale_fill_iterm("Unikitty")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## urban
+
+```{r, ggsci-iterm-urban}
+p1 <- p1 + scale_color_iterm("urban")
+p2 <- p2 + scale_fill_iterm("urban")
 grid.arrange(p1, p2, ncol = 2)
 ```
 
