@@ -12,4 +12,4 @@ Imports:
     quarto
 Encoding: UTF-8
 Remotes:
-    nanxstats/ggsci@v4.1.0
+    nanxstats/ggsci@v4.2.0
