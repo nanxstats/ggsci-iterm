@@ -86,6 +86,22 @@ p2 <- p2 + scale_fill_iterm("Afterglow")
 grid.arrange(p1, p2, ncol = 2)
 ```
 
+## Aizen Dark
+
+```{r, ggsci-iterm-aizen-dark}
+p1 <- p1 + scale_color_iterm("Aizen Dark")
+p2 <- p2 + scale_fill_iterm("Aizen Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Aizen Light
+
+```{r, ggsci-iterm-aizen-light}
+p1 <- p1 + scale_color_iterm("Aizen Light")
+p2 <- p2 + scale_fill_iterm("Aizen Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
 ## Alabaster
 
 ```{r, ggsci-iterm-alabaster}
@@ -502,22 +518,6 @@ p2 <- p2 + scale_fill_iterm("Builtin Pastel Dark")
 grid.arrange(p1, p2, ncol = 2)
 ```
 
-## Builtin Solarized Dark
-
-```{r, ggsci-iterm-builtin-solarized-dark}
-p1 <- p1 + scale_color_iterm("Builtin Solarized Dark")
-p2 <- p2 + scale_fill_iterm("Builtin Solarized Dark")
-grid.arrange(p1, p2, ncol = 2)
-```
-
-## Builtin Solarized Light
-
-```{r, ggsci-iterm-builtin-solarized-light}
-p1 <- p1 + scale_color_iterm("Builtin Solarized Light")
-p2 <- p2 + scale_fill_iterm("Builtin Solarized Light")
-grid.arrange(p1, p2, ncol = 2)
-```
-
 ## Builtin Tango Dark
 
 ```{r, ggsci-iterm-builtin-tango-dark}
@@ -718,6 +718,14 @@ p2 <- p2 + scale_fill_iterm("Cursor Dark")
 grid.arrange(p1, p2, ncol = 2)
 ```
 
+## Cursor Light
+
+```{r, ggsci-iterm-cursor-light}
+p1 <- p1 + scale_color_iterm("Cursor Light")
+p2 <- p2 + scale_fill_iterm("Cursor Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
 ## Cutie Pro
 
 ```{r, ggsci-iterm-cutie-pro}
@@ -747,6 +755,14 @@ grid.arrange(p1, p2, ncol = 2)
 ```{r, ggsci-iterm-cyberpunk}
 p1 <- p1 + scale_color_iterm("Cyberpunk")
 p2 <- p2 + scale_fill_iterm("Cyberpunk")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Dalton Dark
+
+```{r, ggsci-iterm-dalton-dark}
+p1 <- p1 + scale_color_iterm("Dalton Dark")
+p2 <- p2 + scale_fill_iterm("Dalton Dark")
 grid.arrange(p1, p2, ncol = 2)
 ```
 
@@ -875,6 +891,14 @@ grid.arrange(p1, p2, ncol = 2)
 ```{r, ggsci-iterm-django}
 p1 <- p1 + scale_color_iterm("Django")
 p2 <- p2 + scale_fill_iterm("Django")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Dogxi Misty
+
+```{r, ggsci-iterm-dogxi-misty}
+p1 <- p1 + scale_color_iterm("Dogxi Misty")
+p2 <- p2 + scale_fill_iterm("Dogxi Misty")
 grid.arrange(p1, p2, ncol = 2)
 ```
 
@@ -1790,6 +1814,14 @@ p2 <- p2 + scale_fill_iterm("Kanagawa Dragon")
 grid.arrange(p1, p2, ncol = 2)
 ```
 
+## Kanagawa Lotus
+
+```{r, ggsci-iterm-kanagawa-lotus}
+p1 <- p1 + scale_color_iterm("Kanagawa Lotus")
+p2 <- p2 + scale_fill_iterm("Kanagawa Lotus")
+grid.arrange(p1, p2, ncol = 2)
+```
+
 ## Kanagawa Wave
 
 ```{r, ggsci-iterm-kanagawa-wave}
@@ -1803,6 +1835,38 @@ grid.arrange(p1, p2, ncol = 2)
 ```{r, ggsci-iterm-kanagawabones}
 p1 <- p1 + scale_color_iterm("Kanagawabones")
 p2 <- p2 + scale_fill_iterm("Kanagawabones")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Kanso Ink
+
+```{r, ggsci-iterm-kanso-ink}
+p1 <- p1 + scale_color_iterm("Kanso Ink")
+p2 <- p2 + scale_fill_iterm("Kanso Ink")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Kanso Mist
+
+```{r, ggsci-iterm-kanso-mist}
+p1 <- p1 + scale_color_iterm("Kanso Mist")
+p2 <- p2 + scale_fill_iterm("Kanso Mist")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Kanso Pearl
+
+```{r, ggsci-iterm-kanso-pearl}
+p1 <- p1 + scale_color_iterm("Kanso Pearl")
+p2 <- p2 + scale_fill_iterm("Kanso Pearl")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Kanso Zen
+
+```{r, ggsci-iterm-kanso-zen}
+p1 <- p1 + scale_color_iterm("Kanso Zen")
+p2 <- p2 + scale_fill_iterm("Kanso Zen")
 grid.arrange(p1, p2, ncol = 2)
 ```
 
@@ -2070,6 +2134,38 @@ p2 <- p2 + scale_fill_iterm("Misterioso")
 grid.arrange(p1, p2, ncol = 2)
 ```
 
+## Modus Operandi Tinted
+
+```{r, ggsci-iterm-modus-operandi-tinted}
+p1 <- p1 + scale_color_iterm("Modus Operandi Tinted")
+p2 <- p2 + scale_fill_iterm("Modus Operandi Tinted")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Modus Operandi
+
+```{r, ggsci-iterm-modus-operandi}
+p1 <- p1 + scale_color_iterm("Modus Operandi")
+p2 <- p2 + scale_fill_iterm("Modus Operandi")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Modus Vivendi Tinted
+
+```{r, ggsci-iterm-modus-vivendi-tinted}
+p1 <- p1 + scale_color_iterm("Modus Vivendi Tinted")
+p2 <- p2 + scale_fill_iterm("Modus Vivendi Tinted")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Modus Vivendi
+
+```{r, ggsci-iterm-modus-vivendi}
+p1 <- p1 + scale_color_iterm("Modus Vivendi")
+p2 <- p2 + scale_fill_iterm("Modus Vivendi")
+grid.arrange(p1, p2, ncol = 2)
+```
+
 ## Molokai
 
 ```{r, ggsci-iterm-molokai}
@@ -2171,6 +2267,22 @@ grid.arrange(p1, p2, ncol = 2)
 ```{r, ggsci-iterm-monokai-vivid}
 p1 <- p1 + scale_color_iterm("Monokai Vivid")
 p2 <- p2 + scale_fill_iterm("Monokai Vivid")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Monospace Dark
+
+```{r, ggsci-iterm-monospace-dark}
+p1 <- p1 + scale_color_iterm("Monospace Dark")
+p2 <- p2 + scale_fill_iterm("Monospace Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Monospace Light
+
+```{r, ggsci-iterm-monospace-light}
+p1 <- p1 + scale_color_iterm("Monospace Light")
+p2 <- p2 + scale_fill_iterm("Monospace Light")
 grid.arrange(p1, p2, ncol = 2)
 ```
 
@@ -2446,6 +2558,22 @@ p2 <- p2 + scale_fill_iterm("One Half Light")
 grid.arrange(p1, p2, ncol = 2)
 ```
 
+## Onenord Light
+
+```{r, ggsci-iterm-onenord-light}
+p1 <- p1 + scale_color_iterm("Onenord Light")
+p2 <- p2 + scale_fill_iterm("Onenord Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Onenord
+
+```{r, ggsci-iterm-onenord}
+p1 <- p1 + scale_color_iterm("Onenord")
+p2 <- p2 + scale_fill_iterm("Onenord")
+grid.arrange(p1, p2, ncol = 2)
+```
+
 ## Operator Mono Dark
 
 ```{r, ggsci-iterm-operator-mono-dark}
@@ -2547,6 +2675,22 @@ grid.arrange(p1, p2, ncol = 2)
 ```{r, ggsci-iterm-piatto-light}
 p1 <- p1 + scale_color_iterm("Piatto Light")
 p2 <- p2 + scale_fill_iterm("Piatto Light")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Pierre Dark
+
+```{r, ggsci-iterm-pierre-dark}
+p1 <- p1 + scale_color_iterm("Pierre Dark")
+p2 <- p2 + scale_fill_iterm("Pierre Dark")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Pierre Light
+
+```{r, ggsci-iterm-pierre-light}
+p1 <- p1 + scale_color_iterm("Pierre Light")
+p2 <- p2 + scale_fill_iterm("Pierre Light")
 grid.arrange(p1, p2, ncol = 2)
 ```
 
@@ -2811,6 +2955,126 @@ grid.arrange(p1, p2, ncol = 2)
 ```{r, ggsci-iterm-seafoam-pastel}
 p1 <- p1 + scale_color_iterm("Seafoam Pastel")
 p2 <- p2 + scale_fill_iterm("Seafoam Pastel")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## SeedFlip Abyss
+
+```{r, ggsci-iterm-seedflip-abyss}
+p1 <- p1 + scale_color_iterm("SeedFlip Abyss")
+p2 <- p2 + scale_fill_iterm("SeedFlip Abyss")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## SeedFlip Amethyst
+
+```{r, ggsci-iterm-seedflip-amethyst}
+p1 <- p1 + scale_color_iterm("SeedFlip Amethyst")
+p2 <- p2 + scale_fill_iterm("SeedFlip Amethyst")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## SeedFlip Canopy
+
+```{r, ggsci-iterm-seedflip-canopy}
+p1 <- p1 + scale_color_iterm("SeedFlip Canopy")
+p2 <- p2 + scale_fill_iterm("SeedFlip Canopy")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## SeedFlip Carbon
+
+```{r, ggsci-iterm-seedflip-carbon}
+p1 <- p1 + scale_color_iterm("SeedFlip Carbon")
+p2 <- p2 + scale_fill_iterm("SeedFlip Carbon")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## SeedFlip Coral
+
+```{r, ggsci-iterm-seedflip-coral}
+p1 <- p1 + scale_color_iterm("SeedFlip Coral")
+p2 <- p2 + scale_fill_iterm("SeedFlip Coral")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## SeedFlip Ember
+
+```{r, ggsci-iterm-seedflip-ember}
+p1 <- p1 + scale_color_iterm("SeedFlip Ember")
+p2 <- p2 + scale_fill_iterm("SeedFlip Ember")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## SeedFlip Glacier
+
+```{r, ggsci-iterm-seedflip-glacier}
+p1 <- p1 + scale_color_iterm("SeedFlip Glacier")
+p2 <- p2 + scale_fill_iterm("SeedFlip Glacier")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## SeedFlip Inkwell
+
+```{r, ggsci-iterm-seedflip-inkwell}
+p1 <- p1 + scale_color_iterm("SeedFlip Inkwell")
+p2 <- p2 + scale_fill_iterm("SeedFlip Inkwell")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## SeedFlip Ivory
+
+```{r, ggsci-iterm-seedflip-ivory}
+p1 <- p1 + scale_color_iterm("SeedFlip Ivory")
+p2 <- p2 + scale_fill_iterm("SeedFlip Ivory")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## SeedFlip Nightfall
+
+```{r, ggsci-iterm-seedflip-nightfall}
+p1 <- p1 + scale_color_iterm("SeedFlip Nightfall")
+p2 <- p2 + scale_fill_iterm("SeedFlip Nightfall")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## SeedFlip Phosphor
+
+```{r, ggsci-iterm-seedflip-phosphor}
+p1 <- p1 + scale_color_iterm("SeedFlip Phosphor")
+p2 <- p2 + scale_fill_iterm("SeedFlip Phosphor")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## SeedFlip Pulse
+
+```{r, ggsci-iterm-seedflip-pulse}
+p1 <- p1 + scale_color_iterm("SeedFlip Pulse")
+p2 <- p2 + scale_fill_iterm("SeedFlip Pulse")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## SeedFlip Ultraviolet
+
+```{r, ggsci-iterm-seedflip-ultraviolet}
+p1 <- p1 + scale_color_iterm("SeedFlip Ultraviolet")
+p2 <- p2 + scale_fill_iterm("SeedFlip Ultraviolet")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## SeedFlip Voltage
+
+```{r, ggsci-iterm-seedflip-voltage}
+p1 <- p1 + scale_color_iterm("SeedFlip Voltage")
+p2 <- p2 + scale_fill_iterm("SeedFlip Voltage")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## SeedFlip Wavelength
+
+```{r, ggsci-iterm-seedflip-wavelength}
+p1 <- p1 + scale_color_iterm("SeedFlip Wavelength")
+p2 <- p2 + scale_fill_iterm("SeedFlip Wavelength")
 grid.arrange(p1, p2, ncol = 2)
 ```
 
@@ -3083,6 +3347,14 @@ grid.arrange(p1, p2, ncol = 2)
 ```{r, ggsci-iterm-sundried}
 p1 <- p1 + scale_color_iterm("Sundried")
 p2 <- p2 + scale_fill_iterm("Sundried")
+grid.arrange(p1, p2, ncol = 2)
+```
+
+## Sunset Drive
+
+```{r, ggsci-iterm-sunset-drive}
+p1 <- p1 + scale_color_iterm("Sunset Drive")
+p2 <- p2 + scale_fill_iterm("Sunset Drive")
 grid.arrange(p1, p2, ncol = 2)
 ```
 
